@@ -4,7 +4,7 @@ An interactive web game to learn French noun genders through a fun, swipe-based 
 
 ## 🎮 Live Demo
 
-**[Play Now on Render](https://french-gender-swipe.onrender.com)** *(Update with your actual URL)*
+**[Play Now on Render](https://french-gender-swipe.onrender.com)** 
 
 ## ✨ Features
 
@@ -17,13 +17,6 @@ An interactive web game to learn French noun genders through a fun, swipe-based 
 - ⚡ **Fast & Lightweight** - Pure HTML/CSS/JS, no framework overhead
 - 🌐 **Offline Ready** - All words stored locally, no API calls needed
 
-## 🚀 Tech Stack
-
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Backend**: Node.js + Express
-- **Fonts**: Google Fonts (Inter, Playfair Display)
-- **Deployment**: Render
-- **CI/CD**: GitHub Actions (auto-deploy on push)
 
 ## 🎯 How to Play
 
@@ -36,28 +29,6 @@ An interactive web game to learn French noun genders through a fun, swipe-based 
 5. Complete all 30 words and see your score!
 6. Review your answers to learn from mistakes
 
-## 🛠️ Local Development
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Abmstpha/french-gender-swipe.git
-cd french-gender-swipe
-
-# Install dependencies
-npm install
-
-# Start the server
-node server.js
-```
-
-Visit `http://localhost:3000` in your browser.
 
 ## 📁 Project Structure
 
@@ -65,7 +36,7 @@ Visit `http://localhost:3000` in your browser.
 french-gender-swipe/
 ├── public/
 │   ├── index.html          # Main game interface
-│   └── words.json          # 1,149+ French words database
+│   └── words.json          # 1,149+ French words database(was using AI API for dynamic generation but cots sucks hahaha)
 ├── server.js               # Express server
 ├── package.json            # Dependencies
 ├── .github/
