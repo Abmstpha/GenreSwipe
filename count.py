@@ -18,25 +18,3 @@ else:
         # Convert tuple back to dict for pretty printing
         d = dict(tup)
         print(d)
-
-
-# import json
-
-# # Load JSON array
-# with open('public/words.json', 'r', encoding='utf-8') as f:
-#     data = json.load(f)
-
-# seen = set()
-# deduped = []
-# for entry in data:
-#     # Use tuple of sorted items for full unique match
-#     tup = tuple(sorted(entry.items()))
-#     if tup not in seen:
-#         seen.add(tup)
-#         deduped.append(entry)
-
-# print(f"Deduplicated: {len(data) - len(deduped)} removed, {len(deduped)} kept.")
-
-# # Overwrite file (or write to new file, e.g. 'words_deduped.json')
-# with open('public/words.json', 'w', encoding='utf-8') as f:
-#     json.dump(deduped, f, ensure_ascii=False, indent=2)

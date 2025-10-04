@@ -1,5837 +1,5747 @@
 [
   {
-    "word":"maison",
-    "gender":"feminine",
-    "translation":"house"
+    "word": "maison",
+    "gender": "feminine",
+    "translation": "house"
   },
   {
-    "word":"ordinateur",
-    "gender":"masculine",
-    "translation":"computer"
+    "word": "ordinateur",
+    "gender": "masculine",
+    "translation": "computer"
   },
   {
-    "word":"voiture",
-    "gender":"feminine",
-    "translation":"car"
+    "word": "voiture",
+    "gender": "feminine",
+    "translation": "car"
   },
   {
-    "word":"chien",
-    "gender":"masculine",
-    "translation":"dog"
+    "word": "chien",
+    "gender": "masculine",
+    "translation": "dog"
   },
   {
-    "word":"fleur",
-    "gender":"feminine",
-    "translation":"flower"
+    "word": "fleur",
+    "gender": "feminine",
+    "translation": "flower"
   },
   {
-    "word":"bureau",
-    "gender":"masculine",
-    "translation":"desk"
+    "word": "bureau",
+    "gender": "masculine",
+    "translation": "desk"
   },
   {
-    "word":"école",
-    "gender":"feminine",
-    "translation":"school"
+    "word": "école",
+    "gender": "feminine",
+    "translation": "school"
   },
   {
-    "word":"livre",
-    "gender":"masculine",
-    "translation":"book"
+    "word": "livre",
+    "gender": "masculine",
+    "translation": "book"
   },
   {
-    "word":"chaise",
-    "gender":"feminine",
-    "translation":"chair"
+    "word": "chaise",
+    "gender": "feminine",
+    "translation": "chair"
   },
   {
-    "word":"soleil",
-    "gender":"masculine",
-    "translation":"sun"
+    "word": "soleil",
+    "gender": "masculine",
+    "translation": "sun"
   },
   {
-    "word":"ville",
-    "gender":"feminine",
-    "translation":"city"
+    "word": "ville",
+    "gender": "feminine",
+    "translation": "city"
   },
   {
-    "word":"jardin",
-    "gender":"masculine",
-    "translation":"garden"
+    "word": "jardin",
+    "gender": "masculine",
+    "translation": "garden"
   },
   {
-    "word":"porte",
-    "gender":"feminine",
-    "translation":"door"
+    "word": "porte",
+    "gender": "feminine",
+    "translation": "door"
   },
   {
-    "word":"train",
-    "gender":"masculine",
-    "translation":"train"
+    "word": "train",
+    "gender": "masculine",
+    "translation": "train"
   },
   {
-    "word":"montagne",
-    "gender":"feminine",
-    "translation":"mountain"
+    "word": "montagne",
+    "gender": "feminine",
+    "translation": "mountain"
   },
   {
-    "word":"pays",
-    "gender":"masculine",
-    "translation":"country"
+    "word": "pays",
+    "gender": "masculine",
+    "translation": "country"
   },
   {
-    "word":"mer",
-    "gender":"feminine",
-    "translation":"sea"
+    "word": "mer",
+    "gender": "feminine",
+    "translation": "sea"
   },
   {
-    "word":"film",
-    "gender":"masculine",
-    "translation":"movie"
+    "word": "film",
+    "gender": "masculine",
+    "translation": "movie"
   },
   {
-    "word":"route",
-    "gender":"feminine",
-    "translation":"road"
+    "word": "route",
+    "gender": "feminine",
+    "translation": "road"
   },
   {
-    "word":"arbre",
-    "gender":"masculine",
-    "translation":"tree"
+    "word": "arbre",
+    "gender": "masculine",
+    "translation": "tree"
   },
   {
-    "word":"musique",
-    "gender":"feminine",
-    "translation":"music"
+    "word": "musique",
+    "gender": "feminine",
+    "translation": "music"
   },
   {
-    "word":"image",
-    "gender":"feminine",
-    "translation":"image"
+    "word": "image",
+    "gender": "feminine",
+    "translation": "image"
   },
   {
-    "word":"plage",
-    "gender":"feminine",
-    "translation":"beach"
+    "word": "plage",
+    "gender": "feminine",
+    "translation": "beach"
   },
   {
-    "word":"ciel",
-    "gender":"masculine",
-    "translation":"sky"
+    "word": "ciel",
+    "gender": "masculine",
+    "translation": "sky"
   },
   {
-    "word":"clé",
-    "gender":"feminine",
-    "translation":"key"
+    "word": "clé",
+    "gender": "feminine",
+    "translation": "key"
   },
   {
-    "word":"papier",
-    "gender":"masculine",
-    "translation":"paper"
+    "word": "papier",
+    "gender": "masculine",
+    "translation": "paper"
   },
   {
-    "word":"restaurant",
-    "gender":"masculine",
-    "translation":"restaurant"
+    "word": "restaurant",
+    "gender": "masculine",
+    "translation": "restaurant"
   },
   {
-    "word":"chaîne",
-    "gender":"feminine",
-    "translation":"chain"
+    "word": "chaîne",
+    "gender": "feminine",
+    "translation": "chain"
   },
   {
-    "word":"vélo",
-    "gender":"masculine",
-    "translation":"bicycle"
+    "word": "vélo",
+    "gender": "masculine",
+    "translation": "bicycle"
   },
   {
-    "word":"fenêtre",
-    "gender":"feminine",
-    "translation":"window"
+    "word": "fenêtre",
+    "gender": "feminine",
+    "translation": "window"
   },
   {
-    "word":"stylo",
-    "gender":"masculine",
-    "translation":"pen"
+    "word": "stylo",
+    "gender": "masculine",
+    "translation": "pen"
   },
   {
-    "word":"montre",
-    "gender":"feminine",
-    "translation":"watch"
+    "word": "montre",
+    "gender": "feminine",
+    "translation": "watch"
   },
   {
-    "word":"café",
-    "gender":"masculine",
-    "translation":"coffee"
+    "word": "café",
+    "gender": "masculine",
+    "translation": "coffee"
   },
   {
-    "word":"horloge",
-    "gender":"feminine",
-    "translation":"clock"
+    "word": "horloge",
+    "gender": "feminine",
+    "translation": "clock"
   },
   {
-    "word":"chapeau",
-    "gender":"masculine",
-    "translation":"hat"
+    "word": "chapeau",
+    "gender": "masculine",
+    "translation": "hat"
   },
   {
-    "word":"étoile",
-    "gender":"feminine",
-    "translation":"star"
+    "word": "étoile",
+    "gender": "feminine",
+    "translation": "star"
   },
   {
-    "word":"tableau",
-    "gender":"masculine",
-    "translation":"painting"
+    "word": "tableau",
+    "gender": "masculine",
+    "translation": "painting"
   },
   {
-    "word":"lune",
-    "gender":"feminine",
-    "translation":"moon"
+    "word": "lune",
+    "gender": "feminine",
+    "translation": "moon"
   },
   {
-    "word":"pantalon",
-    "gender":"masculine",
-    "translation":"pants"
+    "word": "pantalon",
+    "gender": "masculine",
+    "translation": "pants"
   },
   {
-    "word":"chaussure",
-    "gender":"feminine",
-    "translation":"shoe"
+    "word": "chaussure",
+    "gender": "feminine",
+    "translation": "shoe"
   },
   {
-    "word":"bateau",
-    "gender":"masculine",
-    "translation":"boat"
+    "word": "bateau",
+    "gender": "masculine",
+    "translation": "boat"
   },
   {
-    "word":"journal",
-    "gender":"masculine",
-    "translation":"newspaper"
+    "word": "journal",
+    "gender": "masculine",
+    "translation": "newspaper"
   },
   {
-    "word":"robe",
-    "gender":"feminine",
-    "translation":"dress"
+    "word": "robe",
+    "gender": "feminine",
+    "translation": "dress"
   },
   {
-    "word":"téléphone",
-    "gender":"masculine",
-    "translation":"telephone"
+    "word": "téléphone",
+    "gender": "masculine",
+    "translation": "telephone"
   },
   {
-    "word":"fête",
-    "gender":"feminine",
-    "translation":"party"
+    "word": "fête",
+    "gender": "feminine",
+    "translation": "party"
   },
   {
-    "word":"chambre",
-    "gender":"feminine",
-    "translation":"room"
+    "word": "chambre",
+    "gender": "feminine",
+    "translation": "room"
   },
   {
-    "word":"chat",
-    "gender":"masculine",
-    "translation":"cat"
+    "word": "chat",
+    "gender": "masculine",
+    "translation": "cat"
   },
   {
-    "word":"machine",
-    "gender":"feminine",
-    "translation":"machine"
+    "word": "machine",
+    "gender": "feminine",
+    "translation": "machine"
   },
   {
-    "word":"logiciel",
-    "gender":"masculine",
-    "translation":"software"
+    "word": "logiciel",
+    "gender": "masculine",
+    "translation": "software"
   },
   {
-    "word":"robot",
-    "gender":"masculine",
-    "translation":"robot"
+    "word": "robot",
+    "gender": "masculine",
+    "translation": "robot"
   },
   {
-    "word":"clé USB",
-    "gender":"feminine",
-    "translation":"USB key"
+    "word": "clé USB",
+    "gender": "feminine",
+    "translation": "USB key"
   },
   {
-    "word":"souris",
-    "gender":"feminine",
-    "translation":"mouse"
+    "word": "souris",
+    "gender": "feminine",
+    "translation": "mouse"
   },
   {
-    "word":"serveur",
-    "gender":"masculine",
-    "translation":"server"
+    "word": "serveur",
+    "gender": "masculine",
+    "translation": "server"
   },
   {
-    "word":"réseau",
-    "gender":"masculine",
-    "translation":"network"
+    "word": "réseau",
+    "gender": "masculine",
+    "translation": "network"
   },
   {
-    "word":"écran",
-    "gender":"masculine",
-    "translation":"screen"
+    "word": "écran",
+    "gender": "masculine",
+    "translation": "screen"
   },
   {
-    "word":"télévision",
-    "gender":"feminine",
-    "translation":"television"
+    "word": "télévision",
+    "gender": "feminine",
+    "translation": "television"
   },
   {
-    "word":"application",
-    "gender":"feminine",
-    "translation":"application"
+    "word": "application",
+    "gender": "feminine",
+    "translation": "application"
   },
   {
-    "word":"clavier",
-    "gender":"masculine",
-    "translation":"keyboard"
+    "word": "clavier",
+    "gender": "masculine",
+    "translation": "keyboard"
   },
   {
-    "word":"microprocesseur",
-    "gender":"masculine",
-    "translation":"microprocessor"
+    "word": "microprocesseur",
+    "gender": "masculine",
+    "translation": "microprocessor"
   },
   {
-    "word":"donnée",
-    "gender":"feminine",
-    "translation":"data"
+    "word": "donnée",
+    "gender": "feminine",
+    "translation": "data"
   },
   {
-    "word":"programme",
-    "gender":"masculine",
-    "translation":"program"
+    "word": "programme",
+    "gender": "masculine",
+    "translation": "program"
   },
   {
-    "word":"base",
-    "gender":"feminine",
-    "translation":"base"
+    "word": "base",
+    "gender": "feminine",
+    "translation": "base"
   },
   {
-    "word":"serveuse",
-    "gender":"feminine",
-    "translation":"waitress"
+    "word": "serveuse",
+    "gender": "feminine",
+    "translation": "waitress"
   },
   {
-    "word":"ingénieur",
-    "gender":"masculine",
-    "translation":"engineer"
+    "word": "ingénieur",
+    "gender": "masculine",
+    "translation": "engineer"
   },
   {
-    "word":"pilote",
-    "gender":"masculine",
-    "translation":"pilot"
+    "word": "pilote",
+    "gender": "masculine",
+    "translation": "pilot"
   },
   {
-    "word":"docteur",
-    "gender":"masculine",
-    "translation":"doctor"
+    "word": "docteur",
+    "gender": "masculine",
+    "translation": "doctor"
   },
   {
-    "word":"infirmière",
-    "gender":"feminine",
-    "translation":"nurse"
+    "word": "infirmière",
+    "gender": "feminine",
+    "translation": "nurse"
   },
   {
-    "word":"pharmacien",
-    "gender":"masculine",
-    "translation":"pharmacist"
+    "word": "pharmacien",
+    "gender": "masculine",
+    "translation": "pharmacist"
   },
   {
-    "word":"avocat",
-    "gender":"masculine",
-    "translation":"lawyer"
+    "word": "avocat",
+    "gender": "masculine",
+    "translation": "lawyer"
   },
   {
-    "word":"professeur",
-    "gender":"masculine",
-    "translation":"teacher"
+    "word": "professeur",
+    "gender": "masculine",
+    "translation": "teacher"
   },
   {
-    "word":"étudiant",
-    "gender":"masculine",
-    "translation":"student"
+    "word": "étudiant",
+    "gender": "masculine",
+    "translation": "student"
   },
   {
-    "word":"architecte",
-    "gender":"masculine",
-    "translation":"architect"
+    "word": "architecte",
+    "gender": "masculine",
+    "translation": "architect"
   },
   {
-    "word":"journaliste",
-    "gender":"masculine",
-    "translation":"journalist"
+    "word": "journaliste",
+    "gender": "masculine",
+    "translation": "journalist"
   },
   {
-    "word":"acteur",
-    "gender":"masculine",
-    "translation":"actor"
+    "word": "acteur",
+    "gender": "masculine",
+    "translation": "actor"
   },
   {
-    "word":"artiste",
-    "gender":"masculine",
-    "translation":"artist"
+    "word": "artiste",
+    "gender": "masculine",
+    "translation": "artist"
   },
   {
-    "word":"musicien",
-    "gender":"masculine",
-    "translation":"musician"
+    "word": "musicien",
+    "gender": "masculine",
+    "translation": "musician"
   },
   {
-    "word":"écrivain",
-    "gender":"masculine",
-    "translation":"writer"
+    "word": "écrivain",
+    "gender": "masculine",
+    "translation": "writer"
   },
   {
-    "word":"poète",
-    "gender":"masculine",
-    "translation":"poet"
+    "word": "poète",
+    "gender": "masculine",
+    "translation": "poet"
   },
   {
-    "word":"réalisateur",
-    "gender":"masculine",
-    "translation":"director"
+    "word": "réalisateur",
+    "gender": "masculine",
+    "translation": "director"
   },
   {
-    "word":"chef",
-    "gender":"masculine",
-    "translation":"chef"
+    "word": "chef",
+    "gender": "masculine",
+    "translation": "chef"
   },
   {
-    "word":"cuisinier",
-    "gender":"masculine",
-    "translation":"cook"
+    "word": "cuisinier",
+    "gender": "masculine",
+    "translation": "cook"
   },
   {
-    "word":"boulanger",
-    "gender":"masculine",
-    "translation":"baker"
+    "word": "boulanger",
+    "gender": "masculine",
+    "translation": "baker"
   },
   {
-    "word":"vendeur",
-    "gender":"masculine",
-    "translation":"seller"
+    "word": "vendeur",
+    "gender": "masculine",
+    "translation": "seller"
   },
   {
-    "word":"client",
-    "gender":"masculine",
-    "translation":"client"
+    "word": "client",
+    "gender": "masculine",
+    "translation": "client"
   },
   {
-    "word":"patron",
-    "gender":"masculine",
-    "translation":"boss"
+    "word": "patron",
+    "gender": "masculine",
+    "translation": "boss"
   },
   {
-    "word":"employé",
-    "gender":"masculine",
-    "translation":"employee"
+    "word": "employé",
+    "gender": "masculine",
+    "translation": "employee"
   },
   {
-    "word":"secrétaire",
-    "gender":"feminine",
-    "translation":"secretary"
+    "word": "secrétaire",
+    "gender": "feminine",
+    "translation": "secretary"
   },
   {
-    "word":"directeur",
-    "gender":"masculine",
-    "translation":"director"
+    "word": "directeur",
+    "gender": "masculine",
+    "translation": "director"
   },
   {
-    "word":"assistant",
-    "gender":"masculine",
-    "translation":"assistant"
+    "word": "assistant",
+    "gender": "masculine",
+    "translation": "assistant"
   },
   {
-    "word":"technicien",
-    "gender":"masculine",
-    "translation":"technician"
+    "word": "technicien",
+    "gender": "masculine",
+    "translation": "technician"
   },
   {
-    "word":"ouvrier",
-    "gender":"masculine",
-    "translation":"worker"
+    "word": "ouvrier",
+    "gender": "masculine",
+    "translation": "worker"
   },
   {
-    "word":"artisan",
-    "gender":"masculine",
-    "translation":"artisan"
+    "word": "artisan",
+    "gender": "masculine",
+    "translation": "artisan"
   },
   {
-    "word":"agriculteur",
-    "gender":"masculine",
-    "translation":"farmer"
+    "word": "agriculteur",
+    "gender": "masculine",
+    "translation": "farmer"
   },
   {
-    "word":"pêcheur",
-    "gender":"masculine",
-    "translation":"fisherman"
+    "word": "pêcheur",
+    "gender": "masculine",
+    "translation": "fisherman"
   },
   {
-    "word":"chauffeur",
-    "gender":"masculine",
-    "translation":"driver"
+    "word": "chauffeur",
+    "gender": "masculine",
+    "translation": "driver"
   },
   {
-    "word":"policier",
-    "gender":"masculine",
-    "translation":"policeman"
+    "word": "policier",
+    "gender": "masculine",
+    "translation": "policeman"
   },
   {
-    "word":"soldat",
-    "gender":"masculine",
-    "translation":"soldier"
+    "word": "soldat",
+    "gender": "masculine",
+    "translation": "soldier"
   },
   {
-    "word":"pompière",
-    "gender":"feminine",
-    "translation":"firefighter"
+    "word": "pompière",
+    "gender": "feminine",
+    "translation": "firefighter"
   },
   {
-    "word":"juges",
-    "gender":"masculine",
-    "translation":"judge"
+    "word": "juges",
+    "gender": "masculine",
+    "translation": "judge"
   },
   {
-    "word":"prêtre",
-    "gender":"masculine",
-    "translation":"priest"
+    "word": "prêtre",
+    "gender": "masculine",
+    "translation": "priest"
   },
   {
-    "word":"moine",
-    "gender":"masculine",
-    "translation":"monk"
+    "word": "moine",
+    "gender": "masculine",
+    "translation": "monk"
   },
   {
-    "word":"religieuse",
-    "gender":"feminine",
-    "translation":"nun"
+    "word": "religieuse",
+    "gender": "feminine",
+    "translation": "nun"
   },
   {
-    "word":"roi",
-    "gender":"masculine",
-    "translation":"king"
+    "word": "roi",
+    "gender": "masculine",
+    "translation": "king"
   },
   {
-    "word":"reine",
-    "gender":"feminine",
-    "translation":"queen"
+    "word": "reine",
+    "gender": "feminine",
+    "translation": "queen"
   },
   {
-    "word":"empereur",
-    "gender":"masculine",
-    "translation":"emperor"
+    "word": "empereur",
+    "gender": "masculine",
+    "translation": "emperor"
   },
   {
-    "word":"princesse",
-    "gender":"feminine",
-    "translation":"princess"
+    "word": "princesse",
+    "gender": "feminine",
+    "translation": "princess"
   },
   {
-    "word":"guerrier",
-    "gender":"masculine",
-    "translation":"warrior"
+    "word": "guerrier",
+    "gender": "masculine",
+    "translation": "warrior"
   },
   {
-    "word":"chef",
-    "gender":"masculine",
-    "translation":"chief"
+    "word": "leader",
+    "gender": "masculine",
+    "translation": "leader"
   },
   {
-    "word":"leader",
-    "gender":"masculine",
-    "translation":"leader"
+    "word": "chef d'entreprise",
+    "gender": "masculine",
+    "translation": "business leader"
   },
   {
-    "word":"chef d'entreprise",
-    "gender":"masculine",
-    "translation":"business leader"
+    "word": "patronne",
+    "gender": "feminine",
+    "translation": "boss"
   },
   {
-    "word":"patronne",
-    "gender":"feminine",
-    "translation":"boss"
+    "word": "collègue",
+    "gender": "masculine",
+    "translation": "colleague"
   },
   {
-    "word":"collègue",
-    "gender":"masculine",
-    "translation":"colleague"
+    "word": "ami",
+    "gender": "masculine",
+    "translation": "friend"
   },
   {
-    "word":"ami",
-    "gender":"masculine",
-    "translation":"friend"
+    "word": "amie",
+    "gender": "feminine",
+    "translation": "friend"
   },
   {
-    "word":"amie",
-    "gender":"feminine",
-    "translation":"friend"
+    "word": "voisin",
+    "gender": "masculine",
+    "translation": "neighbor"
   },
   {
-    "word":"voisin",
-    "gender":"masculine",
-    "translation":"neighbor"
+    "word": "voisine",
+    "gender": "feminine",
+    "translation": "neighbor"
   },
   {
-    "word":"voisine",
-    "gender":"feminine",
-    "translation":"neighbor"
+    "word": "vendeuse",
+    "gender": "feminine",
+    "translation": "saleswoman"
   },
   {
-    "word":"client",
-    "gender":"masculine",
-    "translation":"customer"
+    "word": "passager",
+    "gender": "masculine",
+    "translation": "passenger"
   },
   {
-    "word":"vendeuse",
-    "gender":"feminine",
-    "translation":"saleswoman"
+    "word": "touriste",
+    "gender": "masculine",
+    "translation": "tourist"
   },
   {
-    "word":"passager",
-    "gender":"masculine",
-    "translation":"passenger"
+    "word": "voyageur",
+    "gender": "masculine",
+    "translation": "traveler"
   },
   {
-    "word":"touriste",
-    "gender":"masculine",
-    "translation":"tourist"
+    "word": "citoyen",
+    "gender": "masculine",
+    "translation": "citizen"
   },
   {
-    "word":"voyageur",
-    "gender":"masculine",
-    "translation":"traveler"
+    "word": "résident",
+    "gender": "masculine",
+    "translation": "resident"
   },
   {
-    "word":"citoyen",
-    "gender":"masculine",
-    "translation":"citizen"
+    "word": "enfant",
+    "gender": "masculine",
+    "translation": "child"
   },
   {
-    "word":"résident",
-    "gender":"masculine",
-    "translation":"resident"
+    "word": "bébé",
+    "gender": "masculine",
+    "translation": "baby"
   },
   {
-    "word":"enfant",
-    "gender":"masculine",
-    "translation":"child"
+    "word": "adolescent",
+    "gender": "masculine",
+    "translation": "teenager"
   },
   {
-    "word":"bébé",
-    "gender":"masculine",
-    "translation":"baby"
+    "word": "jeune",
+    "gender": "masculine",
+    "translation": "young person"
   },
   {
-    "word":"adolescent",
-    "gender":"masculine",
-    "translation":"teenager"
+    "word": "adulte",
+    "gender": "masculine",
+    "translation": "adult"
   },
   {
-    "word":"jeune",
-    "gender":"masculine",
-    "translation":"young person"
+    "word": "personne",
+    "gender": "feminine",
+    "translation": "person"
   },
   {
-    "word":"adulte",
-    "gender":"masculine",
-    "translation":"adult"
+    "word": "femme",
+    "gender": "feminine",
+    "translation": "woman"
   },
   {
-    "word":"personne",
-    "gender":"feminine",
-    "translation":"person"
+    "word": "homme",
+    "gender": "masculine",
+    "translation": "man"
   },
   {
-    "word":"femme",
-    "gender":"feminine",
-    "translation":"woman"
+    "word": "mari",
+    "gender": "masculine",
+    "translation": "husband"
   },
   {
-    "word":"homme",
-    "gender":"masculine",
-    "translation":"man"
+    "word": "père",
+    "gender": "masculine",
+    "translation": "father"
   },
   {
-    "word":"mari",
-    "gender":"masculine",
-    "translation":"husband"
+    "word": "mère",
+    "gender": "feminine",
+    "translation": "mother"
   },
   {
-    "word":"femme",
-    "gender":"feminine",
-    "translation":"wife"
+    "word": "frère",
+    "gender": "masculine",
+    "translation": "brother"
   },
   {
-    "word":"père",
-    "gender":"masculine",
-    "translation":"father"
+    "word": "sœur",
+    "gender": "feminine",
+    "translation": "sister"
   },
   {
-    "word":"mère",
-    "gender":"feminine",
-    "translation":"mother"
+    "word": "oncle",
+    "gender": "masculine",
+    "translation": "uncle"
   },
   {
-    "word":"frère",
-    "gender":"masculine",
-    "translation":"brother"
+    "word": "tante",
+    "gender": "feminine",
+    "translation": "aunt"
   },
   {
-    "word":"sœur",
-    "gender":"feminine",
-    "translation":"sister"
+    "word": "cousin",
+    "gender": "masculine",
+    "translation": "cousin"
   },
   {
-    "word":"oncle",
-    "gender":"masculine",
-    "translation":"uncle"
+    "word": "cousine",
+    "gender": "feminine",
+    "translation": "cousin"
   },
   {
-    "word":"tante",
-    "gender":"feminine",
-    "translation":"aunt"
+    "word": "grand-père",
+    "gender": "masculine",
+    "translation": "grandfather"
   },
   {
-    "word":"cousin",
-    "gender":"masculine",
-    "translation":"cousin"
+    "word": "grand-mère",
+    "gender": "feminine",
+    "translation": "grandmother"
   },
   {
-    "word":"cousine",
-    "gender":"feminine",
-    "translation":"cousin"
+    "word": "étranger",
+    "gender": "masculine",
+    "translation": "foreigner"
   },
   {
-    "word":"grand-père",
-    "gender":"masculine",
-    "translation":"grandfather"
+    "word": "immigré",
+    "gender": "masculine",
+    "translation": "immigrant"
   },
   {
-    "word":"grand-mère",
-    "gender":"feminine",
-    "translation":"grandmother"
+    "word": "migrant",
+    "gender": "masculine",
+    "translation": "migrant"
   },
   {
-    "word":"étranger",
-    "gender":"masculine",
-    "translation":"foreigner"
+    "word": "sans-abri",
+    "gender": "masculine",
+    "translation": "homeless person"
   },
   {
-    "word":"immigré",
-    "gender":"masculine",
-    "translation":"immigrant"
+    "word": "pauvre",
+    "gender": "masculine",
+    "translation": "poor person"
   },
   {
-    "word":"migrant",
-    "gender":"masculine",
-    "translation":"migrant"
+    "word": "riche",
+    "gender": "masculine",
+    "translation": "rich person"
   },
   {
-    "word":"sans-abri",
-    "gender":"masculine",
-    "translation":"homeless person"
+    "word": "travailleur",
+    "gender": "masculine",
+    "translation": "worker"
   },
   {
-    "word":"pauvre",
-    "gender":"masculine",
-    "translation":"poor person"
+    "word": "chômeur",
+    "gender": "masculine",
+    "translation": "unemployed person"
   },
   {
-    "word":"riche",
-    "gender":"masculine",
-    "translation":"rich person"
+    "word": "fonctionnaire",
+    "gender": "masculine",
+    "translation": "civil servant"
   },
   {
-    "word":"travailleur",
-    "gender":"masculine",
-    "translation":"worker"
+    "word": "athlète",
+    "gender": "masculine",
+    "translation": "athlete"
   },
   {
-    "word":"chômeur",
-    "gender":"masculine",
-    "translation":"unemployed person"
+    "word": "joueur",
+    "gender": "masculine",
+    "translation": "player"
   },
   {
-    "word":"fonctionnaire",
-    "gender":"masculine",
-    "translation":"civil servant"
+    "word": "chercheur",
+    "gender": "masculine",
+    "translation": "researcher"
   },
   {
-    "word":"athlète",
-    "gender":"masculine",
-    "translation":"athlete"
+    "word": "scientifique",
+    "gender": "masculine",
+    "translation": "scientist"
   },
   {
-    "word":"joueur",
-    "gender":"masculine",
-    "translation":"player"
+    "word": "médecin",
+    "gender": "masculine",
+    "translation": "doctor"
   },
   {
-    "word":"chercheur",
-    "gender":"masculine",
-    "translation":"researcher"
+    "word": "infirmier",
+    "gender": "masculine",
+    "translation": "nurse"
   },
   {
-    "word":"scientifique",
-    "gender":"masculine",
-    "translation":"scientist"
+    "word": "pompiers",
+    "gender": "masculine",
+    "translation": "firefighters"
   },
   {
-    "word":"médecin",
-    "gender":"masculine",
-    "translation":"doctor"
+    "word": "juge",
+    "gender": "masculine",
+    "translation": "judge"
   },
   {
-    "word":"infirmier",
-    "gender":"masculine",
-    "translation":"nurse"
+    "word": "politicien",
+    "gender": "masculine",
+    "translation": "politician"
   },
   {
-    "word":"pompiers",
-    "gender":"masculine",
-    "translation":"firefighters"
+    "word": "président",
+    "gender": "masculine",
+    "translation": "president"
   },
   {
-    "word":"juge",
-    "gender":"masculine",
-    "translation":"judge"
+    "word": "ministre",
+    "gender": "masculine",
+    "translation": "minister"
   },
   {
-    "word":"politicien",
-    "gender":"masculine",
-    "translation":"politician"
+    "word": "ambassadeur",
+    "gender": "masculine",
+    "translation": "ambassador"
   },
   {
-    "word":"président",
-    "gender":"masculine",
-    "translation":"president"
+    "word": "diplomate",
+    "gender": "masculine",
+    "translation": "diplomat"
   },
   {
-    "word":"ministre",
-    "gender":"masculine",
-    "translation":"minister"
+    "word": "reporter",
+    "gender": "masculine",
+    "translation": "reporter"
   },
   {
-    "word":"ambassadeur",
-    "gender":"masculine",
-    "translation":"ambassador"
+    "word": "photographe",
+    "gender": "masculine",
+    "translation": "photographer"
   },
   {
-    "word":"diplomate",
-    "gender":"masculine",
-    "translation":"diplomat"
+    "word": "producteur",
+    "gender": "masculine",
+    "translation": "producer"
   },
   {
-    "word":"reporter",
-    "gender":"masculine",
-    "translation":"reporter"
+    "word": "électricien",
+    "gender": "masculine",
+    "translation": "electrician"
   },
   {
-    "word":"photographe",
-    "gender":"masculine",
-    "translation":"photographer"
+    "word": "plombier",
+    "gender": "masculine",
+    "translation": "plumber"
   },
   {
-    "word":"producteur",
-    "gender":"masculine",
-    "translation":"producer"
+    "word": "menuisier",
+    "gender": "masculine",
+    "translation": "carpenter"
   },
   {
-    "word":"électricien",
-    "gender":"masculine",
-    "translation":"electrician"
+    "word": "maçon",
+    "gender": "masculine",
+    "translation": "bricklayer"
   },
   {
-    "word":"plombier",
-    "gender":"masculine",
-    "translation":"plumber"
+    "word": "peintre",
+    "gender": "masculine",
+    "translation": "painter"
   },
   {
-    "word":"menuisier",
-    "gender":"masculine",
-    "translation":"carpenter"
+    "word": "conducteur",
+    "gender": "masculine",
+    "translation": "driver"
   },
   {
-    "word":"maçon",
-    "gender":"masculine",
-    "translation":"bricklayer"
+    "word": "étang",
+    "gender": "masculine",
+    "translation": "pond"
   },
   {
-    "word":"peintre",
-    "gender":"masculine",
-    "translation":"painter"
+    "word": "rivière",
+    "gender": "feminine",
+    "translation": "river"
   },
   {
-    "word":"conducteur",
-    "gender":"masculine",
-    "translation":"driver"
+    "word": "lac",
+    "gender": "masculine",
+    "translation": "lake"
   },
   {
-    "word":"serveur",
-    "gender":"masculine",
-    "translation":"waiter"
+    "word": "forêt",
+    "gender": "feminine",
+    "translation": "forest"
   },
   {
-    "word":"étang",
-    "gender":"masculine",
-    "translation":"pond"
+    "word": "plaine",
+    "gender": "feminine",
+    "translation": "plain"
   },
   {
-    "word":"rivière",
-    "gender":"feminine",
-    "translation":"river"
+    "word": "désert",
+    "gender": "masculine",
+    "translation": "desert"
   },
   {
-    "word":"lac",
-    "gender":"masculine",
-    "translation":"lake"
+    "word": "île",
+    "gender": "feminine",
+    "translation": "island"
   },
   {
-    "word":"forêt",
-    "gender":"feminine",
-    "translation":"forest"
+    "word": "océan",
+    "gender": "masculine",
+    "translation": "ocean"
   },
   {
-    "word":"plaine",
-    "gender":"feminine",
-    "translation":"plain"
+    "word": "cascade",
+    "gender": "feminine",
+    "translation": "waterfall"
   },
   {
-    "word":"désert",
-    "gender":"masculine",
-    "translation":"desert"
+    "word": "vallée",
+    "gender": "feminine",
+    "translation": "valley"
   },
   {
-    "word":"île",
-    "gender":"feminine",
-    "translation":"island"
+    "word": "colline",
+    "gender": "feminine",
+    "translation": "hill"
   },
   {
-    "word":"océan",
-    "gender":"masculine",
-    "translation":"ocean"
+    "word": "falaise",
+    "gender": "feminine",
+    "translation": "cliff"
   },
   {
-    "word":"cascade",
-    "gender":"feminine",
-    "translation":"waterfall"
+    "word": "rocher",
+    "gender": "masculine",
+    "translation": "rock"
   },
   {
-    "word":"vallée",
-    "gender":"feminine",
-    "translation":"valley"
+    "word": "terre",
+    "gender": "feminine",
+    "translation": "earth"
   },
   {
-    "word":"colline",
-    "gender":"feminine",
-    "translation":"hill"
+    "word": "nuage",
+    "gender": "masculine",
+    "translation": "cloud"
   },
   {
-    "word":"falaise",
-    "gender":"feminine",
-    "translation":"cliff"
+    "word": "vent",
+    "gender": "masculine",
+    "translation": "wind"
   },
   {
-    "word":"rocher",
-    "gender":"masculine",
-    "translation":"rock"
+    "word": "pluie",
+    "gender": "feminine",
+    "translation": "rain"
   },
   {
-    "word":"terre",
-    "gender":"feminine",
-    "translation":"earth"
+    "word": "neige",
+    "gender": "feminine",
+    "translation": "snow"
   },
   {
-    "word":"nuage",
-    "gender":"masculine",
-    "translation":"cloud"
+    "word": "orage",
+    "gender": "masculine",
+    "translation": "storm"
   },
   {
-    "word":"vent",
-    "gender":"masculine",
-    "translation":"wind"
+    "word": "tonnerre",
+    "gender": "masculine",
+    "translation": "thunder"
   },
   {
-    "word":"pluie",
-    "gender":"feminine",
-    "translation":"rain"
+    "word": "foudre",
+    "gender": "feminine",
+    "translation": "lightning"
   },
   {
-    "word":"neige",
-    "gender":"feminine",
-    "translation":"snow"
+    "word": "feu",
+    "gender": "masculine",
+    "translation": "fire"
   },
   {
-    "word":"orage",
-    "gender":"masculine",
-    "translation":"storm"
+    "word": "fumée",
+    "gender": "feminine",
+    "translation": "smoke"
   },
   {
-    "word":"tonnerre",
-    "gender":"masculine",
-    "translation":"thunder"
+    "word": "glace",
+    "gender": "feminine",
+    "translation": "ice"
   },
   {
-    "word":"foudre",
-    "gender":"feminine",
-    "translation":"lightning"
+    "word": "eau",
+    "gender": "feminine",
+    "translation": "water"
   },
   {
-    "word":"feu",
-    "gender":"masculine",
-    "translation":"fire"
+    "word": "roche",
+    "gender": "feminine",
+    "translation": "rock"
   },
   {
-    "word":"fumée",
-    "gender":"feminine",
-    "translation":"smoke"
+    "word": "sable",
+    "gender": "masculine",
+    "translation": "sand"
   },
   {
-    "word":"glace",
-    "gender":"feminine",
-    "translation":"ice"
+    "word": "boue",
+    "gender": "feminine",
+    "translation": "mud"
   },
   {
-    "word":"eau",
-    "gender":"feminine",
-    "translation":"water"
+    "word": "herbe",
+    "gender": "feminine",
+    "translation": "grass"
   },
   {
-    "word":"roche",
-    "gender":"feminine",
-    "translation":"rock"
+    "word": "feuille",
+    "gender": "feminine",
+    "translation": "leaf"
   },
   {
-    "word":"sable",
-    "gender":"masculine",
-    "translation":"sand"
+    "word": "racine",
+    "gender": "feminine",
+    "translation": "root"
   },
   {
-    "word":"boue",
-    "gender":"feminine",
-    "translation":"mud"
+    "word": "branche",
+    "gender": "feminine",
+    "translation": "branch"
   },
   {
-    "word":"herbe",
-    "gender":"feminine",
-    "translation":"grass"
+    "word": "fruit",
+    "gender": "masculine",
+    "translation": "fruit"
   },
   {
-    "word":"feuille",
-    "gender":"feminine",
-    "translation":"leaf"
+    "word": "légume",
+    "gender": "masculine",
+    "translation": "vegetable"
   },
   {
-    "word":"racine",
-    "gender":"feminine",
-    "translation":"root"
+    "word": "grain",
+    "gender": "masculine",
+    "translation": "grain"
   },
   {
-    "word":"branche",
-    "gender":"feminine",
-    "translation":"branch"
+    "word": "semence",
+    "gender": "feminine",
+    "translation": "seed"
   },
   {
-    "word":"fruit",
-    "gender":"masculine",
-    "translation":"fruit"
+    "word": "buisson",
+    "gender": "masculine",
+    "translation": "bush"
   },
   {
-    "word":"légume",
-    "gender":"masculine",
-    "translation":"vegetable"
+    "word": "plante",
+    "gender": "feminine",
+    "translation": "plant"
   },
   {
-    "word":"grain",
-    "gender":"masculine",
-    "translation":"grain"
+    "word": "champ",
+    "gender": "masculine",
+    "translation": "field"
   },
   {
-    "word":"semence",
-    "gender":"feminine",
-    "translation":"seed"
+    "word": "parc",
+    "gender": "masculine",
+    "translation": "park"
   },
   {
-    "word":"buisson",
-    "gender":"masculine",
-    "translation":"bush"
+    "word": "prairie",
+    "gender": "feminine",
+    "translation": "meadow"
   },
   {
-    "word":"plante",
-    "gender":"feminine",
-    "translation":"plant"
+    "word": "mousse",
+    "gender": "feminine",
+    "translation": "moss"
   },
   {
-    "word":"champ",
-    "gender":"masculine",
-    "translation":"field"
+    "word": "algue",
+    "gender": "feminine",
+    "translation": "algae"
   },
   {
-    "word":"parc",
-    "gender":"masculine",
-    "translation":"park"
+    "word": "champignon",
+    "gender": "masculine",
+    "translation": "mushroom"
   },
   {
-    "word":"prairie",
-    "gender":"feminine",
-    "translation":"meadow"
+    "word": "animal",
+    "gender": "masculine",
+    "translation": "animal"
   },
   {
-    "word":"mousse",
-    "gender":"feminine",
-    "translation":"moss"
+    "word": "oiseau",
+    "gender": "masculine",
+    "translation": "bird"
   },
   {
-    "word":"algue",
-    "gender":"feminine",
-    "translation":"algae"
+    "word": "poisson",
+    "gender": "masculine",
+    "translation": "fish"
   },
   {
-    "word":"champignon",
-    "gender":"masculine",
-    "translation":"mushroom"
+    "word": "cheval",
+    "gender": "masculine",
+    "translation": "horse"
   },
   {
-    "word":"animal",
-    "gender":"masculine",
-    "translation":"animal"
+    "word": "vache",
+    "gender": "feminine",
+    "translation": "cow"
   },
   {
-    "word":"oiseau",
-    "gender":"masculine",
-    "translation":"bird"
+    "word": "mouton",
+    "gender": "masculine",
+    "translation": "sheep"
   },
   {
-    "word":"poisson",
-    "gender":"masculine",
-    "translation":"fish"
+    "word": "cochon",
+    "gender": "masculine",
+    "translation": "pig"
   },
   {
-    "word":"cheval",
-    "gender":"masculine",
-    "translation":"horse"
+    "word": "âne",
+    "gender": "masculine",
+    "translation": "donkey"
   },
   {
-    "word":"vache",
-    "gender":"feminine",
-    "translation":"cow"
+    "word": "lapin",
+    "gender": "masculine",
+    "translation": "rabbit"
   },
   {
-    "word":"mouton",
-    "gender":"masculine",
-    "translation":"sheep"
+    "word": "serpent",
+    "gender": "masculine",
+    "translation": "snake"
   },
   {
-    "word":"cochon",
-    "gender":"masculine",
-    "translation":"pig"
+    "word": "grenouille",
+    "gender": "feminine",
+    "translation": "frog"
   },
   {
-    "word":"âne",
-    "gender":"masculine",
-    "translation":"donkey"
+    "word": "papillon",
+    "gender": "masculine",
+    "translation": "butterfly"
   },
   {
-    "word":"lapin",
-    "gender":"masculine",
-    "translation":"rabbit"
+    "word": "abeille",
+    "gender": "feminine",
+    "translation": "bee"
   },
   {
-    "word":"serpent",
-    "gender":"masculine",
-    "translation":"snake"
+    "word": "fourmi",
+    "gender": "feminine",
+    "translation": "ant"
   },
   {
-    "word":"grenouille",
-    "gender":"feminine",
-    "translation":"frog"
+    "word": "araignée",
+    "gender": "feminine",
+    "translation": "spider"
   },
   {
-    "word":"papillon",
-    "gender":"masculine",
-    "translation":"butterfly"
+    "word": "mouche",
+    "gender": "feminine",
+    "translation": "fly"
   },
   {
-    "word":"abeille",
-    "gender":"feminine",
-    "translation":"bee"
+    "word": "moustique",
+    "gender": "masculine",
+    "translation": "mosquito"
   },
   {
-    "word":"fourmi",
-    "gender":"feminine",
-    "translation":"ant"
+    "word": "lion",
+    "gender": "masculine",
+    "translation": "lion"
   },
   {
-    "word":"araignée",
-    "gender":"feminine",
-    "translation":"spider"
+    "word": "tigre",
+    "gender": "masculine",
+    "translation": "tiger"
   },
   {
-    "word":"mouche",
-    "gender":"feminine",
-    "translation":"fly"
+    "word": "éléphant",
+    "gender": "masculine",
+    "translation": "elephant"
   },
   {
-    "word":"moustique",
-    "gender":"masculine",
-    "translation":"mosquito"
+    "word": "ours",
+    "gender": "masculine",
+    "translation": "bear"
   },
   {
-    "word":"lion",
-    "gender":"masculine",
-    "translation":"lion"
+    "word": "loup",
+    "gender": "masculine",
+    "translation": "wolf"
   },
   {
-    "word":"tigre",
-    "gender":"masculine",
-    "translation":"tiger"
+    "word": "renard",
+    "gender": "masculine",
+    "translation": "fox"
   },
   {
-    "word":"éléphant",
-    "gender":"masculine",
-    "translation":"elephant"
+    "word": "singe",
+    "gender": "masculine",
+    "translation": "monkey"
   },
   {
-    "word":"ours",
-    "gender":"masculine",
-    "translation":"bear"
+    "word": "zèbre",
+    "gender": "masculine",
+    "translation": "zebra"
   },
   {
-    "word":"loup",
-    "gender":"masculine",
-    "translation":"wolf"
+    "word": "girafe",
+    "gender": "feminine",
+    "translation": "giraffe"
   },
   {
-    "word":"renard",
-    "gender":"masculine",
-    "translation":"fox"
+    "word": "crocodile",
+    "gender": "masculine",
+    "translation": "crocodile"
   },
   {
-    "word":"singe",
-    "gender":"masculine",
-    "translation":"monkey"
+    "word": "requin",
+    "gender": "masculine",
+    "translation": "shark"
   },
   {
-    "word":"zèbre",
-    "gender":"masculine",
-    "translation":"zebra"
+    "word": "dauphin",
+    "gender": "masculine",
+    "translation": "dolphin"
   },
   {
-    "word":"girafe",
-    "gender":"feminine",
-    "translation":"giraffe"
+    "word": "tortue",
+    "gender": "feminine",
+    "translation": "turtle"
   },
   {
-    "word":"crocodile",
-    "gender":"masculine",
-    "translation":"crocodile"
+    "word": "canard",
+    "gender": "masculine",
+    "translation": "duck"
   },
   {
-    "word":"requin",
-    "gender":"masculine",
-    "translation":"shark"
+    "word": "cygne",
+    "gender": "masculine",
+    "translation": "swan"
   },
   {
-    "word":"dauphin",
-    "gender":"masculine",
-    "translation":"dolphin"
+    "word": "pigeon",
+    "gender": "masculine",
+    "translation": "pigeon"
   },
   {
-    "word":"tortue",
-    "gender":"feminine",
-    "translation":"turtle"
+    "word": "corbeau",
+    "gender": "masculine",
+    "translation": "crow"
   },
   {
-    "word":"canard",
-    "gender":"masculine",
-    "translation":"duck"
+    "word": "hibou",
+    "gender": "masculine",
+    "translation": "owl"
   },
   {
-    "word":"cygne",
-    "gender":"masculine",
-    "translation":"swan"
+    "word": "perroquet",
+    "gender": "masculine",
+    "translation": "parrot"
   },
   {
-    "word":"pigeon",
-    "gender":"masculine",
-    "translation":"pigeon"
+    "word": "faucon",
+    "gender": "masculine",
+    "translation": "hawk"
   },
   {
-    "word":"corbeau",
-    "gender":"masculine",
-    "translation":"crow"
+    "word": "insecte",
+    "gender": "masculine",
+    "translation": "insect"
   },
   {
-    "word":"hibou",
-    "gender":"masculine",
-    "translation":"owl"
+    "word": "humain",
+    "gender": "masculine",
+    "translation": "human"
   },
   {
-    "word":"perroquet",
-    "gender":"masculine",
-    "translation":"parrot"
+    "word": "garçon",
+    "gender": "masculine",
+    "translation": "boy"
   },
   {
-    "word":"faucon",
-    "gender":"masculine",
-    "translation":"hawk"
+    "word": "fille",
+    "gender": "feminine",
+    "translation": "girl"
   },
   {
-    "word":"insecte",
-    "gender":"masculine",
-    "translation":"insect"
+    "word": "manager",
+    "gender": "masculine",
+    "translation": "manager"
   },
   {
-    "word":"humain",
-    "gender":"masculine",
-    "translation":"human"
+    "word": "cuisinière",
+    "gender": "feminine",
+    "translation": "cook"
   },
   {
-    "word":"garçon",
-    "gender":"masculine",
-    "translation":"boy"
+    "word": "boulangerie",
+    "gender": "feminine",
+    "translation": "bakery"
   },
   {
-    "word":"fille",
-    "gender":"feminine",
-    "translation":"girl"
+    "word": "vente",
+    "gender": "feminine",
+    "translation": "sale"
   },
   {
-    "word":"manager",
-    "gender":"masculine",
-    "translation":"manager"
+    "word": "clientèle",
+    "gender": "feminine",
+    "translation": "clientele"
   },
   {
-    "word":"cuisinière",
-    "gender":"feminine",
-    "translation":"cook"
+    "word": "artisanat",
+    "gender": "masculine",
+    "translation": "craftsmanship"
   },
   {
-    "word":"boulangerie",
-    "gender":"feminine",
-    "translation":"bakery"
+    "word": "agriculture",
+    "gender": "feminine",
+    "translation": "agriculture"
   },
   {
-    "word":"vente",
-    "gender":"feminine",
-    "translation":"sale"
+    "word": "pêche",
+    "gender": "feminine",
+    "translation": "fishing"
   },
   {
-    "word":"clientèle",
-    "gender":"feminine",
-    "translation":"clientele"
+    "word": "police",
+    "gender": "feminine",
+    "translation": "police"
   },
   {
-    "word":"artisanat",
-    "gender":"masculine",
-    "translation":"craftsmanship"
+    "word": "armée",
+    "gender": "feminine",
+    "translation": "army"
   },
   {
-    "word":"agriculture",
-    "gender":"feminine",
-    "translation":"agriculture"
+    "word": "justice",
+    "gender": "feminine",
+    "translation": "justice"
   },
   {
-    "word":"pêche",
-    "gender":"feminine",
-    "translation":"fishing"
+    "word": "politique",
+    "gender": "feminine",
+    "translation": "politics"
   },
   {
-    "word":"police",
-    "gender":"feminine",
-    "translation":"police"
+    "word": "diplomatie",
+    "gender": "feminine",
+    "translation": "diplomacy"
   },
   {
-    "word":"armée",
-    "gender":"feminine",
-    "translation":"army"
+    "word": "médias",
+    "gender": "masculine",
+    "translation": "media"
   },
   {
-    "word":"justice",
-    "gender":"feminine",
-    "translation":"justice"
+    "word": "photographie",
+    "gender": "feminine",
+    "translation": "photography"
   },
   {
-    "word":"politique",
-    "gender":"feminine",
-    "translation":"politics"
+    "word": "cinéma",
+    "gender": "masculine",
+    "translation": "cinema"
   },
   {
-    "word":"diplomatie",
-    "gender":"feminine",
-    "translation":"diplomacy"
+    "word": "peinture",
+    "gender": "feminine",
+    "translation": "painting"
   },
   {
-    "word":"médias",
-    "gender":"masculine",
-    "translation":"media"
+    "word": "sculpture",
+    "gender": "feminine",
+    "translation": "sculpture"
   },
   {
-    "word":"photographie",
-    "gender":"feminine",
-    "translation":"photography"
+    "word": "architecture",
+    "gender": "feminine",
+    "translation": "architecture"
   },
   {
-    "word":"cinéma",
-    "gender":"masculine",
-    "translation":"cinema"
+    "word": "électricité",
+    "gender": "feminine",
+    "translation": "electricity"
   },
   {
-    "word":"peinture",
-    "gender":"feminine",
-    "translation":"painting"
+    "word": "plomberie",
+    "gender": "feminine",
+    "translation": "plumbing"
   },
   {
-    "word":"sculpture",
-    "gender":"feminine",
-    "translation":"sculpture"
+    "word": "menuiserie",
+    "gender": "feminine",
+    "translation": "carpentry"
   },
   {
-    "word":"architecture",
-    "gender":"feminine",
-    "translation":"architecture"
+    "word": "maçonnerie",
+    "gender": "feminine",
+    "translation": "masonry"
   },
   {
-    "word":"électricité",
-    "gender":"feminine",
-    "translation":"electricity"
+    "word": "conduite",
+    "gender": "feminine",
+    "translation": "driving"
   },
   {
-    "word":"plomberie",
-    "gender":"feminine",
-    "translation":"plumbing"
+    "word": "pilotage",
+    "gender": "masculine",
+    "translation": "piloting"
   },
   {
-    "word":"menuiserie",
-    "gender":"feminine",
-    "translation":"carpentry"
+    "word": "service",
+    "gender": "masculine",
+    "translation": "service"
   },
   {
-    "word":"maçonnerie",
-    "gender":"feminine",
-    "translation":"masonry"
+    "word": "cuisine",
+    "gender": "feminine",
+    "translation": "cooking"
   },
   {
-    "word":"conduite",
-    "gender":"feminine",
-    "translation":"driving"
+    "word": "achat",
+    "gender": "masculine",
+    "translation": "buying"
   },
   {
-    "word":"pilotage",
-    "gender":"masculine",
-    "translation":"piloting"
+    "word": "fabrication",
+    "gender": "feminine",
+    "translation": "manufacturing"
   },
   {
-    "word":"service",
-    "gender":"masculine",
-    "translation":"service"
+    "word": "réparation",
+    "gender": "feminine",
+    "translation": "repair"
   },
   {
-    "word":"cuisine",
-    "gender":"feminine",
-    "translation":"cooking"
+    "word": "maintenance",
+    "gender": "feminine",
+    "translation": "maintenance"
   },
   {
-    "word":"vente",
-    "gender":"feminine",
-    "translation":"selling"
+    "word": "entretien",
+    "gender": "masculine",
+    "translation": "upkeep"
   },
   {
-    "word":"achat",
-    "gender":"masculine",
-    "translation":"buying"
+    "word": "construction",
+    "gender": "feminine",
+    "translation": "construction"
   },
   {
-    "word":"fabrication",
-    "gender":"feminine",
-    "translation":"manufacturing"
+    "word": "démolition",
+    "gender": "feminine",
+    "translation": "demolition"
   },
   {
-    "word":"réparation",
-    "gender":"feminine",
-    "translation":"repair"
+    "word": "transport",
+    "gender": "masculine",
+    "translation": "transport"
   },
   {
-    "word":"maintenance",
-    "gender":"feminine",
-    "translation":"maintenance"
+    "word": "livraison",
+    "gender": "feminine",
+    "translation": "delivery"
   },
   {
-    "word":"entretien",
-    "gender":"masculine",
-    "translation":"upkeep"
+    "word": "commerce",
+    "gender": "masculine",
+    "translation": "trade"
   },
   {
-    "word":"construction",
-    "gender":"feminine",
-    "translation":"construction"
+    "word": "industrie",
+    "gender": "feminine",
+    "translation": "industry"
   },
   {
-    "word":"démolition",
-    "gender":"feminine",
-    "translation":"demolition"
+    "word": "élevage",
+    "gender": "masculine",
+    "translation": "livestock"
   },
   {
-    "word":"transport",
-    "gender":"masculine",
-    "translation":"transport"
+    "word": "services",
+    "gender": "masculine",
+    "translation": "services"
   },
   {
-    "word":"livraison",
-    "gender":"feminine",
-    "translation":"delivery"
+    "word": "éducation",
+    "gender": "feminine",
+    "translation": "education"
   },
   {
-    "word":"commerce",
-    "gender":"masculine",
-    "translation":"trade"
+    "word": "santé",
+    "gender": "feminine",
+    "translation": "health"
   },
   {
-    "word":"industrie",
-    "gender":"feminine",
-    "translation":"industry"
+    "word": "économie",
+    "gender": "feminine",
+    "translation": "economy"
   },
   {
-    "word":"élevage",
-    "gender":"masculine",
-    "translation":"livestock"
+    "word": "finance",
+    "gender": "feminine",
+    "translation": "finance"
   },
   {
-    "word":"services",
-    "gender":"masculine",
-    "translation":"services"
+    "word": "banque",
+    "gender": "feminine",
+    "translation": "bank"
   },
   {
-    "word":"éducation",
-    "gender":"feminine",
-    "translation":"education"
+    "word": "assurance",
+    "gender": "feminine",
+    "translation": "insurance"
   },
   {
-    "word":"santé",
-    "gender":"feminine",
-    "translation":"health"
+    "word": "marketing",
+    "gender": "masculine",
+    "translation": "marketing"
   },
   {
-    "word":"économie",
-    "gender":"feminine",
-    "translation":"economy"
+    "word": "publicité",
+    "gender": "feminine",
+    "translation": "advertising"
   },
   {
-    "word":"finance",
-    "gender":"feminine",
-    "translation":"finance"
+    "word": "fournisseur",
+    "gender": "masculine",
+    "translation": "supplier"
   },
   {
-    "word":"banque",
-    "gender":"feminine",
-    "translation":"bank"
+    "word": "partenaire",
+    "gender": "masculine",
+    "translation": "partner"
   },
   {
-    "word":"assurance",
-    "gender":"feminine",
-    "translation":"insurance"
+    "word": "concurrent",
+    "gender": "masculine",
+    "translation": "competitor"
   },
   {
-    "word":"commerce",
-    "gender":"masculine",
-    "translation":"commerce"
+    "word": "marché",
+    "gender": "masculine",
+    "translation": "market"
   },
   {
-    "word":"marketing",
-    "gender":"masculine",
-    "translation":"marketing"
+    "word": "produit",
+    "gender": "masculine",
+    "translation": "product"
   },
   {
-    "word":"publicité",
-    "gender":"feminine",
-    "translation":"advertising"
+    "word": "qualité",
+    "gender": "feminine",
+    "translation": "quality"
   },
   {
-    "word":"achat",
-    "gender":"masculine",
-    "translation":"purchase"
+    "word": "prix",
+    "gender": "masculine",
+    "translation": "price"
   },
   {
-    "word":"fournisseur",
-    "gender":"masculine",
-    "translation":"supplier"
+    "word": "coût",
+    "gender": "masculine",
+    "translation": "cost"
   },
   {
-    "word":"partenaire",
-    "gender":"masculine",
-    "translation":"partner"
+    "word": "bénéfice",
+    "gender": "masculine",
+    "translation": "profit"
   },
   {
-    "word":"concurrent",
-    "gender":"masculine",
-    "translation":"competitor"
+    "word": "perte",
+    "gender": "feminine",
+    "translation": "loss"
   },
   {
-    "word":"marché",
-    "gender":"masculine",
-    "translation":"market"
+    "word": "investissement",
+    "gender": "masculine",
+    "translation": "investment"
   },
   {
-    "word":"produit",
-    "gender":"masculine",
-    "translation":"product"
+    "word": "capital",
+    "gender": "masculine",
+    "translation": "capital"
   },
   {
-    "word":"qualité",
-    "gender":"feminine",
-    "translation":"quality"
+    "word": "action",
+    "gender": "feminine",
+    "translation": "share"
   },
   {
-    "word":"prix",
-    "gender":"masculine",
-    "translation":"price"
+    "word": "obligation",
+    "gender": "feminine",
+    "translation": "bond"
   },
   {
-    "word":"coût",
-    "gender":"masculine",
-    "translation":"cost"
+    "word": "dividende",
+    "gender": "masculine",
+    "translation": "dividend"
   },
   {
-    "word":"bénéfice",
-    "gender":"masculine",
-    "translation":"profit"
+    "word": "intérêt",
+    "gender": "masculine",
+    "translation": "interest"
   },
   {
-    "word":"perte",
-    "gender":"feminine",
-    "translation":"loss"
+    "word": "prêt",
+    "gender": "masculine",
+    "translation": "loan"
   },
   {
-    "word":"investissement",
-    "gender":"masculine",
-    "translation":"investment"
+    "word": "crédit",
+    "gender": "masculine",
+    "translation": "credit"
   },
   {
-    "word":"capital",
-    "gender":"masculine",
-    "translation":"capital"
+    "word": "dette",
+    "gender": "feminine",
+    "translation": "debt"
   },
   {
-    "word":"action",
-    "gender":"feminine",
-    "translation":"share"
+    "word": "impôt",
+    "gender": "masculine",
+    "translation": "tax"
   },
   {
-    "word":"obligation",
-    "gender":"feminine",
-    "translation":"bond"
+    "word": "revenu",
+    "gender": "masculine",
+    "translation": "income"
   },
   {
-    "word":"dividende",
-    "gender":"masculine",
-    "translation":"dividend"
+    "word": "salaire",
+    "gender": "masculine",
+    "translation": "salary"
   },
   {
-    "word":"intérêt",
-    "gender":"masculine",
-    "translation":"interest"
+    "word": "budget",
+    "gender": "masculine",
+    "translation": "budget"
   },
   {
-    "word":"prêt",
-    "gender":"masculine",
-    "translation":"loan"
+    "word": "compte",
+    "gender": "masculine",
+    "translation": "account"
   },
   {
-    "word":"crédit",
-    "gender":"masculine",
-    "translation":"credit"
+    "word": "facture",
+    "gender": "feminine",
+    "translation": "invoice"
   },
   {
-    "word":"dette",
-    "gender":"feminine",
-    "translation":"debt"
+    "word": "commande",
+    "gender": "feminine",
+    "translation": "order"
   },
   {
-    "word":"impôt",
-    "gender":"masculine",
-    "translation":"tax"
+    "word": "stock",
+    "gender": "masculine",
+    "translation": "stock"
   },
   {
-    "word":"revenu",
-    "gender":"masculine",
-    "translation":"income"
+    "word": "entrepôt",
+    "gender": "masculine",
+    "translation": "warehouse"
   },
   {
-    "word":"salaire",
-    "gender":"masculine",
-    "translation":"salary"
+    "word": "logistique",
+    "gender": "feminine",
+    "translation": "logistics"
   },
   {
-    "word":"budget",
-    "gender":"masculine",
-    "translation":"budget"
+    "word": "marchandise",
+    "gender": "feminine",
+    "translation": "goods"
   },
   {
-    "word":"compte",
-    "gender":"masculine",
-    "translation":"account"
+    "word": "emballage",
+    "gender": "masculine",
+    "translation": "packaging"
   },
   {
-    "word":"facture",
-    "gender":"feminine",
-    "translation":"invoice"
+    "word": "étiquette",
+    "gender": "feminine",
+    "translation": "label"
   },
   {
-    "word":"commande",
-    "gender":"feminine",
-    "translation":"order"
+    "word": "campagne",
+    "gender": "feminine",
+    "translation": "campaign"
   },
   {
-    "word":"stock",
-    "gender":"masculine",
-    "translation":"stock"
+    "word": "promotion",
+    "gender": "feminine",
+    "translation": "promotion"
   },
   {
-    "word":"entrepôt",
-    "gender":"masculine",
-    "translation":"warehouse"
+    "word": "événement",
+    "gender": "masculine",
+    "translation": "event"
   },
   {
-    "word":"logistique",
-    "gender":"feminine",
-    "translation":"logistics"
+    "word": "salon",
+    "gender": "masculine",
+    "translation": "trade show"
   },
   {
-    "word":"marchandise",
-    "gender":"feminine",
-    "translation":"goods"
+    "word": "conférence",
+    "gender": "feminine",
+    "translation": "conference"
   },
   {
-    "word":"emballage",
-    "gender":"masculine",
-    "translation":"packaging"
+    "word": "formation",
+    "gender": "feminine",
+    "translation": "training"
   },
   {
-    "word":"étiquette",
-    "gender":"feminine",
-    "translation":"label"
+    "word": "réunion",
+    "gender": "feminine",
+    "translation": "meeting"
   },
   {
-    "word":"campagne",
-    "gender":"feminine",
-    "translation":"campaign"
+    "word": "présentation",
+    "gender": "feminine",
+    "translation": "presentation"
   },
   {
-    "word":"promotion",
-    "gender":"feminine",
-    "translation":"promotion"
+    "word": "rapport",
+    "gender": "masculine",
+    "translation": "report"
   },
   {
-    "word":"événement",
-    "gender":"masculine",
-    "translation":"event"
+    "word": "analyse",
+    "gender": "feminine",
+    "translation": "analysis"
   },
   {
-    "word":"salon",
-    "gender":"masculine",
-    "translation":"trade show"
+    "word": "stratégie",
+    "gender": "feminine",
+    "translation": "strategy"
   },
   {
-    "word":"conférence",
-    "gender":"feminine",
-    "translation":"conference"
+    "word": "plan",
+    "gender": "masculine",
+    "translation": "plan"
   },
   {
-    "word":"formation",
-    "gender":"feminine",
-    "translation":"training"
+    "word": "objectif",
+    "gender": "masculine",
+    "translation": "goal"
   },
   {
-    "word":"réunion",
-    "gender":"feminine",
-    "translation":"meeting"
+    "word": "projet",
+    "gender": "masculine",
+    "translation": "project"
   },
   {
-    "word":"présentation",
-    "gender":"feminine",
-    "translation":"presentation"
+    "word": "équipe",
+    "gender": "feminine",
+    "translation": "team"
   },
   {
-    "word":"rapport",
-    "gender":"masculine",
-    "translation":"report"
+    "word": "collaboration",
+    "gender": "feminine",
+    "translation": "collaboration"
   },
   {
-    "word":"analyse",
-    "gender":"feminine",
-    "translation":"analysis"
+    "word": "partenariat",
+    "gender": "masculine",
+    "translation": "partnership"
   },
   {
-    "word":"stratégie",
-    "gender":"feminine",
-    "translation":"strategy"
+    "word": "innovation",
+    "gender": "feminine",
+    "translation": "innovation"
   },
   {
-    "word":"plan",
-    "gender":"masculine",
-    "translation":"plan"
+    "word": "technologie",
+    "gender": "feminine",
+    "translation": "technology"
   },
   {
-    "word":"objectif",
-    "gender":"masculine",
-    "translation":"goal"
+    "word": "recherche",
+    "gender": "feminine",
+    "translation": "research"
   },
   {
-    "word":"projet",
-    "gender":"masculine",
-    "translation":"project"
+    "word": "développement",
+    "gender": "masculine",
+    "translation": "development"
   },
   {
-    "word":"équipe",
-    "gender":"feminine",
-    "translation":"team"
+    "word": "production",
+    "gender": "feminine",
+    "translation": "production"
   },
   {
-    "word":"collaboration",
-    "gender":"feminine",
-    "translation":"collaboration"
+    "word": "contrôle",
+    "gender": "masculine",
+    "translation": "control"
   },
   {
-    "word":"partenariat",
-    "gender":"masculine",
-    "translation":"partnership"
+    "word": "gestion",
+    "gender": "feminine",
+    "translation": "management"
   },
   {
-    "word":"innovation",
-    "gender":"feminine",
-    "translation":"innovation"
+    "word": "organisation",
+    "gender": "feminine",
+    "translation": "organization"
   },
   {
-    "word":"technologie",
-    "gender":"feminine",
-    "translation":"technology"
+    "word": "administration",
+    "gender": "feminine",
+    "translation": "administration"
   },
   {
-    "word":"recherche",
-    "gender":"feminine",
-    "translation":"research"
+    "word": "finances",
+    "gender": "feminine",
+    "translation": "finances"
   },
   {
-    "word":"développement",
-    "gender":"masculine",
-    "translation":"development"
+    "word": "ressources",
+    "gender": "feminine",
+    "translation": "resources"
   },
   {
-    "word":"production",
-    "gender":"feminine",
-    "translation":"production"
+    "word": "humaines",
+    "gender": "feminine",
+    "translation": "human (as in human resources)"
   },
   {
-    "word":"contrôle",
-    "gender":"masculine",
-    "translation":"control"
+    "word": "communication",
+    "gender": "feminine",
+    "translation": "communication"
   },
   {
-    "word":"gestion",
-    "gender":"feminine",
-    "translation":"management"
+    "word": "ventes",
+    "gender": "feminine",
+    "translation": "sales"
   },
   {
-    "word":"organisation",
-    "gender":"feminine",
-    "translation":"organization"
+    "word": "satisfaction",
+    "gender": "feminine",
+    "translation": "satisfaction"
   },
   {
-    "word":"administration",
-    "gender":"feminine",
-    "translation":"administration"
+    "word": "fidélisation",
+    "gender": "feminine",
+    "translation": "loyalty"
   },
   {
-    "word":"finances",
-    "gender":"feminine",
-    "translation":"finances"
+    "word": "relation",
+    "gender": "feminine",
+    "translation": "relationship"
   },
   {
-    "word":"ressources",
-    "gender":"feminine",
-    "translation":"resources"
+    "word": "contrat",
+    "gender": "masculine",
+    "translation": "contract"
   },
   {
-    "word":"humaines",
-    "gender":"feminine",
-    "translation":"human (as in human resources)"
+    "word": "engagement",
+    "gender": "masculine",
+    "translation": "commitment"
   },
   {
-    "word":"communication",
-    "gender":"feminine",
-    "translation":"communication"
+    "word": "loi",
+    "gender": "feminine",
+    "translation": "law"
   },
   {
-    "word":"ventes",
-    "gender":"feminine",
-    "translation":"sales"
+    "word": "règlement",
+    "gender": "masculine",
+    "translation": "regulation"
   },
   {
-    "word":"satisfaction",
-    "gender":"feminine",
-    "translation":"satisfaction"
+    "word": "norme",
+    "gender": "feminine",
+    "translation": "standard"
   },
   {
-    "word":"fidélisation",
-    "gender":"feminine",
-    "translation":"loyalty"
+    "word": "conformité",
+    "gender": "feminine",
+    "translation": "compliance"
   },
   {
-    "word":"relation",
-    "gender":"feminine",
-    "translation":"relationship"
+    "word": "audit",
+    "gender": "masculine",
+    "translation": "audit"
   },
   {
-    "word":"contrat",
-    "gender":"masculine",
-    "translation":"contract"
+    "word": "inspection",
+    "gender": "feminine",
+    "translation": "inspection"
   },
   {
-    "word":"engagement",
-    "gender":"masculine",
-    "translation":"commitment"
+    "word": "certification",
+    "gender": "feminine",
+    "translation": "certification"
   },
   {
-    "word":"loi",
-    "gender":"feminine",
-    "translation":"law"
+    "word": "accident",
+    "gender": "masculine",
+    "translation": "accident"
   },
   {
-    "word":"règlement",
-    "gender":"masculine",
-    "translation":"regulation"
+    "word": "risque",
+    "gender": "masculine",
+    "translation": "risk"
   },
   {
-    "word":"norme",
-    "gender":"feminine",
-    "translation":"standard"
+    "word": "sécurité",
+    "gender": "feminine",
+    "translation": "security"
   },
   {
-    "word":"conformité",
-    "gender":"feminine",
-    "translation":"compliance"
+    "word": "environnement",
+    "gender": "masculine",
+    "translation": "environment"
   },
   {
-    "word":"audit",
-    "gender":"masculine",
-    "translation":"audit"
+    "word": "pollution",
+    "gender": "feminine",
+    "translation": "pollution"
   },
   {
-    "word":"inspection",
-    "gender":"feminine",
-    "translation":"inspection"
+    "word": "déchet",
+    "gender": "masculine",
+    "translation": "waste"
   },
   {
-    "word":"certification",
-    "gender":"feminine",
-    "translation":"certification"
+    "word": "recyclage",
+    "gender": "masculine",
+    "translation": "recycling"
   },
   {
-    "word":"accident",
-    "gender":"masculine",
-    "translation":"accident"
+    "word": "énergie",
+    "gender": "feminine",
+    "translation": "energy"
   },
   {
-    "word":"risque",
-    "gender":"masculine",
-    "translation":"risk"
+    "word": "gaz",
+    "gender": "masculine",
+    "translation": "gas"
   },
   {
-    "word":"sécurité",
-    "gender":"feminine",
-    "translation":"security"
+    "word": "chaleur",
+    "gender": "feminine",
+    "translation": "heat"
   },
   {
-    "word":"environnement",
-    "gender":"masculine",
-    "translation":"environment"
+    "word": "froid",
+    "gender": "masculine",
+    "translation": "cold"
   },
   {
-    "word":"pollution",
-    "gender":"feminine",
-    "translation":"pollution"
+    "word": "climat",
+    "gender": "masculine",
+    "translation": "climate"
   },
   {
-    "word":"déchet",
-    "gender":"masculine",
-    "translation":"waste"
+    "word": "température",
+    "gender": "feminine",
+    "translation": "temperature"
   },
   {
-    "word":"recyclage",
-    "gender":"masculine",
-    "translation":"recycling"
+    "word": "météo",
+    "gender": "feminine",
+    "translation": "weather"
   },
   {
-    "word":"énergie",
-    "gender":"feminine",
-    "translation":"energy"
+    "word": "prévision",
+    "gender": "feminine",
+    "translation": "forecast"
   },
   {
-    "word":"gaz",
-    "gender":"masculine",
-    "translation":"gas"
+    "word": "nature",
+    "gender": "feminine",
+    "translation": "nature"
   },
   {
-    "word":"chaleur",
-    "gender":"feminine",
-    "translation":"heat"
+    "word": "abricot",
+    "gender": "masculine",
+    "translation": "apricot"
   },
   {
-    "word":"froid",
-    "gender":"masculine",
-    "translation":"cold"
+    "word": "accord",
+    "gender": "masculine",
+    "translation": "agreement"
   },
   {
-    "word":"climat",
-    "gender":"masculine",
-    "translation":"climate"
+    "word": "accueil",
+    "gender": "masculine",
+    "translation": "welcome"
   },
   {
-    "word":"température",
-    "gender":"feminine",
-    "translation":"temperature"
+    "word": "aigle",
+    "gender": "masculine",
+    "translation": "eagle"
   },
   {
-    "word":"météo",
-    "gender":"feminine",
-    "translation":"weather"
+    "word": "aile",
+    "gender": "feminine",
+    "translation": "wing"
   },
   {
-    "word":"prévision",
-    "gender":"feminine",
-    "translation":"forecast"
+    "word": "alarme",
+    "gender": "feminine",
+    "translation": "alarm"
   },
   {
-    "word":"nature",
-    "gender":"feminine",
-    "translation":"nature"
+    "word": "alcool",
+    "gender": "masculine",
+    "translation": "alcohol"
   },
   {
-    "word":"abricot",
-    "gender":"masculine",
-    "translation":"apricot"
+    "word": "allée",
+    "gender": "feminine",
+    "translation": "alley"
   },
   {
-    "word":"accord",
-    "gender":"masculine",
-    "translation":"agreement"
+    "word": "ambulance",
+    "gender": "feminine",
+    "translation": "ambulance"
   },
   {
-    "word":"accueil",
-    "gender":"masculine",
-    "translation":"welcome"
+    "word": "amour",
+    "gender": "masculine",
+    "translation": "love"
   },
   {
-    "word":"aigle",
-    "gender":"masculine",
-    "translation":"eagle"
+    "word": "ananas",
+    "gender": "masculine",
+    "translation": "pineapple"
   },
   {
-    "word":"aile",
-    "gender":"feminine",
-    "translation":"wing"
+    "word": "angle",
+    "gender": "masculine",
+    "translation": "angle"
   },
   {
-    "word":"alarme",
-    "gender":"feminine",
-    "translation":"alarm"
+    "word": "animation",
+    "gender": "feminine",
+    "translation": "animation"
   },
   {
-    "word":"alcool",
-    "gender":"masculine",
-    "translation":"alcohol"
+    "word": "année",
+    "gender": "feminine",
+    "translation": "year"
   },
   {
-    "word":"allée",
-    "gender":"feminine",
-    "translation":"alley"
+    "word": "antenne",
+    "gender": "feminine",
+    "translation": "antenna"
   },
   {
-    "word":"ambulance",
-    "gender":"feminine",
-    "translation":"ambulance"
+    "word": "apprentissage",
+    "gender": "masculine",
+    "translation": "learning"
   },
   {
-    "word":"amour",
-    "gender":"masculine",
-    "translation":"love"
+    "word": "appareil",
+    "gender": "masculine",
+    "translation": "device"
   },
   {
-    "word":"ananas",
-    "gender":"masculine",
-    "translation":"pineapple"
+    "word": "appartement",
+    "gender": "masculine",
+    "translation": "apartment"
   },
   {
-    "word":"angle",
-    "gender":"masculine",
-    "translation":"angle"
+    "word": "appel",
+    "gender": "masculine",
+    "translation": "call"
   },
   {
-    "word":"animation",
-    "gender":"feminine",
-    "translation":"animation"
+    "word": "arbalète",
+    "gender": "feminine",
+    "translation": "crossbow"
   },
   {
-    "word":"année",
-    "gender":"feminine",
-    "translation":"year"
+    "word": "arc",
+    "gender": "masculine",
+    "translation": "bow"
   },
   {
-    "word":"antenne",
-    "gender":"feminine",
-    "translation":"antenna"
+    "word": "arche",
+    "gender": "feminine",
+    "translation": "arch"
   },
   {
-    "word":"apprentissage",
-    "gender":"masculine",
-    "translation":"learning"
+    "word": "argent",
+    "gender": "masculine",
+    "translation": "money"
   },
   {
-    "word":"appareil",
-    "gender":"masculine",
-    "translation":"device"
+    "word": "arme",
+    "gender": "feminine",
+    "translation": "weapon"
   },
   {
-    "word":"appartement",
-    "gender":"masculine",
-    "translation":"apartment"
+    "word": "arôme",
+    "gender": "masculine",
+    "translation": "aroma"
   },
   {
-    "word":"appel",
-    "gender":"masculine",
-    "translation":"call"
+    "word": "arpent",
+    "gender": "masculine",
+    "translation": "acre"
   },
   {
-    "word":"arbalète",
-    "gender":"feminine",
-    "translation":"crossbow"
+    "word": "art",
+    "gender": "masculine",
+    "translation": "art"
   },
   {
-    "word":"arc",
-    "gender":"masculine",
-    "translation":"bow"
+    "word": "aspirateur",
+    "gender": "masculine",
+    "translation": "vacuum cleaner"
   },
   {
-    "word":"arche",
-    "gender":"feminine",
-    "translation":"arch"
+    "word": "assiette",
+    "gender": "feminine",
+    "translation": "plate"
   },
   {
-    "word":"argent",
-    "gender":"masculine",
-    "translation":"money"
+    "word": "association",
+    "gender": "feminine",
+    "translation": "association"
   },
   {
-    "word":"arme",
-    "gender":"feminine",
-    "translation":"weapon"
+    "word": "atelier",
+    "gender": "masculine",
+    "translation": "workshop"
   },
   {
-    "word":"arôme",
-    "gender":"masculine",
-    "translation":"aroma"
+    "word": "attente",
+    "gender": "feminine",
+    "translation": "waiting"
   },
   {
-    "word":"arpent",
-    "gender":"masculine",
-    "translation":"acre"
+    "word": "attaque",
+    "gender": "feminine",
+    "translation": "attack"
   },
   {
-    "word":"art",
-    "gender":"masculine",
-    "translation":"art"
+    "word": "attitude",
+    "gender": "feminine",
+    "translation": "attitude"
   },
   {
-    "word":"aspirateur",
-    "gender":"masculine",
-    "translation":"vacuum cleaner"
+    "word": "auberge",
+    "gender": "feminine",
+    "translation": "inn"
   },
   {
-    "word":"assiette",
-    "gender":"feminine",
-    "translation":"plate"
+    "word": "audience",
+    "gender": "feminine",
+    "translation": "audience"
   },
   {
-    "word":"association",
-    "gender":"feminine",
-    "translation":"association"
+    "word": "augmentation",
+    "gender": "feminine",
+    "translation": "increase"
   },
   {
-    "word":"atelier",
-    "gender":"masculine",
-    "translation":"workshop"
+    "word": "auteur",
+    "gender": "masculine",
+    "translation": "author"
   },
   {
-    "word":"attente",
-    "gender":"feminine",
-    "translation":"waiting"
+    "word": "automobile",
+    "gender": "feminine",
+    "translation": "car"
   },
   {
-    "word":"attaque",
-    "gender":"feminine",
-    "translation":"attack"
+    "word": "autoroute",
+    "gender": "feminine",
+    "translation": "highway"
   },
   {
-    "word":"attitude",
-    "gender":"feminine",
-    "translation":"attitude"
+    "word": "avalanche",
+    "gender": "feminine",
+    "translation": "avalanche"
   },
   {
-    "word":"auberge",
-    "gender":"feminine",
-    "translation":"inn"
+    "word": "avantage",
+    "gender": "masculine",
+    "translation": "advantage"
   },
   {
-    "word":"audience",
-    "gender":"feminine",
-    "translation":"audience"
+    "word": "aventure",
+    "gender": "feminine",
+    "translation": "adventure"
   },
   {
-    "word":"augmentation",
-    "gender":"feminine",
-    "translation":"increase"
+    "word": "avis",
+    "gender": "masculine",
+    "translation": "opinion"
   },
   {
-    "word":"auteur",
-    "gender":"masculine",
-    "translation":"author"
+    "word": "avion",
+    "gender": "masculine",
+    "translation": "plane"
   },
   {
-    "word":"automobile",
-    "gender":"feminine",
-    "translation":"car"
+    "word": "bague",
+    "gender": "feminine",
+    "translation": "ring"
   },
   {
-    "word":"autoroute",
-    "gender":"feminine",
-    "translation":"highway"
+    "word": "bain",
+    "gender": "masculine",
+    "translation": "bath"
   },
   {
-    "word":"avalanche",
-    "gender":"feminine",
-    "translation":"avalanche"
+    "word": "balance",
+    "gender": "feminine",
+    "translation": "scale"
   },
   {
-    "word":"avantage",
-    "gender":"masculine",
-    "translation":"advantage"
+    "word": "ballon",
+    "gender": "masculine",
+    "translation": "balloon"
   },
   {
-    "word":"aventure",
-    "gender":"feminine",
-    "translation":"adventure"
+    "word": "banane",
+    "gender": "feminine",
+    "translation": "banana"
   },
   {
-    "word":"avis",
-    "gender":"masculine",
-    "translation":"opinion"
+    "word": "barbecue",
+    "gender": "masculine",
+    "translation": "barbecue"
   },
   {
-    "word":"avion",
-    "gender":"masculine",
-    "translation":"plane"
+    "word": "barrière",
+    "gender": "feminine",
+    "translation": "barrier"
   },
   {
-    "word":"avocat",
-    "gender":"masculine",
-    "translation":"avocado"
+    "word": "basilic",
+    "gender": "masculine",
+    "translation": "basil"
   },
   {
-    "word":"bague",
-    "gender":"feminine",
-    "translation":"ring"
+    "word": "bataille",
+    "gender": "feminine",
+    "translation": "battle"
   },
   {
-    "word":"bain",
-    "gender":"masculine",
-    "translation":"bath"
+    "word": "bateau-mouche",
+    "gender": "masculine",
+    "translation": "tour boat"
   },
   {
-    "word":"balance",
-    "gender":"feminine",
-    "translation":"scale"
+    "word": "beauté",
+    "gender": "feminine",
+    "translation": "beauty"
   },
   {
-    "word":"ballon",
-    "gender":"masculine",
-    "translation":"balloon"
+    "word": "bec",
+    "gender": "masculine",
+    "translation": "beak"
   },
   {
-    "word":"banane",
-    "gender":"feminine",
-    "translation":"banana"
+    "word": "berceau",
+    "gender": "masculine",
+    "translation": "cradle"
   },
   {
-    "word":"barbecue",
-    "gender":"masculine",
-    "translation":"barbecue"
+    "word": "berger",
+    "gender": "masculine",
+    "translation": "shepherd"
   },
   {
-    "word":"barrière",
-    "gender":"feminine",
-    "translation":"barrier"
+    "word": "besoin",
+    "gender": "masculine",
+    "translation": "need"
   },
   {
-    "word":"basilic",
-    "gender":"masculine",
-    "translation":"basil"
+    "word": "bicyclette",
+    "gender": "feminine",
+    "translation": "bicycle"
   },
   {
-    "word":"bataille",
-    "gender":"feminine",
-    "translation":"battle"
+    "word": "bijou",
+    "gender": "masculine",
+    "translation": "jewel"
   },
   {
-    "word":"bateau-mouche",
-    "gender":"masculine",
-    "translation":"tour boat"
+    "word": "billet",
+    "gender": "masculine",
+    "translation": "ticket"
   },
   {
-    "word":"beauté",
-    "gender":"feminine",
-    "translation":"beauty"
+    "word": "bise",
+    "gender": "feminine",
+    "translation": "kiss"
   },
   {
-    "word":"bec",
-    "gender":"masculine",
-    "translation":"beak"
+    "word": "bisou",
+    "gender": "masculine",
+    "translation": "kiss"
   },
   {
-    "word":"bénéfice",
-    "gender":"masculine",
-    "translation":"benefit"
+    "word": "blé",
+    "gender": "masculine",
+    "translation": "wheat"
   },
   {
-    "word":"berceau",
-    "gender":"masculine",
-    "translation":"cradle"
+    "word": "blessure",
+    "gender": "feminine",
+    "translation": "injury"
   },
   {
-    "word":"berger",
-    "gender":"masculine",
-    "translation":"shepherd"
+    "word": "bloc",
+    "gender": "masculine",
+    "translation": "block"
   },
   {
-    "word":"besoin",
-    "gender":"masculine",
-    "translation":"need"
+    "word": "bois",
+    "gender": "masculine",
+    "translation": "wood"
   },
   {
-    "word":"bicyclette",
-    "gender":"feminine",
-    "translation":"bicycle"
+    "word": "boisson",
+    "gender": "feminine",
+    "translation": "drink"
   },
   {
-    "word":"bijou",
-    "gender":"masculine",
-    "translation":"jewel"
+    "word": "bombe",
+    "gender": "feminine",
+    "translation": "bomb"
   },
   {
-    "word":"billet",
-    "gender":"masculine",
-    "translation":"ticket"
+    "word": "bonheur",
+    "gender": "masculine",
+    "translation": "happiness"
   },
   {
-    "word":"bise",
-    "gender":"feminine",
-    "translation":"kiss"
+    "word": "bord",
+    "gender": "masculine",
+    "translation": "edge"
   },
   {
-    "word":"bisou",
-    "gender":"masculine",
-    "translation":"kiss"
+    "word": "bouche",
+    "gender": "feminine",
+    "translation": "mouth"
   },
   {
-    "word":"blé",
-    "gender":"masculine",
-    "translation":"wheat"
+    "word": "boucle",
+    "gender": "feminine",
+    "translation": "loop"
   },
   {
-    "word":"blessure",
-    "gender":"feminine",
-    "translation":"injury"
+    "word": "bougie",
+    "gender": "feminine",
+    "translation": "candle"
   },
   {
-    "word":"bloc",
-    "gender":"masculine",
-    "translation":"block"
+    "word": "bouquet",
+    "gender": "masculine",
+    "translation": "bouquet"
   },
   {
-    "word":"bois",
-    "gender":"masculine",
-    "translation":"wood"
+    "word": "boutique",
+    "gender": "feminine",
+    "translation": "shop"
   },
   {
-    "word":"boisson",
-    "gender":"feminine",
-    "translation":"drink"
+    "word": "bouteille",
+    "gender": "feminine",
+    "translation": "bottle"
   },
   {
-    "word":"bombe",
-    "gender":"feminine",
-    "translation":"bomb"
+    "word": "bouton",
+    "gender": "masculine",
+    "translation": "button"
   },
   {
-    "word":"bonheur",
-    "gender":"masculine",
-    "translation":"happiness"
+    "word": "bras",
+    "gender": "masculine",
+    "translation": "arm"
   },
   {
-    "word":"bord",
-    "gender":"masculine",
-    "translation":"edge"
+    "word": "brise",
+    "gender": "feminine",
+    "translation": "breeze"
   },
   {
-    "word":"bouche",
-    "gender":"feminine",
-    "translation":"mouth"
+    "word": "brochure",
+    "gender": "feminine",
+    "translation": "brochure"
   },
   {
-    "word":"boucle",
-    "gender":"feminine",
-    "translation":"loop"
+    "word": "brouillard",
+    "gender": "masculine",
+    "translation": "fog"
   },
   {
-    "word":"bougie",
-    "gender":"feminine",
-    "translation":"candle"
+    "word": "bruit",
+    "gender": "masculine",
+    "translation": "noise"
   },
   {
-    "word":"bouquet",
-    "gender":"masculine",
-    "translation":"bouquet"
+    "word": "but",
+    "gender": "masculine",
+    "translation": "goal"
   },
   {
-    "word":"boutique",
-    "gender":"feminine",
-    "translation":"shop"
+    "word": "cabane",
+    "gender": "feminine",
+    "translation": "hut"
   },
   {
-    "word":"bouteille",
-    "gender":"feminine",
-    "translation":"bottle"
+    "word": "cage",
+    "gender": "feminine",
+    "translation": "cage"
   },
   {
-    "word":"bouton",
-    "gender":"masculine",
-    "translation":"button"
+    "word": "caisse",
+    "gender": "feminine",
+    "translation": "box"
   },
   {
-    "word":"bras",
-    "gender":"masculine",
-    "translation":"arm"
+    "word": "calendrier",
+    "gender": "masculine",
+    "translation": "calendar"
   },
   {
-    "word":"brise",
-    "gender":"feminine",
-    "translation":"breeze"
+    "word": "canapé",
+    "gender": "masculine",
+    "translation": "sofa"
   },
   {
-    "word":"brochure",
-    "gender":"feminine",
-    "translation":"brochure"
+    "word": "cane",
+    "gender": "feminine",
+    "translation": "duck"
   },
   {
-    "word":"brouillard",
-    "gender":"masculine",
-    "translation":"fog"
+    "word": "canon",
+    "gender": "masculine",
+    "translation": "cannon"
   },
   {
-    "word":"bruit",
-    "gender":"masculine",
-    "translation":"noise"
+    "word": "capitale",
+    "gender": "feminine",
+    "translation": "capital city"
   },
   {
-    "word":"bureau",
-    "gender":"masculine",
-    "translation":"office"
+    "word": "caravane",
+    "gender": "feminine",
+    "translation": "caravan"
   },
   {
-    "word":"but",
-    "gender":"masculine",
-    "translation":"goal"
+    "word": "carte",
+    "gender": "feminine",
+    "translation": "map"
   },
   {
-    "word":"cabane",
-    "gender":"feminine",
-    "translation":"hut"
+    "word": "carrefour",
+    "gender": "masculine",
+    "translation": "crossroads"
   },
   {
-    "word":"cage",
-    "gender":"feminine",
-    "translation":"cage"
+    "word": "carte bancaire",
+    "gender": "feminine",
+    "translation": "bank card"
   },
   {
-    "word":"caisse",
-    "gender":"feminine",
-    "translation":"box"
+    "word": "carte postale",
+    "gender": "feminine",
+    "translation": "postcard"
   },
   {
-    "word":"calendrier",
-    "gender":"masculine",
-    "translation":"calendar"
+    "word": "carton",
+    "gender": "masculine",
+    "translation": "cardboard"
   },
   {
-    "word":"campagne",
-    "gender":"feminine",
-    "translation":"countryside"
+    "word": "casque",
+    "gender": "masculine",
+    "translation": "helmet"
   },
   {
-    "word":"canapé",
-    "gender":"masculine",
-    "translation":"sofa"
+    "word": "cause",
+    "gender": "feminine",
+    "translation": "cause"
   },
   {
-    "word":"cane",
-    "gender":"feminine",
-    "translation":"duck"
+    "word": "cave",
+    "gender": "feminine",
+    "translation": "cellar"
   },
   {
-    "word":"canon",
-    "gender":"masculine",
-    "translation":"cannon"
+    "word": "ceinture",
+    "gender": "feminine",
+    "translation": "belt"
   },
   {
-    "word":"capitale",
-    "gender":"feminine",
-    "translation":"capital city"
+    "word": "cerise",
+    "gender": "feminine",
+    "translation": "cherry"
   },
   {
-    "word":"caravane",
-    "gender":"feminine",
-    "translation":"caravan"
+    "word": "cercle",
+    "gender": "masculine",
+    "translation": "circle"
   },
   {
-    "word":"carte",
-    "gender":"feminine",
-    "translation":"map"
+    "word": "cerveau",
+    "gender": "masculine",
+    "translation": "brain"
   },
   {
-    "word":"carrefour",
-    "gender":"masculine",
-    "translation":"crossroads"
+    "word": "chance",
+    "gender": "feminine",
+    "translation": "luck"
   },
   {
-    "word":"carte bancaire",
-    "gender":"feminine",
-    "translation":"bank card"
+    "word": "chant",
+    "gender": "masculine",
+    "translation": "song"
   },
   {
-    "word":"carte postale",
-    "gender":"feminine",
-    "translation":"postcard"
+    "word": "chaque",
+    "gender": "feminine",
+    "translation": "each"
   },
   {
-    "word":"carton",
-    "gender":"masculine",
-    "translation":"cardboard"
+    "word": "charge",
+    "gender": "feminine",
+    "translation": "charge"
   },
   {
-    "word":"casque",
-    "gender":"masculine",
-    "translation":"helmet"
+    "word": "charme",
+    "gender": "masculine",
+    "translation": "charm"
   },
   {
-    "word":"cause",
-    "gender":"feminine",
-    "translation":"cause"
+    "word": "chaton",
+    "gender": "masculine",
+    "translation": "kitten"
   },
   {
-    "word":"cave",
-    "gender":"feminine",
-    "translation":"cellar"
+    "word": "château",
+    "gender": "masculine",
+    "translation": "castle"
   },
   {
-    "word":"ceinture",
-    "gender":"feminine",
-    "translation":"belt"
+    "word": "chatte",
+    "gender": "feminine",
+    "translation": "female cat"
   },
   {
-    "word":"cerise",
-    "gender":"feminine",
-    "translation":"cherry"
+    "word": "chaud",
+    "gender": "masculine",
+    "translation": "heat"
   },
   {
-    "word":"cercle",
-    "gender":"masculine",
-    "translation":"circle"
+    "word": "chemise",
+    "gender": "feminine",
+    "translation": "shirt"
   },
   {
-    "word":"cerveau",
-    "gender":"masculine",
-    "translation":"brain"
+    "word": "chemin",
+    "gender": "masculine",
+    "translation": "path"
   },
   {
-    "word":"chance",
-    "gender":"feminine",
-    "translation":"luck"
+    "word": "chiffre",
+    "gender": "masculine",
+    "translation": "number"
   },
   {
-    "word":"chant",
-    "gender":"masculine",
-    "translation":"song"
+    "word": "chocolat",
+    "gender": "masculine",
+    "translation": "chocolate"
   },
   {
-    "word":"chaque",
-    "gender":"feminine",
-    "translation":"each"
+    "word": "choix",
+    "gender": "masculine",
+    "translation": "choice"
   },
   {
-    "word":"charge",
-    "gender":"feminine",
-    "translation":"charge"
+    "word": "chorale",
+    "gender": "feminine",
+    "translation": "choir"
   },
   {
-    "word":"charme",
-    "gender":"masculine",
-    "translation":"charm"
+    "word": "chose",
+    "gender": "feminine",
+    "translation": "thing"
   },
   {
-    "word":"chaton",
-    "gender":"masculine",
-    "translation":"kitten"
+    "word": "cigarette",
+    "gender": "feminine",
+    "translation": "cigarette"
   },
   {
-    "word":"château",
-    "gender":"masculine",
-    "translation":"castle"
+    "word": "cigogne",
+    "gender": "feminine",
+    "translation": "stork"
   },
   {
-    "word":"chatte",
-    "gender":"feminine",
-    "translation":"female cat"
+    "word": "ciment",
+    "gender": "masculine",
+    "translation": "cement"
   },
   {
-    "word":"chaud",
-    "gender":"masculine",
-    "translation":"heat"
+    "word": "cintre",
+    "gender": "masculine",
+    "translation": "hanger"
   },
   {
-    "word":"chemise",
-    "gender":"feminine",
-    "translation":"shirt"
+    "word": "cirque",
+    "gender": "masculine",
+    "translation": "circus"
   },
   {
-    "word":"chemin",
-    "gender":"masculine",
-    "translation":"path"
+    "word": "citron",
+    "gender": "masculine",
+    "translation": "lemon"
   },
   {
-    "word":"chiffre",
-    "gender":"masculine",
-    "translation":"number"
+    "word": "citrouille",
+    "gender": "feminine",
+    "translation": "pumpkin"
   },
   {
-    "word":"chocolat",
-    "gender":"masculine",
-    "translation":"chocolate"
+    "word": "civilisation",
+    "gender": "feminine",
+    "translation": "civilization"
   },
   {
-    "word":"choix",
-    "gender":"masculine",
-    "translation":"choice"
+    "word": "clair",
+    "gender": "masculine",
+    "translation": "light"
   },
   {
-    "word":"chorale",
-    "gender":"feminine",
-    "translation":"choir"
+    "word": "classe",
+    "gender": "feminine",
+    "translation": "class"
   },
   {
-    "word":"chose",
-    "gender":"feminine",
-    "translation":"thing"
+    "word": "cloche",
+    "gender": "feminine",
+    "translation": "bell"
   },
   {
-    "word":"cigarette",
-    "gender":"feminine",
-    "translation":"cigarette"
+    "word": "cœur",
+    "gender": "masculine",
+    "translation": "heart"
   },
   {
-    "word":"cigogne",
-    "gender":"feminine",
-    "translation":"stork"
+    "word": "coin",
+    "gender": "masculine",
+    "translation": "corner"
   },
   {
-    "word":"ciment",
-    "gender":"masculine",
-    "translation":"cement"
+    "word": "colère",
+    "gender": "feminine",
+    "translation": "anger"
   },
   {
-    "word":"cintre",
-    "gender":"masculine",
-    "translation":"hanger"
+    "word": "collier",
+    "gender": "masculine",
+    "translation": "necklace"
   },
   {
-    "word":"cirque",
-    "gender":"masculine",
-    "translation":"circus"
+    "word": "colonne",
+    "gender": "feminine",
+    "translation": "column"
   },
   {
-    "word":"citron",
-    "gender":"masculine",
-    "translation":"lemon"
+    "word": "combat",
+    "gender": "masculine",
+    "translation": "fight"
   },
   {
-    "word":"citrouille",
-    "gender":"feminine",
-    "translation":"pumpkin"
+    "word": "comédie",
+    "gender": "feminine",
+    "translation": "comedy"
   },
   {
-    "word":"civilisation",
-    "gender":"feminine",
-    "translation":"civilization"
+    "word": "compagnie",
+    "gender": "feminine",
+    "translation": "company"
   },
   {
-    "word":"clair",
-    "gender":"masculine",
-    "translation":"light"
+    "word": "comparaison",
+    "gender": "feminine",
+    "translation": "comparison"
   },
   {
-    "word":"classe",
-    "gender":"feminine",
-    "translation":"class"
+    "word": "compétence",
+    "gender": "feminine",
+    "translation": "skill"
   },
   {
-    "word":"cloche",
-    "gender":"feminine",
-    "translation":"bell"
+    "word": "compliment",
+    "gender": "masculine",
+    "translation": "compliment"
   },
   {
-    "word":"cœur",
-    "gender":"masculine",
-    "translation":"heart"
+    "word": "comportement",
+    "gender": "masculine",
+    "translation": "behavior"
   },
   {
-    "word":"coin",
-    "gender":"masculine",
-    "translation":"corner"
+    "word": "concert",
+    "gender": "masculine",
+    "translation": "concert"
   },
   {
-    "word":"colère",
-    "gender":"feminine",
-    "translation":"anger"
+    "word": "conclusion",
+    "gender": "feminine",
+    "translation": "conclusion"
   },
   {
-    "word":"collier",
-    "gender":"masculine",
-    "translation":"necklace"
+    "word": "condition",
+    "gender": "feminine",
+    "translation": "condition"
   },
   {
-    "word":"colonne",
-    "gender":"feminine",
-    "translation":"column"
+    "word": "confiance",
+    "gender": "feminine",
+    "translation": "trust"
   },
   {
-    "word":"combat",
-    "gender":"masculine",
-    "translation":"fight"
+    "word": "conflit",
+    "gender": "masculine",
+    "translation": "conflict"
   },
   {
-    "word":"comédie",
-    "gender":"feminine",
-    "translation":"comedy"
+    "word": "congé",
+    "gender": "masculine",
+    "translation": "leave"
   },
   {
-    "word":"compagnie",
-    "gender":"feminine",
-    "translation":"company"
+    "word": "connaissance",
+    "gender": "feminine",
+    "translation": "knowledge"
   },
   {
-    "word":"comparaison",
-    "gender":"feminine",
-    "translation":"comparison"
+    "word": "conseil",
+    "gender": "masculine",
+    "translation": "advice"
   },
   {
-    "word":"compétence",
-    "gender":"feminine",
-    "translation":"skill"
+    "word": "conséquence",
+    "gender": "feminine",
+    "translation": "consequence"
   },
   {
-    "word":"compliment",
-    "gender":"masculine",
-    "translation":"compliment"
+    "word": "constante",
+    "gender": "feminine",
+    "translation": "constant"
   },
   {
-    "word":"comportement",
-    "gender":"masculine",
-    "translation":"behavior"
+    "word": "contact",
+    "gender": "masculine",
+    "translation": "contact"
   },
   {
-    "word":"concert",
-    "gender":"masculine",
-    "translation":"concert"
+    "word": "contenu",
+    "gender": "masculine",
+    "translation": "content"
   },
   {
-    "word":"conclusion",
-    "gender":"feminine",
-    "translation":"conclusion"
+    "word": "conversation",
+    "gender": "feminine",
+    "translation": "conversation"
   },
   {
-    "word":"condition",
-    "gender":"feminine",
-    "translation":"condition"
+    "word": "convention",
+    "gender": "feminine",
+    "translation": "convention"
   },
   {
-    "word":"confiance",
-    "gender":"feminine",
-    "translation":"trust"
+    "word": "corde",
+    "gender": "feminine",
+    "translation": "rope"
   },
   {
-    "word":"conflit",
-    "gender":"masculine",
-    "translation":"conflict"
+    "word": "corps",
+    "gender": "masculine",
+    "translation": "body"
   },
   {
-    "word":"congé",
-    "gender":"masculine",
-    "translation":"leave"
+    "word": "coton",
+    "gender": "masculine",
+    "translation": "cotton"
   },
   {
-    "word":"connaissance",
-    "gender":"feminine",
-    "translation":"knowledge"
+    "word": "couleur",
+    "gender": "feminine",
+    "translation": "color"
   },
   {
-    "word":"conseil",
-    "gender":"masculine",
-    "translation":"advice"
+    "word": "coupe",
+    "gender": "feminine",
+    "translation": "cut"
   },
   {
-    "word":"conséquence",
-    "gender":"feminine",
-    "translation":"consequence"
+    "word": "courant",
+    "gender": "masculine",
+    "translation": "current"
   },
   {
-    "word":"constante",
-    "gender":"feminine",
-    "translation":"constant"
+    "word": "couronne",
+    "gender": "feminine",
+    "translation": "crown"
   },
   {
-    "word":"contact",
-    "gender":"masculine",
-    "translation":"contact"
+    "word": "course",
+    "gender": "feminine",
+    "translation": "race"
   },
   {
-    "word":"contenu",
-    "gender":"masculine",
-    "translation":"content"
+    "word": "court",
+    "gender": "masculine",
+    "translation": "court"
   },
   {
-    "word":"conversation",
-    "gender":"feminine",
-    "translation":"conversation"
+    "word": "coussin",
+    "gender": "masculine",
+    "translation": "cushion"
   },
   {
-    "word":"convention",
-    "gender":"feminine",
-    "translation":"convention"
+    "word": "couture",
+    "gender": "feminine",
+    "translation": "sewing"
   },
   {
-    "word":"corde",
-    "gender":"feminine",
-    "translation":"rope"
+    "word": "cravate",
+    "gender": "feminine",
+    "translation": "tie"
   },
   {
-    "word":"corps",
-    "gender":"masculine",
-    "translation":"body"
+    "word": "crevette",
+    "gender": "feminine",
+    "translation": "shrimp"
   },
   {
-    "word":"coton",
-    "gender":"masculine",
-    "translation":"cotton"
+    "word": "crime",
+    "gender": "masculine",
+    "translation": "crime"
   },
   {
-    "word":"couleur",
-    "gender":"feminine",
-    "translation":"color"
+    "word": "croix",
+    "gender": "feminine",
+    "translation": "cross"
   },
   {
-    "word":"coupe",
-    "gender":"feminine",
-    "translation":"cut"
+    "word": "croissance",
+    "gender": "feminine",
+    "translation": "growth"
   },
   {
-    "word":"courant",
-    "gender":"masculine",
-    "translation":"current"
+    "word": "cuillère",
+    "gender": "feminine",
+    "translation": "spoon"
   },
   {
-    "word":"couronne",
-    "gender":"feminine",
-    "translation":"crown"
+    "word": "culture",
+    "gender": "feminine",
+    "translation": "culture"
   },
   {
-    "word":"course",
-    "gender":"feminine",
-    "translation":"race"
+    "word": "cuvette",
+    "gender": "feminine",
+    "translation": "bowl"
   },
   {
-    "word":"court",
-    "gender":"masculine",
-    "translation":"court"
+    "word": "cycle",
+    "gender": "masculine",
+    "translation": "cycle"
   },
   {
-    "word":"coussin",
-    "gender":"masculine",
-    "translation":"cushion"
+    "word": "dame",
+    "gender": "feminine",
+    "translation": "lady"
   },
   {
-    "word":"couture",
-    "gender":"feminine",
-    "translation":"sewing"
+    "word": "danger",
+    "gender": "masculine",
+    "translation": "danger"
   },
   {
-    "word":"cravate",
-    "gender":"feminine",
-    "translation":"tie"
+    "word": "danse",
+    "gender": "feminine",
+    "translation": "dance"
   },
   {
-    "word":"crevette",
-    "gender":"feminine",
-    "translation":"shrimp"
+    "word": "date",
+    "gender": "feminine",
+    "translation": "date"
   },
   {
-    "word":"crime",
-    "gender":"masculine",
-    "translation":"crime"
+    "word": "degré",
+    "gender": "masculine",
+    "translation": "degree"
   },
   {
-    "word":"croix",
-    "gender":"feminine",
-    "translation":"cross"
+    "word": "demande",
+    "gender": "feminine",
+    "translation": "request"
   },
   {
-    "word":"croissance",
-    "gender":"feminine",
-    "translation":"growth"
+    "word": "demi",
+    "gender": "masculine",
+    "translation": "half"
   },
   {
-    "word":"cuillère",
-    "gender":"feminine",
-    "translation":"spoon"
+    "word": "dent",
+    "gender": "feminine",
+    "translation": "tooth"
   },
   {
-    "word":"culture",
-    "gender":"feminine",
-    "translation":"culture"
+    "word": "départ",
+    "gender": "masculine",
+    "translation": "departure"
   },
   {
-    "word":"cuisine",
-    "gender":"feminine",
-    "translation":"kitchen"
+    "word": "diamant",
+    "gender": "masculine",
+    "translation": "diamond"
   },
   {
-    "word":"cuvette",
-    "gender":"feminine",
-    "translation":"bowl"
+    "word": "dictature",
+    "gender": "feminine",
+    "translation": "dictatorship"
   },
   {
-    "word":"cycle",
-    "gender":"masculine",
-    "translation":"cycle"
+    "word": "différence",
+    "gender": "feminine",
+    "translation": "difference"
   },
   {
-    "word":"dame",
-    "gender":"feminine",
-    "translation":"lady"
+    "word": "difficulté",
+    "gender": "feminine",
+    "translation": "difficulty"
   },
   {
-    "word":"danger",
-    "gender":"masculine",
-    "translation":"danger"
+    "word": "direction",
+    "gender": "feminine",
+    "translation": "direction"
   },
   {
-    "word":"danse",
-    "gender":"feminine",
-    "translation":"dance"
+    "word": "discours",
+    "gender": "masculine",
+    "translation": "speech"
   },
   {
-    "word":"date",
-    "gender":"feminine",
-    "translation":"date"
+    "word": "discussion",
+    "gender": "feminine",
+    "translation": "discussion"
   },
   {
-    "word":"degré",
-    "gender":"masculine",
-    "translation":"degree"
+    "word": "disease",
+    "gender": "feminine",
+    "translation": "maladie"
   },
   {
-    "word":"demande",
-    "gender":"feminine",
-    "translation":"request"
+    "word": "distance",
+    "gender": "feminine",
+    "translation": "distance"
   },
   {
-    "word":"demi",
-    "gender":"masculine",
-    "translation":"half"
+    "word": "distribution",
+    "gender": "feminine",
+    "translation": "distribution"
   },
   {
-    "word":"dent",
-    "gender":"feminine",
-    "translation":"tooth"
+    "word": "diversité",
+    "gender": "feminine",
+    "translation": "diversity"
   },
   {
-    "word":"départ",
-    "gender":"masculine",
-    "translation":"departure"
+    "word": "division",
+    "gender": "feminine",
+    "translation": "division"
   },
   {
-    "word":"diamant",
-    "gender":"masculine",
-    "translation":"diamond"
+    "word": "doigt",
+    "gender": "masculine",
+    "translation": "finger"
   },
   {
-    "word":"dictature",
-    "gender":"feminine",
-    "translation":"dictatorship"
+    "word": "dollar",
+    "gender": "masculine",
+    "translation": "dollar"
   },
   {
-    "word":"différence",
-    "gender":"feminine",
-    "translation":"difference"
+    "word": "domaine",
+    "gender": "masculine",
+    "translation": "domain"
   },
   {
-    "word":"difficulté",
-    "gender":"feminine",
-    "translation":"difficulty"
+    "word": "domicile",
+    "gender": "masculine",
+    "translation": "home"
   },
   {
-    "word":"direction",
-    "gender":"feminine",
-    "translation":"direction"
+    "word": "don",
+    "gender": "masculine",
+    "translation": "gift"
   },
   {
-    "word":"discours",
-    "gender":"masculine",
-    "translation":"speech"
+    "word": "donjon",
+    "gender": "masculine",
+    "translation": "keep"
   },
   {
-    "word":"discussion",
-    "gender":"feminine",
-    "translation":"discussion"
+    "word": "dose",
+    "gender": "feminine",
+    "translation": "dose"
   },
   {
-    "word":"disease",
-    "gender":"feminine",
-    "translation":"maladie"
+    "word": "doute",
+    "gender": "feminine",
+    "translation": "doubt"
   },
   {
-    "word":"distance",
-    "gender":"feminine",
-    "translation":"distance"
+    "word": "douleur",
+    "gender": "feminine",
+    "translation": "pain"
   },
   {
-    "word":"distribution",
-    "gender":"feminine",
-    "translation":"distribution"
+    "word": "drapeau",
+    "gender": "masculine",
+    "translation": "flag"
   },
   {
-    "word":"diversité",
-    "gender":"feminine",
-    "translation":"diversity"
+    "word": "droite",
+    "gender": "feminine",
+    "translation": "right"
   },
   {
-    "word":"division",
-    "gender":"feminine",
-    "translation":"division"
+    "word": "durée",
+    "gender": "feminine",
+    "translation": "duration"
   },
   {
-    "word":"doigt",
-    "gender":"masculine",
-    "translation":"finger"
+    "word": "dynamique",
+    "gender": "feminine",
+    "translation": "dynamic"
   },
   {
-    "word":"dollar",
-    "gender":"masculine",
-    "translation":"dollar"
+    "word": "échelle",
+    "gender": "feminine",
+    "translation": "ladder"
   },
   {
-    "word":"domaine",
-    "gender":"masculine",
-    "translation":"domain"
+    "word": "écoute",
+    "gender": "feminine",
+    "translation": "listening"
   },
   {
-    "word":"domicile",
-    "gender":"masculine",
-    "translation":"home"
+    "word": "écriture",
+    "gender": "feminine",
+    "translation": "writing"
   },
   {
-    "word":"don",
-    "gender":"masculine",
-    "translation":"gift"
+    "word": "effort",
+    "gender": "masculine",
+    "translation": "effort"
   },
   {
-    "word":"donjon",
-    "gender":"masculine",
-    "translation":"keep"
+    "word": "égalité",
+    "gender": "feminine",
+    "translation": "equality"
   },
   {
-    "word":"dose",
-    "gender":"feminine",
-    "translation":"dose"
+    "word": "élection",
+    "gender": "feminine",
+    "translation": "election"
   },
   {
-    "word":"doute",
-    "gender":"feminine",
-    "translation":"doubt"
+    "word": "enjeu",
+    "gender": "masculine",
+    "translation": "stake"
   },
   {
-    "word":"douleur",
-    "gender":"feminine",
-    "translation":"pain"
+    "word": "épaule",
+    "gender": "feminine",
+    "translation": "shoulder"
   },
   {
-    "word":"drapeau",
-    "gender":"masculine",
-    "translation":"flag"
+    "word": "épice",
+    "gender": "feminine",
+    "translation": "spice"
   },
   {
-    "word":"droite",
-    "gender":"feminine",
-    "translation":"right"
+    "word": "équipement",
+    "gender": "masculine",
+    "translation": "equipment"
   },
   {
-    "word":"durée",
-    "gender":"feminine",
-    "translation":"duration"
+    "word": "équitation",
+    "gender": "feminine",
+    "translation": "horseback riding"
   },
   {
-    "word":"dynamique",
-    "gender":"feminine",
-    "translation":"dynamic"
+    "word": "erreur",
+    "gender": "feminine",
+    "translation": "error"
   },
   {
-    "word":"échelle",
-    "gender":"feminine",
-    "translation":"ladder"
+    "word": "escalier",
+    "gender": "masculine",
+    "translation": "staircase"
   },
   {
-    "word":"écoute",
-    "gender":"feminine",
-    "translation":"listening"
+    "word": "espace",
+    "gender": "masculine",
+    "translation": "space"
   },
   {
-    "word":"écriture",
-    "gender":"feminine",
-    "translation":"writing"
+    "word": "espèce",
+    "gender": "feminine",
+    "translation": "species"
   },
   {
-    "word":"effort",
-    "gender":"masculine",
-    "translation":"effort"
+    "word": "espoir",
+    "gender": "masculine",
+    "translation": "hope"
   },
   {
-    "word":"égalité",
-    "gender":"feminine",
-    "translation":"equality"
+    "word": "essai",
+    "gender": "masculine",
+    "translation": "trial"
   },
   {
-    "word":"élection",
-    "gender":"feminine",
-    "translation":"election"
+    "word": "essence",
+    "gender": "feminine",
+    "translation": "gasoline"
   },
   {
-    "word":"enjeu",
-    "gender":"masculine",
-    "translation":"stake"
+    "word": "estomac",
+    "gender": "masculine",
+    "translation": "stomach"
   },
   {
-    "word":"épaule",
-    "gender":"feminine",
-    "translation":"shoulder"
+    "word": "étoffe",
+    "gender": "feminine",
+    "translation": "fabric"
   },
   {
-    "word":"épice",
-    "gender":"feminine",
-    "translation":"spice"
+    "word": "exemple",
+    "gender": "masculine",
+    "translation": "example"
   },
   {
-    "word":"équipement",
-    "gender":"masculine",
-    "translation":"equipment"
+    "word": "excursion",
+    "gender": "feminine",
+    "translation": "excursion"
   },
   {
-    "word":"équitation",
-    "gender":"feminine",
-    "translation":"horseback riding"
+    "word": "expérience",
+    "gender": "feminine",
+    "translation": "experience"
   },
   {
-    "word":"erreur",
-    "gender":"feminine",
-    "translation":"error"
+    "word": "expert",
+    "gender": "masculine",
+    "translation": "expert"
   },
   {
-    "word":"escalier",
-    "gender":"masculine",
-    "translation":"staircase"
+    "word": "exposition",
+    "gender": "feminine",
+    "translation": "exhibition"
   },
   {
-    "word":"espace",
-    "gender":"masculine",
-    "translation":"space"
+    "word": "extension",
+    "gender": "feminine",
+    "translation": "extension"
   },
   {
-    "word":"espèce",
-    "gender":"feminine",
-    "translation":"species"
+    "word": "facilité",
+    "gender": "feminine",
+    "translation": "ease"
   },
   {
-    "word":"espoir",
-    "gender":"masculine",
-    "translation":"hope"
+    "word": "facteur",
+    "gender": "masculine",
+    "translation": "factor"
   },
   {
-    "word":"essai",
-    "gender":"masculine",
-    "translation":"trial"
+    "word": "faiblesse",
+    "gender": "feminine",
+    "translation": "weakness"
   },
   {
-    "word":"essence",
-    "gender":"feminine",
-    "translation":"gasoline"
+    "word": "famille",
+    "gender": "feminine",
+    "translation": "family"
   },
   {
-    "word":"estomac",
-    "gender":"masculine",
-    "translation":"stomach"
+    "word": "fanfare",
+    "gender": "feminine",
+    "translation": "marching band"
   },
   {
-    "word":"étoffe",
-    "gender":"feminine",
-    "translation":"fabric"
+    "word": "fantôme",
+    "gender": "masculine",
+    "translation": "ghost"
   },
   {
-    "word":"exemple",
-    "gender":"masculine",
-    "translation":"example"
+    "word": "farine",
+    "gender": "feminine",
+    "translation": "flour"
   },
   {
-    "word":"excursion",
-    "gender":"feminine",
-    "translation":"excursion"
+    "word": "fatalité",
+    "gender": "feminine",
+    "translation": "fate"
   },
   {
-    "word":"expérience",
-    "gender":"feminine",
-    "translation":"experience"
+    "word": "faveur",
+    "gender": "feminine",
+    "translation": "favor"
   },
   {
-    "word":"expert",
-    "gender":"masculine",
-    "translation":"expert"
+    "word": "façade",
+    "gender": "feminine",
+    "translation": "facade"
   },
   {
-    "word":"exposition",
-    "gender":"feminine",
-    "translation":"exhibition"
+    "word": "feutre",
+    "gender": "masculine",
+    "translation": "felt-tip pen"
   },
   {
-    "word":"extension",
-    "gender":"feminine",
-    "translation":"extension"
+    "word": "fiabilité",
+    "gender": "feminine",
+    "translation": "reliability"
   },
   {
-    "word":"facilité",
-    "gender":"feminine",
-    "translation":"ease"
+    "word": "fibre",
+    "gender": "feminine",
+    "translation": "fiber"
   },
   {
-    "word":"facteur",
-    "gender":"masculine",
-    "translation":"factor"
+    "word": "fierté",
+    "gender": "feminine",
+    "translation": "pride"
   },
   {
-    "word":"faiblesse",
-    "gender":"feminine",
-    "translation":"weakness"
+    "word": "figure",
+    "gender": "feminine",
+    "translation": "figure"
   },
   {
-    "word":"famille",
-    "gender":"feminine",
-    "translation":"family"
+    "word": "fil",
+    "gender": "masculine",
+    "translation": "thread"
   },
   {
-    "word":"fanfare",
-    "gender":"feminine",
-    "translation":"marching band"
+    "word": "finition",
+    "gender": "feminine",
+    "translation": "finishing"
   },
   {
-    "word":"fantôme",
-    "gender":"masculine",
-    "translation":"ghost"
+    "word": "fleuriste",
+    "gender": "masculine",
+    "translation": "florist"
   },
   {
-    "word":"farine",
-    "gender":"feminine",
-    "translation":"flour"
+    "word": "foire",
+    "gender": "feminine",
+    "translation": "fair"
   },
   {
-    "word":"fatalité",
-    "gender":"feminine",
-    "translation":"fate"
+    "word": "fois",
+    "gender": "feminine",
+    "translation": "time (occurrence)"
   },
   {
-    "word":"faveur",
-    "gender":"feminine",
-    "translation":"favor"
+    "word": "fond",
+    "gender": "masculine",
+    "translation": "bottom"
   },
   {
-    "word":"façade",
-    "gender":"feminine",
-    "translation":"facade"
+    "word": "fontaine",
+    "gender": "feminine",
+    "translation": "fountain"
   },
   {
-    "word":"feutre",
-    "gender":"masculine",
-    "translation":"felt-tip pen"
+    "word": "force",
+    "gender": "feminine",
+    "translation": "force"
   },
   {
-    "word":"fiabilité",
-    "gender":"feminine",
-    "translation":"reliability"
+    "word": "forme",
+    "gender": "feminine",
+    "translation": "form"
   },
   {
-    "word":"fibre",
-    "gender":"feminine",
-    "translation":"fiber"
+    "word": "fortune",
+    "gender": "feminine",
+    "translation": "fortune"
   },
   {
-    "word":"fierté",
-    "gender":"feminine",
-    "translation":"pride"
+    "word": "foule",
+    "gender": "feminine",
+    "translation": "crowd"
   },
   {
-    "word":"figure",
-    "gender":"feminine",
-    "translation":"figure"
+    "word": "fraction",
+    "gender": "feminine",
+    "translation": "fraction"
   },
   {
-    "word":"fil",
-    "gender":"masculine",
-    "translation":"thread"
+    "word": "fragilité",
+    "gender": "feminine",
+    "translation": "fragility"
   },
   {
-    "word":"film",
-    "gender":"masculine",
-    "translation":"film"
+    "word": "franchise",
+    "gender": "feminine",
+    "translation": "franchise"
   },
   {
-    "word":"finition",
-    "gender":"feminine",
-    "translation":"finishing"
+    "word": "français",
+    "gender": "masculine",
+    "translation": "French (language)"
   },
   {
-    "word":"fleuriste",
-    "gender":"masculine",
-    "translation":"florist"
+    "word": "frayeur",
+    "gender": "feminine",
+    "translation": "fear"
   },
   {
-    "word":"foire",
-    "gender":"feminine",
-    "translation":"fair"
+    "word": "fuite",
+    "gender": "feminine",
+    "translation": "leak"
   },
   {
-    "word":"fois",
-    "gender":"feminine",
-    "translation":"time (occurrence)"
+    "word": "funérailles",
+    "gender": "feminine",
+    "translation": "funeral"
   },
   {
-    "word":"fond",
-    "gender":"masculine",
-    "translation":"bottom"
+    "word": "futur",
+    "gender": "masculine",
+    "translation": "future"
   },
   {
-    "word":"fontaine",
-    "gender":"feminine",
-    "translation":"fountain"
+    "word": "gage",
+    "gender": "masculine",
+    "translation": "pledge"
   },
   {
-    "word":"force",
-    "gender":"feminine",
-    "translation":"force"
+    "word": "galaxie",
+    "gender": "feminine",
+    "translation": "galaxy"
   },
   {
-    "word":"forme",
-    "gender":"feminine",
-    "translation":"form"
+    "word": "galerie",
+    "gender": "feminine",
+    "translation": "gallery"
   },
   {
-    "word":"fortune",
-    "gender":"feminine",
-    "translation":"fortune"
+    "word": "gâteau",
+    "gender": "masculine",
+    "translation": "cake"
   },
   {
-    "word":"foule",
-    "gender":"feminine",
-    "translation":"crowd"
+    "word": "gauche",
+    "gender": "feminine",
+    "translation": "left"
   },
   {
-    "word":"fraction",
-    "gender":"feminine",
-    "translation":"fraction"
+    "word": "gendarme",
+    "gender": "masculine",
+    "translation": "police officer"
   },
   {
-    "word":"fragilité",
-    "gender":"feminine",
-    "translation":"fragility"
+    "word": "générosité",
+    "gender": "feminine",
+    "translation": "generosity"
   },
   {
-    "word":"franchise",
-    "gender":"feminine",
-    "translation":"franchise"
+    "word": "génie",
+    "gender": "masculine",
+    "translation": "genius"
   },
   {
-    "word":"français",
-    "gender":"masculine",
-    "translation":"French (language)"
+    "word": "gérant",
+    "gender": "masculine",
+    "translation": "manager"
   },
   {
-    "word":"frayeur",
-    "gender":"feminine",
-    "translation":"fear"
+    "word": "germe",
+    "gender": "masculine",
+    "translation": "germ"
   },
   {
-    "word":"fuite",
-    "gender":"feminine",
-    "translation":"leak"
+    "word": "gilet",
+    "gender": "masculine",
+    "translation": "vest"
   },
   {
-    "word":"funérailles",
-    "gender":"feminine",
-    "translation":"funeral"
+    "word": "givre",
+    "gender": "masculine",
+    "translation": "frost"
   },
   {
-    "word":"futur",
-    "gender":"masculine",
-    "translation":"future"
+    "word": "gloire",
+    "gender": "feminine",
+    "translation": "glory"
   },
   {
-    "word":"gage",
-    "gender":"masculine",
-    "translation":"pledge"
+    "word": "goût",
+    "gender": "masculine",
+    "translation": "taste"
   },
   {
-    "word":"galaxie",
-    "gender":"feminine",
-    "translation":"galaxy"
+    "word": "gouvernement",
+    "gender": "masculine",
+    "translation": "government"
   },
   {
-    "word":"galerie",
-    "gender":"feminine",
-    "translation":"gallery"
+    "word": "grandeur",
+    "gender": "feminine",
+    "translation": "greatness"
   },
   {
-    "word":"gâteau",
-    "gender":"masculine",
-    "translation":"cake"
+    "word": "gratitude",
+    "gender": "feminine",
+    "translation": "gratitude"
   },
   {
-    "word":"gauche",
-    "gender":"feminine",
-    "translation":"left"
+    "word": "gris",
+    "gender": "masculine",
+    "translation": "gray"
   },
   {
-    "word":"gendarme",
-    "gender":"masculine",
-    "translation":"police officer"
+    "word": "grue",
+    "gender": "feminine",
+    "translation": "crane"
   },
   {
-    "word":"générosité",
-    "gender":"feminine",
-    "translation":"generosity"
+    "word": "guêpe",
+    "gender": "feminine",
+    "translation": "wasp"
   },
   {
-    "word":"génie",
-    "gender":"masculine",
-    "translation":"genius"
+    "word": "guide",
+    "gender": "masculine",
+    "translation": "guide"
   },
   {
-    "word":"gérant",
-    "gender":"masculine",
-    "translation":"manager"
+    "word": "guitare",
+    "gender": "feminine",
+    "translation": "guitar"
   },
   {
-    "word":"germe",
-    "gender":"masculine",
-    "translation":"germ"
+    "word": "habitude",
+    "gender": "feminine",
+    "translation": "habit"
   },
   {
-    "word":"gilet",
-    "gender":"masculine",
-    "translation":"vest"
+    "word": "halte",
+    "gender": "feminine",
+    "translation": "stop"
   },
   {
-    "word":"givre",
-    "gender":"masculine",
-    "translation":"frost"
+    "word": "haricot",
+    "gender": "masculine",
+    "translation": "bean"
   },
   {
-    "word":"gloire",
-    "gender":"feminine",
-    "translation":"glory"
+    "word": "hasard",
+    "gender": "masculine",
+    "translation": "chance"
   },
   {
-    "word":"goût",
-    "gender":"masculine",
-    "translation":"taste"
+    "word": "haut",
+    "gender": "masculine",
+    "translation": "height"
   },
   {
-    "word":"gouvernement",
-    "gender":"masculine",
-    "translation":"government"
+    "word": "havre",
+    "gender": "masculine",
+    "translation": "harbor"
   },
   {
-    "word":"grandeur",
-    "gender":"feminine",
-    "translation":"greatness"
+    "word": "héritage",
+    "gender": "masculine",
+    "translation": "heritage"
   },
   {
-    "word":"gratitude",
-    "gender":"feminine",
-    "translation":"gratitude"
+    "word": "heure",
+    "gender": "feminine",
+    "translation": "hour"
   },
   {
-    "word":"gris",
-    "gender":"masculine",
-    "translation":"gray"
+    "word": "histoire",
+    "gender": "feminine",
+    "translation": "history"
   },
   {
-    "word":"grue",
-    "gender":"feminine",
-    "translation":"crane"
+    "word": "homard",
+    "gender": "masculine",
+    "translation": "lobster"
   },
   {
-    "word":"guêpe",
-    "gender":"feminine",
-    "translation":"wasp"
+    "word": "honneur",
+    "gender": "masculine",
+    "translation": "honor"
   },
   {
-    "word":"guide",
-    "gender":"masculine",
-    "translation":"guide"
+    "word": "hôpital",
+    "gender": "masculine",
+    "translation": "hospital"
   },
   {
-    "word":"guitare",
-    "gender":"feminine",
-    "translation":"guitar"
+    "word": "horizon",
+    "gender": "masculine",
+    "translation": "horizon"
   },
   {
-    "word":"habitude",
-    "gender":"feminine",
-    "translation":"habit"
+    "word": "horreur",
+    "gender": "feminine",
+    "translation": "horror"
   },
   {
-    "word":"halte",
-    "gender":"feminine",
-    "translation":"stop"
+    "word": "huile",
+    "gender": "feminine",
+    "translation": "oil"
   },
   {
-    "word":"haricot",
-    "gender":"masculine",
-    "translation":"bean"
+    "word": "humanité",
+    "gender": "feminine",
+    "translation": "humanity"
   },
   {
-    "word":"hasard",
-    "gender":"masculine",
-    "translation":"chance"
+    "word": "humour",
+    "gender": "masculine",
+    "translation": "humor"
   },
   {
-    "word":"haut",
-    "gender":"masculine",
-    "translation":"height"
+    "word": "idée",
+    "gender": "feminine",
+    "translation": "idea"
   },
   {
-    "word":"havre",
-    "gender":"masculine",
-    "translation":"harbor"
+    "word": "immigration",
+    "gender": "feminine",
+    "translation": "immigration"
   },
   {
-    "word":"héritage",
-    "gender":"masculine",
-    "translation":"heritage"
+    "word": "immobilier",
+    "gender": "masculine",
+    "translation": "real estate"
   },
   {
-    "word":"heure",
-    "gender":"feminine",
-    "translation":"hour"
+    "word": "impact",
+    "gender": "masculine",
+    "translation": "impact"
   },
   {
-    "word":"histoire",
-    "gender":"feminine",
-    "translation":"history"
+    "word": "impression",
+    "gender": "feminine",
+    "translation": "impression"
   },
   {
-    "word":"homard",
-    "gender":"masculine",
-    "translation":"lobster"
+    "word": "infanterie",
+    "gender": "feminine",
+    "translation": "infantry"
   },
   {
-    "word":"honneur",
-    "gender":"masculine",
-    "translation":"honor"
+    "word": "information",
+    "gender": "feminine",
+    "translation": "information"
   },
   {
-    "word":"hôpital",
-    "gender":"masculine",
-    "translation":"hospital"
+    "word": "ingénierie",
+    "gender": "feminine",
+    "translation": "engineering"
   },
   {
-    "word":"horizon",
-    "gender":"masculine",
-    "translation":"horizon"
+    "word": "initiative",
+    "gender": "feminine",
+    "translation": "initiative"
   },
   {
-    "word":"horreur",
-    "gender":"feminine",
-    "translation":"horror"
+    "word": "injustice",
+    "gender": "feminine",
+    "translation": "injustice"
   },
   {
-    "word":"huile",
-    "gender":"feminine",
-    "translation":"oil"
+    "word": "inondation",
+    "gender": "feminine",
+    "translation": "flood"
   },
   {
-    "word":"humanité",
-    "gender":"feminine",
-    "translation":"humanity"
+    "word": "inscription",
+    "gender": "feminine",
+    "translation": "registration"
   },
   {
-    "word":"humour",
-    "gender":"masculine",
-    "translation":"humor"
+    "word": "installation",
+    "gender": "feminine",
+    "translation": "installation"
   },
   {
-    "word":"idée",
-    "gender":"feminine",
-    "translation":"idea"
+    "word": "instrument",
+    "gender": "masculine",
+    "translation": "instrument"
   },
   {
-    "word":"immigration",
-    "gender":"feminine",
-    "translation":"immigration"
+    "word": "intelligence",
+    "gender": "feminine",
+    "translation": "intelligence"
   },
   {
-    "word":"immobilier",
-    "gender":"masculine",
-    "translation":"real estate"
+    "word": "intervention",
+    "gender": "feminine",
+    "translation": "intervention"
   },
   {
-    "word":"impact",
-    "gender":"masculine",
-    "translation":"impact"
+    "word": "introduction",
+    "gender": "feminine",
+    "translation": "introduction"
   },
   {
-    "word":"impression",
-    "gender":"feminine",
-    "translation":"impression"
+    "word": "invasion",
+    "gender": "feminine",
+    "translation": "invasion"
   },
   {
-    "word":"infanterie",
-    "gender":"feminine",
-    "translation":"infantry"
+    "word": "invitation",
+    "gender": "feminine",
+    "translation": "invitation"
   },
   {
-    "word":"information",
-    "gender":"feminine",
-    "translation":"information"
+    "word": "janvier",
+    "gender": "masculine",
+    "translation": "January"
   },
   {
-    "word":"ingénierie",
-    "gender":"feminine",
-    "translation":"engineering"
+    "word": "jeudi",
+    "gender": "masculine",
+    "translation": "Thursday"
   },
   {
-    "word":"initiative",
-    "gender":"feminine",
-    "translation":"initiative"
+    "word": "jeunesse",
+    "gender": "feminine",
+    "translation": "youth"
   },
   {
-    "word":"injustice",
-    "gender":"feminine",
-    "translation":"injustice"
+    "word": "jouet",
+    "gender": "masculine",
+    "translation": "toy"
   },
   {
-    "word":"inondation",
-    "gender":"feminine",
-    "translation":"flood"
+    "word": "journée",
+    "gender": "feminine",
+    "translation": "day"
   },
   {
-    "word":"inscription",
-    "gender":"feminine",
-    "translation":"registration"
+    "word": "jugement",
+    "gender": "masculine",
+    "translation": "judgment"
   },
   {
-    "word":"installation",
-    "gender":"feminine",
-    "translation":"installation"
+    "word": "juin",
+    "gender": "masculine",
+    "translation": "June"
   },
   {
-    "word":"instrument",
-    "gender":"masculine",
-    "translation":"instrument"
+    "word": "jungle",
+    "gender": "feminine",
+    "translation": "jungle"
   },
   {
-    "word":"intelligence",
-    "gender":"feminine",
-    "translation":"intelligence"
+    "word": "lait",
+    "gender": "masculine",
+    "translation": "milk"
   },
   {
-    "word":"intervention",
-    "gender":"feminine",
-    "translation":"intervention"
+    "word": "lampe",
+    "gender": "feminine",
+    "translation": "lamp"
   },
   {
-    "word":"introduction",
-    "gender":"feminine",
-    "translation":"introduction"
+    "word": "langue",
+    "gender": "feminine",
+    "translation": "language"
   },
   {
-    "word":"invasion",
-    "gender":"feminine",
-    "translation":"invasion"
+    "word": "larme",
+    "gender": "feminine",
+    "translation": "tear"
   },
   {
-    "word":"invitation",
-    "gender":"feminine",
-    "translation":"invitation"
+    "word": "laser",
+    "gender": "masculine",
+    "translation": "laser"
   },
   {
-    "word":"janvier",
-    "gender":"masculine",
-    "translation":"January"
+    "word": "lecture",
+    "gender": "feminine",
+    "translation": "reading"
   },
   {
-    "word":"jeudi",
-    "gender":"masculine",
-    "translation":"Thursday"
+    "word": "léger",
+    "gender": "masculine",
+    "translation": "light (weight)"
   },
   {
-    "word":"jeunesse",
-    "gender":"feminine",
-    "translation":"youth"
+    "word": "lendemain",
+    "gender": "masculine",
+    "translation": "next day"
   },
   {
-    "word":"jouet",
-    "gender":"masculine",
-    "translation":"toy"
+    "word": "lettre",
+    "gender": "feminine",
+    "translation": "letter"
   },
   {
-    "word":"journée",
-    "gender":"feminine",
-    "translation":"day"
+    "word": "levier",
+    "gender": "masculine",
+    "translation": "lever"
   },
   {
-    "word":"jugement",
-    "gender":"masculine",
-    "translation":"judgment"
+    "word": "liberté",
+    "gender": "feminine",
+    "translation": "freedom"
   },
   {
-    "word":"juin",
-    "gender":"masculine",
-    "translation":"June"
+    "word": "licorne",
+    "gender": "feminine",
+    "translation": "unicorn"
   },
   {
-    "word":"jungle",
-    "gender":"feminine",
-    "translation":"jungle"
+    "word": "lien",
+    "gender": "masculine",
+    "translation": "link"
   },
   {
-    "word":"lait",
-    "gender":"masculine",
-    "translation":"milk"
+    "word": "ligue",
+    "gender": "feminine",
+    "translation": "league"
   },
   {
-    "word":"lampe",
-    "gender":"feminine",
-    "translation":"lamp"
+    "word": "ligne",
+    "gender": "feminine",
+    "translation": "line"
   },
   {
-    "word":"langue",
-    "gender":"feminine",
-    "translation":"language"
+    "word": "lumière",
+    "gender": "feminine",
+    "translation": "light"
   },
   {
-    "word":"larme",
-    "gender":"feminine",
-    "translation":"tear"
+    "word": "lutte",
+    "gender": "feminine",
+    "translation": "fight"
   },
   {
-    "word":"laser",
-    "gender":"masculine",
-    "translation":"laser"
+    "word": "magasin",
+    "gender": "masculine",
+    "translation": "store"
   },
   {
-    "word":"lecture",
-    "gender":"feminine",
-    "translation":"reading"
+    "word": "magie",
+    "gender": "feminine",
+    "translation": "magic"
   },
   {
-    "word":"léger",
-    "gender":"masculine",
-    "translation":"light (weight)"
+    "word": "maire",
+    "gender": "masculine",
+    "translation": "mayor"
   },
   {
-    "word":"lendemain",
-    "gender":"masculine",
-    "translation":"next day"
+    "word": "majorité",
+    "gender": "feminine",
+    "translation": "majority"
   },
   {
-    "word":"lettre",
-    "gender":"feminine",
-    "translation":"letter"
+    "word": "maladie",
+    "gender": "feminine",
+    "translation": "disease"
   },
   {
-    "word":"levier",
-    "gender":"masculine",
-    "translation":"lever"
+    "word": "malheur",
+    "gender": "masculine",
+    "translation": "misfortune"
   },
   {
-    "word":"liberté",
-    "gender":"feminine",
-    "translation":"freedom"
+    "word": "maman",
+    "gender": "feminine",
+    "translation": "mom"
   },
   {
-    "word":"licorne",
-    "gender":"feminine",
-    "translation":"unicorn"
+    "word": "manche",
+    "gender": "feminine",
+    "translation": "handle/sleeve"
   },
   {
-    "word":"lien",
-    "gender":"masculine",
-    "translation":"link"
+    "word": "mandat",
+    "gender": "masculine",
+    "translation": "mandate"
   },
   {
-    "word":"ligue",
-    "gender":"feminine",
-    "translation":"league"
+    "word": "manga",
+    "gender": "masculine",
+    "translation": "manga"
   },
   {
-    "word":"ligne",
-    "gender":"feminine",
-    "translation":"line"
+    "word": "manque",
+    "gender": "masculine",
+    "translation": "lack"
   },
   {
-    "word":"lumière",
-    "gender":"feminine",
-    "translation":"light"
+    "word": "manuscrit",
+    "gender": "masculine",
+    "translation": "manuscript"
   },
   {
-    "word":"lutte",
-    "gender":"feminine",
-    "translation":"fight"
+    "word": "mardi",
+    "gender": "masculine",
+    "translation": "Tuesday"
   },
   {
-    "word":"magasin",
-    "gender":"masculine",
-    "translation":"store"
+    "word": "marge",
+    "gender": "feminine",
+    "translation": "margin"
   },
   {
-    "word":"magie",
-    "gender":"feminine",
-    "translation":"magic"
+    "word": "marine",
+    "gender": "feminine",
+    "translation": "navy"
   },
   {
-    "word":"maire",
-    "gender":"masculine",
-    "translation":"mayor"
+    "word": "marque",
+    "gender": "feminine",
+    "translation": "brand"
   },
   {
-    "word":"majorité",
-    "gender":"feminine",
-    "translation":"majority"
+    "word": "marteau",
+    "gender": "masculine",
+    "translation": "hammer"
   },
   {
-    "word":"maladie",
-    "gender":"feminine",
-    "translation":"disease"
+    "word": "masque",
+    "gender": "masculine",
+    "translation": "mask"
   },
   {
-    "word":"malheur",
-    "gender":"masculine",
-    "translation":"misfortune"
+    "word": "massage",
+    "gender": "masculine",
+    "translation": "massage"
   },
   {
-    "word":"maman",
-    "gender":"feminine",
-    "translation":"mom"
+    "word": "matelas",
+    "gender": "masculine",
+    "translation": "mattress"
   },
   {
-    "word":"manche",
-    "gender":"feminine",
-    "translation":"handle/sleeve"
+    "word": "matière",
+    "gender": "feminine",
+    "translation": "material"
   },
   {
-    "word":"mandat",
-    "gender":"masculine",
-    "translation":"mandate"
+    "word": "matin",
+    "gender": "masculine",
+    "translation": "morning"
   },
   {
-    "word":"manga",
-    "gender":"masculine",
-    "translation":"manga"
+    "word": "matrice",
+    "gender": "feminine",
+    "translation": "matrix"
   },
   {
-    "word":"manque",
-    "gender":"masculine",
-    "translation":"lack"
+    "word": "mauvais",
+    "gender": "masculine",
+    "translation": "bad"
   },
   {
-    "word":"manuscrit",
-    "gender":"masculine",
-    "translation":"manuscript"
+    "word": "maxi",
+    "gender": "masculine",
+    "translation": "maximum"
   },
   {
-    "word":"mardi",
-    "gender":"masculine",
-    "translation":"Tuesday"
+    "word": "mémoire",
+    "gender": "feminine",
+    "translation": "memory"
   },
   {
-    "word":"marge",
-    "gender":"feminine",
-    "translation":"margin"
+    "word": "mélodie",
+    "gender": "feminine",
+    "translation": "melody"
   },
   {
-    "word":"marine",
-    "gender":"feminine",
-    "translation":"navy"
+    "word": "menace",
+    "gender": "feminine",
+    "translation": "threat"
   },
   {
-    "word":"marque",
-    "gender":"feminine",
-    "translation":"brand"
+    "word": "mentalité",
+    "gender": "feminine",
+    "translation": "mentality"
   },
   {
-    "word":"marteau",
-    "gender":"masculine",
-    "translation":"hammer"
+    "word": "menstruation",
+    "gender": "feminine",
+    "translation": "menstruation"
   },
   {
-    "word":"masque",
-    "gender":"masculine",
-    "translation":"mask"
+    "word": "mention",
+    "gender": "feminine",
+    "translation": "mention"
   },
   {
-    "word":"massage",
-    "gender":"masculine",
-    "translation":"massage"
+    "word": "mensonge",
+    "gender": "masculine",
+    "translation": "lie"
   },
   {
-    "word":"matelas",
-    "gender":"masculine",
-    "translation":"mattress"
+    "word": "mercredi",
+    "gender": "masculine",
+    "translation": "Wednesday"
   },
   {
-    "word":"matière",
-    "gender":"feminine",
-    "translation":"material"
+    "word": "merci",
+    "gender": "masculine",
+    "translation": "thank you"
   },
   {
-    "word":"matin",
-    "gender":"masculine",
-    "translation":"morning"
+    "word": "merveille",
+    "gender": "feminine",
+    "translation": "wonder"
   },
   {
-    "word":"matrice",
-    "gender":"feminine",
-    "translation":"matrix"
+    "word": "message",
+    "gender": "masculine",
+    "translation": "message"
   },
   {
-    "word":"mauvais",
-    "gender":"masculine",
-    "translation":"bad"
+    "word": "messagerie",
+    "gender": "feminine",
+    "translation": "messaging"
   },
   {
-    "word":"maxi",
-    "gender":"masculine",
-    "translation":"maximum"
+    "word": "mesure",
+    "gender": "feminine",
+    "translation": "measure"
   },
   {
-    "word":"mémoire",
-    "gender":"feminine",
-    "translation":"memory"
+    "word": "métal",
+    "gender": "masculine",
+    "translation": "metal"
   },
   {
-    "word":"mélodie",
-    "gender":"feminine",
-    "translation":"melody"
+    "word": "métier",
+    "gender": "masculine",
+    "translation": "profession"
   },
   {
-    "word":"menace",
-    "gender":"feminine",
-    "translation":"threat"
+    "word": "méthode",
+    "gender": "feminine",
+    "translation": "method"
   },
   {
-    "word":"mentalité",
-    "gender":"feminine",
-    "translation":"mentality"
+    "word": "miette",
+    "gender": "feminine",
+    "translation": "crumb"
   },
   {
-    "word":"menstruation",
-    "gender":"feminine",
-    "translation":"menstruation"
+    "word": "milieu",
+    "gender": "masculine",
+    "translation": "environment"
   },
   {
-    "word":"mention",
-    "gender":"feminine",
-    "translation":"mention"
+    "word": "million",
+    "gender": "masculine",
+    "translation": "million"
   },
   {
-    "word":"mensonge",
-    "gender":"masculine",
-    "translation":"lie"
+    "word": "minéral",
+    "gender": "masculine",
+    "translation": "mineral"
   },
   {
-    "word":"mercredi",
-    "gender":"masculine",
-    "translation":"Wednesday"
+    "word": "minute",
+    "gender": "feminine",
+    "translation": "minute"
   },
   {
-    "word":"merci",
-    "gender":"masculine",
-    "translation":"thank you"
+    "word": "miracle",
+    "gender": "masculine",
+    "translation": "miracle"
   },
   {
-    "word":"merveille",
-    "gender":"feminine",
-    "translation":"wonder"
+    "word": "miroir",
+    "gender": "masculine",
+    "translation": "mirror"
   },
   {
-    "word":"message",
-    "gender":"masculine",
-    "translation":"message"
+    "word": "mission",
+    "gender": "feminine",
+    "translation": "mission"
   },
   {
-    "word":"messagerie",
-    "gender":"feminine",
-    "translation":"messaging"
+    "word": "mobilier",
+    "gender": "masculine",
+    "translation": "furniture"
   },
   {
-    "word":"mesure",
-    "gender":"feminine",
-    "translation":"measure"
+    "word": "mode",
+    "gender": "feminine",
+    "translation": "fashion"
   },
   {
-    "word":"métal",
-    "gender":"masculine",
-    "translation":"metal"
+    "word": "modèle",
+    "gender": "masculine",
+    "translation": "model"
   },
   {
-    "word":"métier",
-    "gender":"masculine",
-    "translation":"profession"
+    "word": "modification",
+    "gender": "feminine",
+    "translation": "modification"
   },
   {
-    "word":"méthode",
-    "gender":"feminine",
-    "translation":"method"
+    "word": "monnaie",
+    "gender": "feminine",
+    "translation": "currency"
   },
   {
-    "word":"miette",
-    "gender":"feminine",
-    "translation":"crumb"
+    "word": "monument",
+    "gender": "masculine",
+    "translation": "monument"
   },
   {
-    "word":"milieu",
-    "gender":"masculine",
-    "translation":"environment"
+    "word": "mot",
+    "gender": "masculine",
+    "translation": "word"
   },
   {
-    "word":"million",
-    "gender":"masculine",
-    "translation":"million"
+    "word": "mouchoir",
+    "gender": "masculine",
+    "translation": "handkerchief"
   },
   {
-    "word":"minéral",
-    "gender":"masculine",
-    "translation":"mineral"
+    "word": "mouvement",
+    "gender": "masculine",
+    "translation": "movement"
   },
   {
-    "word":"minute",
-    "gender":"feminine",
-    "translation":"minute"
+    "word": "muet",
+    "gender": "masculine",
+    "translation": "mute"
   },
   {
-    "word":"miracle",
-    "gender":"masculine",
-    "translation":"miracle"
+    "word": "musée",
+    "gender": "masculine",
+    "translation": "museum"
   },
   {
-    "word":"miroir",
-    "gender":"masculine",
-    "translation":"mirror"
+    "word": "mutation",
+    "gender": "feminine",
+    "translation": "mutation"
   },
   {
-    "word":"mission",
-    "gender":"feminine",
-    "translation":"mission"
+    "word": "mythe",
+    "gender": "masculine",
+    "translation": "myth"
   },
   {
-    "word":"mobilier",
-    "gender":"masculine",
-    "translation":"furniture"
+    "word": "nageoire",
+    "gender": "feminine",
+    "translation": "fin"
   },
   {
-    "word":"mode",
-    "gender":"feminine",
-    "translation":"fashion"
+    "word": "nappe",
+    "gender": "feminine",
+    "translation": "tablecloth"
   },
   {
-    "word":"modèle",
-    "gender":"masculine",
-    "translation":"model"
+    "word": "navire",
+    "gender": "masculine",
+    "translation": "ship"
   },
   {
-    "word":"modification",
-    "gender":"feminine",
-    "translation":"modification"
+    "word": "nez",
+    "gender": "masculine",
+    "translation": "nose"
   },
   {
-    "word":"monnaie",
-    "gender":"feminine",
-    "translation":"currency"
+    "word": "nid",
+    "gender": "masculine",
+    "translation": "nest"
   },
   {
-    "word":"monument",
-    "gender":"masculine",
-    "translation":"monument"
+    "word": "niveau",
+    "gender": "masculine",
+    "translation": "level"
   },
   {
-    "word":"mot",
-    "gender":"masculine",
-    "translation":"word"
+    "word": "noix",
+    "gender": "feminine",
+    "translation": "nut"
   },
   {
-    "word":"mouchoir",
-    "gender":"masculine",
-    "translation":"handkerchief"
+    "word": "nom",
+    "gender": "masculine",
+    "translation": "name"
   },
   {
-    "word":"mouvement",
-    "gender":"masculine",
-    "translation":"movement"
+    "word": "nombre",
+    "gender": "masculine",
+    "translation": "number"
   },
   {
-    "word":"muet",
-    "gender":"masculine",
-    "translation":"mute"
+    "word": "notaire",
+    "gender": "masculine",
+    "translation": "notary"
   },
   {
-    "word":"musée",
-    "gender":"masculine",
-    "translation":"museum"
+    "word": "note",
+    "gender": "feminine",
+    "translation": "note"
   },
   {
-    "word":"mutation",
-    "gender":"feminine",
-    "translation":"mutation"
+    "word": "nourriture",
+    "gender": "feminine",
+    "translation": "food"
   },
   {
-    "word":"mythe",
-    "gender":"masculine",
-    "translation":"myth"
+    "word": "nuance",
+    "gender": "feminine",
+    "translation": "shade"
   },
   {
-    "word":"nageoire",
-    "gender":"feminine",
-    "translation":"fin"
+    "word": "nuit",
+    "gender": "feminine",
+    "translation": "night"
   },
   {
-    "word":"nappe",
-    "gender":"feminine",
-    "translation":"tablecloth"
+    "word": "objet",
+    "gender": "masculine",
+    "translation": "object"
   },
   {
-    "word":"navire",
-    "gender":"masculine",
-    "translation":"ship"
+    "word": "occasion",
+    "gender": "feminine",
+    "translation": "opportunity"
   },
   {
-    "word":"nez",
-    "gender":"masculine",
-    "translation":"nose"
+    "word": "offre",
+    "gender": "feminine",
+    "translation": "offer"
   },
   {
-    "word":"nid",
-    "gender":"masculine",
-    "translation":"nest"
+    "word": "opinion",
+    "gender": "feminine",
+    "translation": "opinion"
   },
   {
-    "word":"niveau",
-    "gender":"masculine",
-    "translation":"level"
+    "word": "option",
+    "gender": "feminine",
+    "translation": "option"
   },
   {
-    "word":"noix",
-    "gender":"feminine",
-    "translation":"nut"
+    "word": "orgueil",
+    "gender": "masculine",
+    "translation": "pride"
   },
   {
-    "word":"nom",
-    "gender":"masculine",
-    "translation":"name"
+    "word": "orphelin",
+    "gender": "masculine",
+    "translation": "orphan"
   },
   {
-    "word":"nombre",
-    "gender":"masculine",
-    "translation":"number"
+    "word": "outil",
+    "gender": "masculine",
+    "translation": "tool"
   },
   {
-    "word":"notaire",
-    "gender":"masculine",
-    "translation":"notary"
+    "word": "ouverture",
+    "gender": "feminine",
+    "translation": "opening"
   },
   {
-    "word":"note",
-    "gender":"feminine",
-    "translation":"note"
+    "word": "ouvrage",
+    "gender": "masculine",
+    "translation": "work (book or work)"
   },
   {
-    "word":"nourriture",
-    "gender":"feminine",
-    "translation":"food"
+    "word": "pacte",
+    "gender": "masculine",
+    "translation": "pact"
   },
   {
-    "word":"nuance",
-    "gender":"feminine",
-    "translation":"shade"
+    "word": "page",
+    "gender": "feminine",
+    "translation": "page"
   },
   {
-    "word":"nuit",
-    "gender":"feminine",
-    "translation":"night"
+    "word": "paix",
+    "gender": "feminine",
+    "translation": "peace"
   },
   {
-    "word":"objet",
-    "gender":"masculine",
-    "translation":"object"
+    "word": "palais",
+    "gender": "masculine",
+    "translation": "palace"
   },
   {
-    "word":"objectif",
-    "gender":"masculine",
-    "translation":"objective"
+    "word": "panne",
+    "gender": "feminine",
+    "translation": "breakdown"
   },
   {
-    "word":"obligation",
-    "gender":"feminine",
-    "translation":"obligation"
+    "word": "panorama",
+    "gender": "masculine",
+    "translation": "panorama"
   },
   {
-    "word":"occasion",
-    "gender":"feminine",
-    "translation":"opportunity"
+    "word": "paquet",
+    "gender": "masculine",
+    "translation": "package"
   },
   {
-    "word":"offre",
-    "gender":"feminine",
-    "translation":"offer"
+    "word": "parapluie",
+    "gender": "masculine",
+    "translation": "umbrella"
   },
   {
-    "word":"opinion",
-    "gender":"feminine",
-    "translation":"opinion"
+    "word": "parcelle",
+    "gender": "feminine",
+    "translation": "plot"
   },
   {
-    "word":"option",
-    "gender":"feminine",
-    "translation":"option"
+    "word": "parfum",
+    "gender": "masculine",
+    "translation": "perfume"
   },
   {
-    "word":"orgueil",
-    "gender":"masculine",
-    "translation":"pride"
+    "word": "partage",
+    "gender": "masculine",
+    "translation": "sharing"
   },
   {
-    "word":"orphelin",
-    "gender":"masculine",
-    "translation":"orphan"
+    "word": "parti",
+    "gender": "masculine",
+    "translation": "party"
   },
   {
-    "word":"outil",
-    "gender":"masculine",
-    "translation":"tool"
+    "word": "partie",
+    "gender": "feminine",
+    "translation": "part"
   },
   {
-    "word":"ouverture",
-    "gender":"feminine",
-    "translation":"opening"
+    "word": "partisan",
+    "gender": "masculine",
+    "translation": "supporter"
   },
   {
-    "word":"ouvrage",
-    "gender":"masculine",
-    "translation":"work (book or work)"
+    "word": "passage",
+    "gender": "masculine",
+    "translation": "passage"
   },
   {
-    "word":"pacte",
-    "gender":"masculine",
-    "translation":"pact"
+    "word": "passion",
+    "gender": "feminine",
+    "translation": "passion"
   },
   {
-    "word":"page",
-    "gender":"feminine",
-    "translation":"page"
+    "word": "patrie",
+    "gender": "feminine",
+    "translation": "homeland"
   },
   {
-    "word":"paix",
-    "gender":"feminine",
-    "translation":"peace"
+    "word": "patte",
+    "gender": "feminine",
+    "translation": "paw"
   },
   {
-    "word":"palais",
-    "gender":"masculine",
-    "translation":"palace"
+    "word": "pause",
+    "gender": "feminine",
+    "translation": "pause"
   },
   {
-    "word":"panne",
-    "gender":"feminine",
-    "translation":"breakdown"
+    "word": "paysage",
+    "gender": "masculine",
+    "translation": "landscape"
   },
   {
-    "word":"panorama",
-    "gender":"masculine",
-    "translation":"panorama"
+    "word": "peau",
+    "gender": "feminine",
+    "translation": "skin"
   },
   {
-    "word":"paquet",
-    "gender":"masculine",
-    "translation":"package"
+    "word": "peine",
+    "gender": "feminine",
+    "translation": "pain"
   },
   {
-    "word":"parapluie",
-    "gender":"masculine",
-    "translation":"umbrella"
+    "word": "pelouse",
+    "gender": "feminine",
+    "translation": "lawn"
   },
   {
-    "word":"parcelle",
-    "gender":"feminine",
-    "translation":"plot"
+    "word": "pensée",
+    "gender": "feminine",
+    "translation": "thought"
   },
   {
-    "word":"parfum",
-    "gender":"masculine",
-    "translation":"perfume"
+    "word": "pente",
+    "gender": "feminine",
+    "translation": "slope"
   },
   {
-    "word":"partage",
-    "gender":"masculine",
-    "translation":"sharing"
+    "word": "perception",
+    "gender": "feminine",
+    "translation": "perception"
   },
   {
-    "word":"parti",
-    "gender":"masculine",
-    "translation":"party"
+    "word": "performance",
+    "gender": "feminine",
+    "translation": "performance"
   },
   {
-    "word":"partie",
-    "gender":"feminine",
-    "translation":"part"
+    "word": "période",
+    "gender": "feminine",
+    "translation": "period"
   },
   {
-    "word":"partisan",
-    "gender":"masculine",
-    "translation":"supporter"
+    "word": "perle",
+    "gender": "feminine",
+    "translation": "pearl"
   },
   {
-    "word":"passage",
-    "gender":"masculine",
-    "translation":"passage"
+    "word": "personnalité",
+    "gender": "feminine",
+    "translation": "personality"
   },
   {
-    "word":"passion",
-    "gender":"feminine",
-    "translation":"passion"
+    "word": "perspective",
+    "gender": "feminine",
+    "translation": "perspective"
   },
   {
-    "word":"patrie",
-    "gender":"feminine",
-    "translation":"homeland"
+    "word": "pessimisme",
+    "gender": "masculine",
+    "translation": "pessimism"
   },
   {
-    "word":"patte",
-    "gender":"feminine",
-    "translation":"paw"
+    "word": "petit",
+    "gender": "masculine",
+    "translation": "small"
   },
   {
-    "word":"pause",
-    "gender":"feminine",
-    "translation":"pause"
+    "word": "pièce",
+    "gender": "feminine",
+    "translation": "room/coin"
   },
   {
-    "word":"paysage",
-    "gender":"masculine",
-    "translation":"landscape"
+    "word": "pierre",
+    "gender": "feminine",
+    "translation": "stone"
   },
   {
-    "word":"peau",
-    "gender":"feminine",
-    "translation":"skin"
+    "word": "pilosité",
+    "gender": "feminine",
+    "translation": "hairiness"
   },
   {
-    "word":"peine",
-    "gender":"feminine",
-    "translation":"pain"
+    "word": "pin",
+    "gender": "masculine",
+    "translation": "pine"
   },
   {
-    "word":"pêche",
-    "gender":"feminine",
-    "translation":"peach/fishing"
+    "word": "pipe",
+    "gender": "feminine",
+    "translation": "pipe"
   },
   {
-    "word":"pelouse",
-    "gender":"feminine",
-    "translation":"lawn"
+    "word": "piscine",
+    "gender": "feminine",
+    "translation": "swimming pool"
   },
   {
-    "word":"pensée",
-    "gender":"feminine",
-    "translation":"thought"
+    "word": "pistolet",
+    "gender": "masculine",
+    "translation": "gun"
   },
   {
-    "word":"pente",
-    "gender":"feminine",
-    "translation":"slope"
+    "word": "pitié",
+    "gender": "feminine",
+    "translation": "pity"
   },
   {
-    "word":"perception",
-    "gender":"feminine",
-    "translation":"perception"
+    "word": "plume",
+    "gender": "feminine",
+    "translation": "feather/pen"
   },
   {
-    "word":"performance",
-    "gender":"feminine",
-    "translation":"performance"
+    "word": "plupart",
+    "gender": "feminine",
+    "translation": "majority"
   },
   {
-    "word":"période",
-    "gender":"feminine",
-    "translation":"period"
+    "word": "poids",
+    "gender": "masculine",
+    "translation": "weight"
   },
   {
-    "word":"perle",
-    "gender":"feminine",
-    "translation":"pearl"
+    "word": "poignet",
+    "gender": "masculine",
+    "translation": "wrist"
   },
   {
-    "word":"personnalité",
-    "gender":"feminine",
-    "translation":"personality"
+    "word": "point",
+    "gender": "masculine",
+    "translation": "point"
   },
   {
-    "word":"perspective",
-    "gender":"feminine",
-    "translation":"perspective"
+    "word": "poison",
+    "gender": "masculine",
+    "translation": "poison"
   },
   {
-    "word":"pessimisme",
-    "gender":"masculine",
-    "translation":"pessimism"
+    "word": "pomme",
+    "gender": "feminine",
+    "translation": "apple"
   },
   {
-    "word":"petit",
-    "gender":"masculine",
-    "translation":"small"
+    "word": "pompe",
+    "gender": "feminine",
+    "translation": "pump"
   },
   {
-    "word":"pièce",
-    "gender":"feminine",
-    "translation":"room/coin"
+    "word": "pont",
+    "gender": "masculine",
+    "translation": "bridge"
   },
   {
-    "word":"pierre",
-    "gender":"feminine",
-    "translation":"stone"
+    "word": "populaire",
+    "gender": "masculine",
+    "translation": "popular"
   },
   {
-    "word":"pilosité",
-    "gender":"feminine",
-    "translation":"hairiness"
+    "word": "population",
+    "gender": "feminine",
+    "translation": "population"
   },
   {
-    "word":"pin",
-    "gender":"masculine",
-    "translation":"pine"
+    "word": "portefeuille",
+    "gender": "masculine",
+    "translation": "wallet"
   },
   {
-    "word":"pipe",
-    "gender":"feminine",
-    "translation":"pipe"
+    "word": "portée",
+    "gender": "feminine",
+    "translation": "range"
   },
   {
-    "word":"piscine",
-    "gender":"feminine",
-    "translation":"swimming pool"
+    "word": "position",
+    "gender": "feminine",
+    "translation": "position"
   },
   {
-    "word":"pistolet",
-    "gender":"masculine",
-    "translation":"gun"
+    "word": "possibilité",
+    "gender": "feminine",
+    "translation": "possibility"
   },
   {
-    "word":"pitié",
-    "gender":"feminine",
-    "translation":"pity"
+    "word": "poste",
+    "gender": "masculine",
+    "translation": "post office"
   },
   {
-    "word":"plume",
-    "gender":"feminine",
-    "translation":"feather/pen"
+    "word": "pot",
+    "gender": "masculine",
+    "translation": "pot"
   },
   {
-    "word":"plupart",
-    "gender":"feminine",
-    "translation":"majority"
+    "word": "poteau",
+    "gender": "masculine",
+    "translation": "post"
   },
   {
-    "word":"poids",
-    "gender":"masculine",
-    "translation":"weight"
+    "word": "poubelle",
+    "gender": "feminine",
+    "translation": "trash can"
   },
   {
-    "word":"poignet",
-    "gender":"masculine",
-    "translation":"wrist"
+    "word": "poule",
+    "gender": "feminine",
+    "translation": "hen"
   },
   {
-    "word":"point",
-    "gender":"masculine",
-    "translation":"point"
+    "word": "poulet",
+    "gender": "masculine",
+    "translation": "chicken"
   },
   {
-    "word":"poison",
-    "gender":"masculine",
-    "translation":"poison"
+    "word": "pouvoir",
+    "gender": "masculine",
+    "translation": "power"
   },
   {
-    "word":"pomme",
-    "gender":"feminine",
-    "translation":"apple"
+    "word": "pratique",
+    "gender": "feminine",
+    "translation": "practice"
   },
   {
-    "word":"pompe",
-    "gender":"feminine",
-    "translation":"pump"
+    "word": "précaution",
+    "gender": "feminine",
+    "translation": "precaution"
   },
   {
-    "word":"pont",
-    "gender":"masculine",
-    "translation":"bridge"
+    "word": "préférence",
+    "gender": "feminine",
+    "translation": "preference"
   },
   {
-    "word":"populaire",
-    "gender":"masculine",
-    "translation":"popular"
+    "word": "préfet",
+    "gender": "masculine",
+    "translation": "prefect"
   },
   {
-    "word":"population",
-    "gender":"feminine",
-    "translation":"population"
+    "word": "préjudice",
+    "gender": "masculine",
+    "translation": "prejudice"
   },
   {
-    "word":"portefeuille",
-    "gender":"masculine",
-    "translation":"wallet"
+    "word": "prénom",
+    "gender": "masculine",
+    "translation": "first name"
   },
   {
-    "word":"portée",
-    "gender":"feminine",
-    "translation":"range"
+    "word": "présence",
+    "gender": "feminine",
+    "translation": "presence"
   },
   {
-    "word":"position",
-    "gender":"feminine",
-    "translation":"position"
+    "word": "pression",
+    "gender": "feminine",
+    "translation": "pressure"
   },
   {
-    "word":"possibilité",
-    "gender":"feminine",
-    "translation":"possibility"
+    "word": "preuve",
+    "gender": "feminine",
+    "translation": "proof"
   },
   {
-    "word":"poste",
-    "gender":"masculine",
-    "translation":"post office"
+    "word": "prière",
+    "gender": "feminine",
+    "translation": "prayer"
   },
   {
-    "word":"pot",
-    "gender":"masculine",
-    "translation":"pot"
+    "word": "principe",
+    "gender": "masculine",
+    "translation": "principle"
   },
   {
-    "word":"poteau",
-    "gender":"masculine",
-    "translation":"post"
+    "word": "printemps",
+    "gender": "masculine",
+    "translation": "spring"
   },
   {
-    "word":"poubelle",
-    "gender":"feminine",
-    "translation":"trash can"
+    "word": "prison",
+    "gender": "feminine",
+    "translation": "prison"
   },
   {
-    "word":"poule",
-    "gender":"feminine",
-    "translation":"hen"
+    "word": "problème",
+    "gender": "masculine",
+    "translation": "problem"
   },
   {
-    "word":"poulet",
-    "gender":"masculine",
-    "translation":"chicken"
+    "word": "processus",
+    "gender": "masculine",
+    "translation": "process"
   },
   {
-    "word":"pouvoir",
-    "gender":"masculine",
-    "translation":"power"
+    "word": "procès",
+    "gender": "masculine",
+    "translation": "trial"
   },
   {
-    "word":"pratique",
-    "gender":"feminine",
-    "translation":"practice"
+    "word": "profession",
+    "gender": "feminine",
+    "translation": "profession"
   },
   {
-    "word":"précaution",
-    "gender":"feminine",
-    "translation":"precaution"
+    "word": "profondeur",
+    "gender": "feminine",
+    "translation": "depth"
   },
   {
-    "word":"préférence",
-    "gender":"feminine",
-    "translation":"preference"
+    "word": "progression",
+    "gender": "feminine",
+    "translation": "progression"
   },
   {
-    "word":"préfet",
-    "gender":"masculine",
-    "translation":"prefect"
+    "word": "promesse",
+    "gender": "feminine",
+    "translation": "promise"
   },
   {
-    "word":"préjudice",
-    "gender":"masculine",
-    "translation":"prejudice"
+    "word": "propriété",
+    "gender": "feminine",
+    "translation": "property"
   },
   {
-    "word":"prénom",
-    "gender":"masculine",
-    "translation":"first name"
+    "word": "protection",
+    "gender": "feminine",
+    "translation": "protection"
   },
   {
-    "word":"présence",
-    "gender":"feminine",
-    "translation":"presence"
+    "word": "psychologie",
+    "gender": "feminine",
+    "translation": "psychology"
   },
   {
-    "word":"pression",
-    "gender":"feminine",
-    "translation":"pressure"
+    "word": "puis",
+    "gender": "masculine",
+    "translation": "well"
   },
   {
-    "word":"preuve",
-    "gender":"feminine",
-    "translation":"proof"
+    "word": "pulsion",
+    "gender": "feminine",
+    "translation": "impulse"
   },
   {
-    "word":"prière",
-    "gender":"feminine",
-    "translation":"prayer"
+    "word": "pupitre",
+    "gender": "masculine",
+    "translation": "desk"
   },
   {
-    "word":"principe",
-    "gender":"masculine",
-    "translation":"principle"
+    "word": "pureté",
+    "gender": "feminine",
+    "translation": "purity"
   },
   {
-    "word":"printemps",
-    "gender":"masculine",
-    "translation":"spring"
+    "word": "quantité",
+    "gender": "feminine",
+    "translation": "quantity"
   },
   {
-    "word":"prison",
-    "gender":"feminine",
-    "translation":"prison"
+    "word": "quartier",
+    "gender": "masculine",
+    "translation": "district"
   },
   {
-    "word":"problème",
-    "gender":"masculine",
-    "translation":"problem"
+    "word": "question",
+    "gender": "feminine",
+    "translation": "question"
   },
   {
-    "word":"processus",
-    "gender":"masculine",
-    "translation":"process"
+    "word": "queue",
+    "gender": "feminine",
+    "translation": "tail"
   },
   {
-    "word":"procès",
-    "gender":"masculine",
-    "translation":"trial"
+    "word": "quête",
+    "gender": "feminine",
+    "translation": "quest"
   },
   {
-    "word":"profession",
-    "gender":"feminine",
-    "translation":"profession"
+    "word": "radio",
+    "gender": "feminine",
+    "translation": "radio"
   },
   {
-    "word":"profondeur",
-    "gender":"feminine",
-    "translation":"depth"
+    "word": "rage",
+    "gender": "feminine",
+    "translation": "rage"
   },
   {
-    "word":"progression",
-    "gender":"feminine",
-    "translation":"progression"
+    "word": "raisin",
+    "gender": "masculine",
+    "translation": "grape"
   },
   {
-    "word":"promesse",
-    "gender":"feminine",
-    "translation":"promise"
+    "word": "rampe",
+    "gender": "feminine",
+    "translation": "ramp"
   },
   {
-    "word":"propriété",
-    "gender":"feminine",
-    "translation":"property"
+    "word": "range",
+    "gender": "feminine",
+    "translation": "range"
   },
   {
-    "word":"protection",
-    "gender":"feminine",
-    "translation":"protection"
+    "word": "rapide",
+    "gender": "masculine",
+    "translation": "fast"
   },
   {
-    "word":"psychologie",
-    "gender":"feminine",
-    "translation":"psychology"
+    "word": "rat",
+    "gender": "masculine",
+    "translation": "rat"
   },
   {
-    "word":"publicité",
-    "gender":"feminine",
-    "translation":"advertisement"
+    "word": "rayon",
+    "gender": "masculine",
+    "translation": "ray"
   },
   {
-    "word":"puis",
-    "gender":"masculine",
-    "translation":"well"
+    "word": "réalité",
+    "gender": "feminine",
+    "translation": "reality"
   },
   {
-    "word":"pulsion",
-    "gender":"feminine",
-    "translation":"impulse"
+    "word": "réception",
+    "gender": "feminine",
+    "translation": "reception"
   },
   {
-    "word":"pupitre",
-    "gender":"masculine",
-    "translation":"desk"
+    "word": "récepteur",
+    "gender": "masculine",
+    "translation": "receiver"
   },
   {
-    "word":"pureté",
-    "gender":"feminine",
-    "translation":"purity"
+    "word": "réclamation",
+    "gender": "feminine",
+    "translation": "complaint"
   },
   {
-    "word":"quantité",
-    "gender":"feminine",
-    "translation":"quantity"
+    "word": "récompense",
+    "gender": "feminine",
+    "translation": "reward"
   },
   {
-    "word":"quartier",
-    "gender":"masculine",
-    "translation":"district"
+    "word": "récréation",
+    "gender": "feminine",
+    "translation": "recess"
   },
   {
-    "word":"question",
-    "gender":"feminine",
-    "translation":"question"
+    "word": "réflexion",
+    "gender": "feminine",
+    "translation": "reflection"
   },
   {
-    "word":"queue",
-    "gender":"feminine",
-    "translation":"tail"
+    "word": "réforme",
+    "gender": "feminine",
+    "translation": "reform"
   },
   {
-    "word":"quête",
-    "gender":"feminine",
-    "translation":"quest"
+    "word": "réfrigérateur",
+    "gender": "masculine",
+    "translation": "refrigerator"
   },
   {
-    "word":"radio",
-    "gender":"feminine",
-    "translation":"radio"
+    "word": "réfugié",
+    "gender": "masculine",
+    "translation": "refugee"
   },
   {
-    "word":"rage",
-    "gender":"feminine",
-    "translation":"rage"
+    "word": "région",
+    "gender": "feminine",
+    "translation": "region"
   },
   {
-    "word":"raisin",
-    "gender":"masculine",
-    "translation":"grape"
+    "word": "réglement",
+    "gender": "masculine",
+    "translation": "regulation"
   },
   {
-    "word":"rampe",
-    "gender":"feminine",
-    "translation":"ramp"
+    "word": "régularité",
+    "gender": "feminine",
+    "translation": "regularity"
   },
   {
-    "word":"range",
-    "gender":"feminine",
-    "translation":"range"
+    "word": "relief",
+    "gender": "masculine",
+    "translation": "relief"
   },
   {
-    "word":"rapide",
-    "gender":"masculine",
-    "translation":"fast"
+    "word": "religion",
+    "gender": "feminine",
+    "translation": "religion"
   },
   {
-    "word":"rat",
-    "gender":"masculine",
-    "translation":"rat"
+    "word": "remède",
+    "gender": "masculine",
+    "translation": "remedy"
   },
   {
-    "word":"rayon",
-    "gender":"masculine",
-    "translation":"ray"
+    "word": "remise",
+    "gender": "feminine",
+    "translation": "discount"
   },
   {
-    "word":"réalité",
-    "gender":"feminine",
-    "translation":"reality"
+    "word": "remorque",
+    "gender": "feminine",
+    "translation": "trailer"
   },
   {
-    "word":"réception",
-    "gender":"feminine",
-    "translation":"reception"
+    "word": "rencontre",
+    "gender": "feminine",
+    "translation": "meeting"
   },
   {
-    "word":"récepteur",
-    "gender":"masculine",
-    "translation":"receiver"
+    "word": "renfort",
+    "gender": "masculine",
+    "translation": "reinforcement"
   },
   {
-    "word":"réclamation",
-    "gender":"feminine",
-    "translation":"complaint"
+    "word": "rentrée",
+    "gender": "feminine",
+    "translation": "start of school"
   },
   {
-    "word":"récompense",
-    "gender":"feminine",
-    "translation":"reward"
+    "word": "répartition",
+    "gender": "feminine",
+    "translation": "distribution"
   },
   {
-    "word":"récréation",
-    "gender":"feminine",
-    "translation":"recess"
+    "word": "repose",
+    "gender": "feminine",
+    "translation": "rest"
   },
   {
-    "word":"réflexion",
-    "gender":"feminine",
-    "translation":"reflection"
+    "word": "repos",
+    "gender": "masculine",
+    "translation": "rest"
   },
   {
-    "word":"réforme",
-    "gender":"feminine",
-    "translation":"reform"
+    "word": "réponse",
+    "gender": "feminine",
+    "translation": "answer"
   },
   {
-    "word":"réfrigérateur",
-    "gender":"masculine",
-    "translation":"refrigerator"
+    "word": "requête",
+    "gender": "feminine",
+    "translation": "request"
   },
   {
-    "word":"réfugié",
-    "gender":"masculine",
-    "translation":"refugee"
+    "word": "résidence",
+    "gender": "feminine",
+    "translation": "residence"
   },
   {
-    "word":"région",
-    "gender":"feminine",
-    "translation":"region"
+    "word": "résistance",
+    "gender": "feminine",
+    "translation": "resistance"
   },
   {
-    "word":"réglement",
-    "gender":"masculine",
-    "translation":"regulation"
+    "word": "résultat",
+    "gender": "masculine",
+    "translation": "result"
   },
   {
-    "word":"régularité",
-    "gender":"feminine",
-    "translation":"regularity"
+    "word": "retard",
+    "gender": "masculine",
+    "translation": "delay"
   },
   {
-    "word":"relief",
-    "gender":"masculine",
-    "translation":"relief"
+    "word": "retenue",
+    "gender": "feminine",
+    "translation": "detention"
   },
   {
-    "word":"religion",
-    "gender":"feminine",
-    "translation":"religion"
+    "word": "retour",
+    "gender": "masculine",
+    "translation": "return"
   },
   {
-    "word":"remède",
-    "gender":"masculine",
-    "translation":"remedy"
+    "word": "réussite",
+    "gender": "feminine",
+    "translation": "success"
   },
   {
-    "word":"remise",
-    "gender":"feminine",
-    "translation":"discount"
+    "word": "réveillon",
+    "gender": "masculine",
+    "translation": "Christmas Eve/New Year's Eve"
   },
   {
-    "word":"remorque",
-    "gender":"feminine",
-    "translation":"trailer"
+    "word": "réveil",
+    "gender": "masculine",
+    "translation": "alarm clock"
   },
   {
-    "word":"rencontre",
-    "gender":"feminine",
-    "translation":"meeting"
+    "word": "revanche",
+    "gender": "feminine",
+    "translation": "revenge"
   },
   {
-    "word":"renfort",
-    "gender":"masculine",
-    "translation":"reinforcement"
+    "word": "révolution",
+    "gender": "feminine",
+    "translation": "revolution"
   },
   {
-    "word":"rentrée",
-    "gender":"feminine",
-    "translation":"start of school"
+    "word": "rêve",
+    "gender": "masculine",
+    "translation": "dream"
   },
   {
-    "word":"répartition",
-    "gender":"feminine",
-    "translation":"distribution"
+    "word": "riz",
+    "gender": "masculine",
+    "translation": "rice"
   },
   {
-    "word":"repose",
-    "gender":"feminine",
-    "translation":"rest"
+    "word": "roc",
+    "gender": "masculine",
+    "translation": "rock"
   },
   {
-    "word":"repos",
-    "gender":"masculine",
-    "translation":"rest"
+    "word": "ruban",
+    "gender": "masculine",
+    "translation": "ribbon"
   },
   {
-    "word":"réponse",
-    "gender":"feminine",
-    "translation":"answer"
+    "word": "ruche",
+    "gender": "feminine",
+    "translation": "beehive"
   },
   {
-    "word":"requête",
-    "gender":"feminine",
-    "translation":"request"
+    "word": "ruelle",
+    "gender": "feminine",
+    "translation": "alley"
   },
   {
-    "word":"résidence",
-    "gender":"feminine",
-    "translation":"residence"
+    "word": "rumeur",
+    "gender": "feminine",
+    "translation": "rumor"
   },
   {
-    "word":"résistance",
-    "gender":"feminine",
-    "translation":"resistance"
+    "word": "rupture",
+    "gender": "feminine",
+    "translation": "breakup"
   },
   {
-    "word":"résultat",
-    "gender":"masculine",
-    "translation":"result"
+    "word": "saison",
+    "gender": "feminine",
+    "translation": "season"
   },
   {
-    "word":"retard",
-    "gender":"masculine",
-    "translation":"delay"
+    "word": "salade",
+    "gender": "feminine",
+    "translation": "salad"
   },
   {
-    "word":"retenue",
-    "gender":"feminine",
-    "translation":"detention"
+    "word": "salutation",
+    "gender": "feminine",
+    "translation": "greeting"
   },
   {
-    "word":"retour",
-    "gender":"masculine",
-    "translation":"return"
+    "word": "sang",
+    "gender": "masculine",
+    "translation": "blood"
   },
   {
-    "word":"réussite",
-    "gender":"feminine",
-    "translation":"success"
+    "word": "sanglier",
+    "gender": "masculine",
+    "translation": "wild boar"
   },
   {
-    "word":"réveillon",
-    "gender":"masculine",
-    "translation":"Christmas Eve/New Year's Eve"
+    "word": "sauvage",
+    "gender": "masculine",
+    "translation": "wild"
   },
   {
-    "word":"réveil",
-    "gender":"masculine",
-    "translation":"alarm clock"
+    "word": "sauvetage",
+    "gender": "masculine",
+    "translation": "rescue"
   },
   {
-    "word":"revanche",
-    "gender":"feminine",
-    "translation":"revenge"
+    "word": "saveur",
+    "gender": "feminine",
+    "translation": "flavor"
   },
   {
-    "word":"révolution",
-    "gender":"feminine",
-    "translation":"revolution"
+    "word": "science",
+    "gender": "feminine",
+    "translation": "science"
   },
   {
-    "word":"rêve",
-    "gender":"masculine",
-    "translation":"dream"
+    "word": "scène",
+    "gender": "feminine",
+    "translation": "stage"
   },
   {
-    "word":"riz",
-    "gender":"masculine",
-    "translation":"rice"
+    "word": "sceau",
+    "gender": "masculine",
+    "translation": "seal"
   },
   {
-    "word":"roc",
-    "gender":"masculine",
-    "translation":"rock"
+    "word": "seconde",
+    "gender": "feminine",
+    "translation": "second"
   },
   {
-    "word":"ruban",
-    "gender":"masculine",
-    "translation":"ribbon"
+    "word": "secret",
+    "gender": "masculine",
+    "translation": "secret"
   },
   {
-    "word":"ruche",
-    "gender":"feminine",
-    "translation":"beehive"
+    "word": "sélection",
+    "gender": "feminine",
+    "translation": "selection"
   },
   {
-    "word":"ruelle",
-    "gender":"feminine",
-    "translation":"alley"
+    "word": "semaine",
+    "gender": "feminine",
+    "translation": "week"
   },
   {
-    "word":"rumeur",
-    "gender":"feminine",
-    "translation":"rumor"
+    "word": "sens",
+    "gender": "masculine",
+    "translation": "sense"
   },
   {
-    "word":"rupture",
-    "gender":"feminine",
-    "translation":"breakup"
+    "word": "sentiment",
+    "gender": "masculine",
+    "translation": "feeling"
   },
   {
-    "word":"saison",
-    "gender":"feminine",
-    "translation":"season"
+    "word": "session",
+    "gender": "feminine",
+    "translation": "session"
   },
   {
-    "word":"salade",
-    "gender":"feminine",
-    "translation":"salad"
+    "word": "seuil",
+    "gender": "masculine",
+    "translation": "threshold"
   },
   {
-    "word":"salon",
-    "gender":"masculine",
-    "translation":"living room"
+    "word": "sexe",
+    "gender": "masculine",
+    "translation": "sex"
   },
   {
-    "word":"salutation",
-    "gender":"feminine",
-    "translation":"greeting"
+    "word": "signe",
+    "gender": "masculine",
+    "translation": "sign"
   },
   {
-    "word":"sang",
-    "gender":"masculine",
-    "translation":"blood"
+    "word": "silence",
+    "gender": "masculine",
+    "translation": "silence"
   },
   {
-    "word":"sanglier",
-    "gender":"masculine",
-    "translation":"wild boar"
+    "word": "signal",
+    "gender": "masculine",
+    "translation": "signal"
   },
   {
-    "word":"sauvage",
-    "gender":"masculine",
-    "translation":"wild"
+    "word": "signature",
+    "gender": "feminine",
+    "translation": "signature"
   },
   {
-    "word":"sauvetage",
-    "gender":"masculine",
-    "translation":"rescue"
+    "word": "simplicité",
+    "gender": "feminine",
+    "translation": "simplicity"
   },
   {
-    "word":"saveur",
-    "gender":"feminine",
-    "translation":"flavor"
+    "word": "simulation",
+    "gender": "feminine",
+    "translation": "simulation"
   },
   {
-    "word":"science",
-    "gender":"feminine",
-    "translation":"science"
+    "word": "site",
+    "gender": "masculine",
+    "translation": "site"
   },
   {
-    "word":"scène",
-    "gender":"feminine",
-    "translation":"stage"
+    "word": "situation",
+    "gender": "feminine",
+    "translation": "situation"
   },
   {
-    "word":"sceau",
-    "gender":"masculine",
-    "translation":"seal"
+    "word": "soif",
+    "gender": "feminine",
+    "translation": "thirst"
   },
   {
-    "word":"seconde",
-    "gender":"feminine",
-    "translation":"second"
+    "word": "solide",
+    "gender": "masculine",
+    "translation": "solid"
   },
   {
-    "word":"secret",
-    "gender":"masculine",
-    "translation":"secret"
+    "word": "solution",
+    "gender": "feminine",
+    "translation": "solution"
   },
   {
-    "word":"sélection",
-    "gender":"feminine",
-    "translation":"selection"
+    "word": "sommet",
+    "gender": "masculine",
+    "translation": "summit"
   },
   {
-    "word":"semaine",
-    "gender":"feminine",
-    "translation":"week"
+    "word": "son",
+    "gender": "masculine",
+    "translation": "sound"
   },
   {
-    "word":"sens",
-    "gender":"masculine",
-    "translation":"sense"
+    "word": "sort",
+    "gender": "masculine",
+    "translation": "fate"
   },
   {
-    "word":"sentiment",
-    "gender":"masculine",
-    "translation":"feeling"
+    "word": "sortie",
+    "gender": "feminine",
+    "translation": "exit"
   },
   {
-    "word":"session",
-    "gender":"feminine",
-    "translation":"session"
+    "word": "sourire",
+    "gender": "masculine",
+    "translation": "smile"
   },
   {
-    "word":"seuil",
-    "gender":"masculine",
-    "translation":"threshold"
+    "word": "source",
+    "gender": "feminine",
+    "translation": "source"
   },
   {
-    "word":"sexe",
-    "gender":"masculine",
-    "translation":"sex"
+    "word": "soupe",
+    "gender": "feminine",
+    "translation": "soup"
   },
   {
-    "word":"signe",
-    "gender":"masculine",
-    "translation":"sign"
+    "word": "sport",
+    "gender": "masculine",
+    "translation": "sport"
   },
   {
-    "word":"silence",
-    "gender":"masculine",
-    "translation":"silence"
+    "word": "stade",
+    "gender": "masculine",
+    "translation": "stadium"
   },
   {
-    "word":"signal",
-    "gender":"masculine",
-    "translation":"signal"
+    "word": "stage",
+    "gender": "masculine",
+    "translation": "internship"
   },
   {
-    "word":"signature",
-    "gender":"feminine",
-    "translation":"signature"
+    "word": "station",
+    "gender": "feminine",
+    "translation": "station"
   },
   {
-    "word":"simplicité",
-    "gender":"feminine",
-    "translation":"simplicity"
+    "word": "statue",
+    "gender": "feminine",
+    "translation": "statue"
   },
   {
-    "word":"simulation",
-    "gender":"feminine",
-    "translation":"simulation"
+    "word": "statut",
+    "gender": "masculine",
+    "translation": "status"
   },
   {
-    "word":"site",
-    "gender":"masculine",
-    "translation":"site"
+    "word": "style",
+    "gender": "masculine",
+    "translation": "style"
   },
   {
-    "word":"situation",
-    "gender":"feminine",
-    "translation":"situation"
+    "word": "sucre",
+    "gender": "masculine",
+    "translation": "sugar"
   },
   {
-    "word":"soif",
-    "gender":"feminine",
-    "translation":"thirst"
+    "word": "suite",
+    "gender": "feminine",
+    "translation": "suite"
   },
   {
-    "word":"solide",
-    "gender":"masculine",
-    "translation":"solid"
+    "word": "surface",
+    "gender": "feminine",
+    "translation": "surface"
   },
   {
-    "word":"solution",
-    "gender":"feminine",
-    "translation":"solution"
+    "word": "surprise",
+    "gender": "feminine",
+    "translation": "surprise"
   },
   {
-    "word":"sommet",
-    "gender":"masculine",
-    "translation":"summit"
+    "word": "symbole",
+    "gender": "masculine",
+    "translation": "symbol"
   },
   {
-    "word":"son",
-    "gender":"masculine",
-    "translation":"sound"
+    "word": "sympathie",
+    "gender": "feminine",
+    "translation": "sympathy"
   },
   {
-    "word":"sort",
-    "gender":"masculine",
-    "translation":"fate"
+    "word": "système",
+    "gender": "masculine",
+    "translation": "system"
   },
   {
-    "word":"sortie",
-    "gender":"feminine",
-    "translation":"exit"
+    "word": "tabac",
+    "gender": "masculine",
+    "translation": "tobacco"
   },
   {
-    "word":"sourire",
-    "gender":"masculine",
-    "translation":"smile"
+    "word": "table",
+    "gender": "feminine",
+    "translation": "table"
   },
   {
-    "word":"source",
-    "gender":"feminine",
-    "translation":"source"
+    "word": "tablette",
+    "gender": "feminine",
+    "translation": "tablet"
   },
   {
-    "word":"soupe",
-    "gender":"feminine",
-    "translation":"soup"
+    "word": "taille",
+    "gender": "feminine",
+    "translation": "size"
   },
   {
-    "word":"sport",
-    "gender":"masculine",
-    "translation":"sport"
+    "word": "talent",
+    "gender": "masculine",
+    "translation": "talent"
   },
   {
-    "word":"stade",
-    "gender":"masculine",
-    "translation":"stadium"
+    "word": "tambour",
+    "gender": "masculine",
+    "translation": "drum"
   },
   {
-    "word":"stage",
-    "gender":"masculine",
-    "translation":"internship"
+    "word": "tapis",
+    "gender": "masculine",
+    "translation": "carpet"
   },
   {
-    "word":"station",
-    "gender":"feminine",
-    "translation":"station"
+    "word": "tarte",
+    "gender": "feminine",
+    "translation": "pie"
   },
   {
-    "word":"statue",
-    "gender":"feminine",
-    "translation":"statue"
+    "word": "tasse",
+    "gender": "feminine",
+    "translation": "cup"
   },
   {
-    "word":"statut",
-    "gender":"masculine",
-    "translation":"status"
+    "word": "taxi",
+    "gender": "masculine",
+    "translation": "taxi"
   },
   {
-    "word":"style",
-    "gender":"masculine",
-    "translation":"style"
+    "word": "temple",
+    "gender": "masculine",
+    "translation": "temple"
   },
   {
-    "word":"sucre",
-    "gender":"masculine",
-    "translation":"sugar"
+    "word": "temps",
+    "gender": "masculine",
+    "translation": "time"
   },
   {
-    "word":"suite",
-    "gender":"feminine",
-    "translation":"suite"
+    "word": "tentation",
+    "gender": "feminine",
+    "translation": "temptation"
   },
   {
-    "word":"surface",
-    "gender":"feminine",
-    "translation":"surface"
+    "word": "terrasse",
+    "gender": "feminine",
+    "translation": "terrace"
   },
   {
-    "word":"surprise",
-    "gender":"feminine",
-    "translation":"surprise"
+    "word": "territoire",
+    "gender": "masculine",
+    "translation": "territory"
   },
   {
-    "word":"symbole",
-    "gender":"masculine",
-    "translation":"symbol"
+    "word": "test",
+    "gender": "masculine",
+    "translation": "test"
   },
   {
-    "word":"sympathie",
-    "gender":"feminine",
-    "translation":"sympathy"
+    "word": "texte",
+    "gender": "masculine",
+    "translation": "text"
   },
   {
-    "word":"système",
-    "gender":"masculine",
-    "translation":"system"
+    "word": "théâtre",
+    "gender": "masculine",
+    "translation": "theater"
   },
   {
-    "word":"tabac",
-    "gender":"masculine",
-    "translation":"tobacco"
+    "word": "thérapie",
+    "gender": "feminine",
+    "translation": "therapy"
   },
   {
-    "word":"table",
-    "gender":"feminine",
-    "translation":"table"
+    "word": "thème",
+    "gender": "masculine",
+    "translation": "theme"
   },
   {
-    "word":"tablette",
-    "gender":"feminine",
-    "translation":"tablet"
+    "word": "tic",
+    "gender": "masculine",
+    "translation": "tic"
   },
   {
-    "word":"taille",
-    "gender":"feminine",
-    "translation":"size"
+    "word": "ticket",
+    "gender": "masculine",
+    "translation": "ticket"
   },
   {
-    "word":"talent",
-    "gender":"masculine",
-    "translation":"talent"
+    "word": "tilleul",
+    "gender": "masculine",
+    "translation": "linden"
   },
   {
-    "word":"tambour",
-    "gender":"masculine",
-    "translation":"drum"
+    "word": "timidité",
+    "gender": "feminine",
+    "translation": "shyness"
   },
   {
-    "word":"tapis",
-    "gender":"masculine",
-    "translation":"carpet"
+    "word": "tissu",
+    "gender": "masculine",
+    "translation": "fabric"
   },
   {
-    "word":"tarte",
-    "gender":"feminine",
-    "translation":"pie"
+    "word": "titre",
+    "gender": "masculine",
+    "translation": "title"
   },
   {
-    "word":"tasse",
-    "gender":"feminine",
-    "translation":"cup"
+    "word": "toit",
+    "gender": "masculine",
+    "translation": "roof"
   },
   {
-    "word":"taxi",
-    "gender":"masculine",
-    "translation":"taxi"
+    "word": "tomate",
+    "gender": "feminine",
+    "translation": "tomato"
   },
   {
-    "word":"temple",
-    "gender":"masculine",
-    "translation":"temple"
+    "word": "torche",
+    "gender": "feminine",
+    "translation": "torch"
   },
   {
-    "word":"temps",
-    "gender":"masculine",
-    "translation":"time"
+    "word": "tour",
+    "gender": "masculine",
+    "translation": "tower"
   },
   {
-    "word":"tentation",
-    "gender":"feminine",
-    "translation":"temptation"
+    "word": "trace",
+    "gender": "feminine",
+    "translation": "trace"
   },
   {
-    "word":"terrasse",
-    "gender":"feminine",
-    "translation":"terrace"
+    "word": "trait",
+    "gender": "masculine",
+    "translation": "trait"
   },
   {
-    "word":"territoire",
-    "gender":"masculine",
-    "translation":"territory"
+    "word": "trampoline",
+    "gender": "masculine",
+    "translation": "trampoline"
   },
   {
-    "word":"test",
-    "gender":"masculine",
-    "translation":"test"
+    "word": "travail",
+    "gender": "masculine",
+    "translation": "work"
   },
   {
-    "word":"texte",
-    "gender":"masculine",
-    "translation":"text"
+    "word": "trésor",
+    "gender": "masculine",
+    "translation": "treasure"
   },
   {
-    "word":"théâtre",
-    "gender":"masculine",
-    "translation":"theater"
+    "word": "triomphe",
+    "gender": "masculine",
+    "translation": "triumph"
   },
   {
-    "word":"thérapie",
-    "gender":"feminine",
-    "translation":"therapy"
+    "word": "tristesse",
+    "gender": "feminine",
+    "translation": "sadness"
   },
   {
-    "word":"thème",
-    "gender":"masculine",
-    "translation":"theme"
+    "word": "troisième",
+    "gender": "masculine",
+    "translation": "third"
   },
   {
-    "word":"tic",
-    "gender":"masculine",
-    "translation":"tic"
+    "word": "trompette",
+    "gender": "feminine",
+    "translation": "trumpet"
   },
   {
-    "word":"ticket",
-    "gender":"masculine",
-    "translation":"ticket"
+    "word": "trou",
+    "gender": "masculine",
+    "translation": "hole"
   },
   {
-    "word":"tilleul",
-    "gender":"masculine",
-    "translation":"linden"
+    "word": "troupe",
+    "gender": "feminine",
+    "translation": "troop"
   },
   {
-    "word":"timidité",
-    "gender":"feminine",
-    "translation":"shyness"
+    "word": "tulipe",
+    "gender": "feminine",
+    "translation": "tulip"
   },
   {
-    "word":"tissu",
-    "gender":"masculine",
-    "translation":"fabric"
+    "word": "tumulte",
+    "gender": "masculine",
+    "translation": "tumult"
   },
   {
-    "word":"titre",
-    "gender":"masculine",
-    "translation":"title"
+    "word": "turban",
+    "gender": "masculine",
+    "translation": "turban"
   },
   {
-    "word":"toit",
-    "gender":"masculine",
-    "translation":"roof"
+    "word": "typhon",
+    "gender": "masculine",
+    "translation": "typhoon"
   },
   {
-    "word":"tomate",
-    "gender":"feminine",
-    "translation":"tomato"
+    "word": "type",
+    "gender": "masculine",
+    "translation": "type"
   },
   {
-    "word":"torche",
-    "gender":"feminine",
-    "translation":"torch"
+    "word": "typographie",
+    "gender": "feminine",
+    "translation": "typography"
   },
   {
-    "word":"tour",
-    "gender":"masculine",
-    "translation":"tower"
+    "word": "usage",
+    "gender": "masculine",
+    "translation": "usage"
   },
   {
-    "word":"trace",
-    "gender":"feminine",
-    "translation":"trace"
+    "word": "utilisation",
+    "gender": "feminine",
+    "translation": "usage"
   },
   {
-    "word":"trait",
-    "gender":"masculine",
-    "translation":"trait"
+    "word": "vacances",
+    "gender": "feminine",
+    "translation": "vacation"
   },
   {
-    "word":"trampoline",
-    "gender":"masculine",
-    "translation":"trampoline"
+    "word": "vague",
+    "gender": "feminine",
+    "translation": "wave"
   },
   {
-    "word":"travail",
-    "gender":"masculine",
-    "translation":"work"
+    "word": "valeur",
+    "gender": "feminine",
+    "translation": "value"
   },
   {
-    "word":"trésor",
-    "gender":"masculine",
-    "translation":"treasure"
+    "word": "vanille",
+    "gender": "feminine",
+    "translation": "vanilla"
   },
   {
-    "word":"triomphe",
-    "gender":"masculine",
-    "translation":"triumph"
+    "word": "vapeur",
+    "gender": "feminine",
+    "translation": "steam"
   },
   {
-    "word":"tristesse",
-    "gender":"feminine",
-    "translation":"sadness"
+    "word": "variété",
+    "gender": "feminine",
+    "translation": "variety"
   },
   {
-    "word":"troisième",
-    "gender":"masculine",
-    "translation":"third"
+    "word": "vaste",
+    "gender": "masculine",
+    "translation": "vast"
   },
   {
-    "word":"trompette",
-    "gender":"feminine",
-    "translation":"trumpet"
+    "word": "vautour",
+    "gender": "masculine",
+    "translation": "vulture"
   },
   {
-    "word":"trou",
-    "gender":"masculine",
-    "translation":"hole"
+    "word": "vérité",
+    "gender": "feminine",
+    "translation": "truth"
   },
   {
-    "word":"troupe",
-    "gender":"feminine",
-    "translation":"troop"
+    "word": "verger",
+    "gender": "masculine",
+    "translation": "orchard"
   },
   {
-    "word":"tulipe",
-    "gender":"feminine",
-    "translation":"tulip"
+    "word": "verre",
+    "gender": "masculine",
+    "translation": "glass"
   },
   {
-    "word":"tumulte",
-    "gender":"masculine",
-    "translation":"tumult"
+    "word": "vers",
+    "gender": "masculine",
+    "translation": "worm"
   },
   {
-    "word":"turban",
-    "gender":"masculine",
-    "translation":"turban"
+    "word": "version",
+    "gender": "feminine",
+    "translation": "version"
   },
   {
-    "word":"typhon",
-    "gender":"masculine",
-    "translation":"typhoon"
+    "word": "vert",
+    "gender": "masculine",
+    "translation": "green"
   },
   {
-    "word":"type",
-    "gender":"masculine",
-    "translation":"type"
+    "word": "vestiaire",
+    "gender": "masculine",
+    "translation": "cloakroom"
   },
   {
-    "word":"typographie",
-    "gender":"feminine",
-    "translation":"typography"
+    "word": "victoire",
+    "gender": "feminine",
+    "translation": "victory"
   },
   {
-    "word":"usage",
-    "gender":"masculine",
-    "translation":"usage"
+    "word": "vide",
+    "gender": "masculine",
+    "translation": "empty"
   },
   {
-    "word":"utilisation",
-    "gender":"feminine",
-    "translation":"usage"
+    "word": "vie",
+    "gender": "feminine",
+    "translation": "life"
   },
   {
-    "word":"vacances",
-    "gender":"feminine",
-    "translation":"vacation"
+    "word": "village",
+    "gender": "masculine",
+    "translation": "village"
   },
   {
-    "word":"vague",
-    "gender":"feminine",
-    "translation":"wave"
+    "word": "vin",
+    "gender": "masculine",
+    "translation": "wine"
   },
   {
-    "word":"valeur",
-    "gender":"feminine",
-    "translation":"value"
+    "word": "violon",
+    "gender": "masculine",
+    "translation": "violin"
   },
   {
-    "word":"vanille",
-    "gender":"feminine",
-    "translation":"vanilla"
+    "word": "virage",
+    "gender": "masculine",
+    "translation": "turn"
   },
   {
-    "word":"vapeur",
-    "gender":"feminine",
-    "translation":"steam"
+    "word": "visage",
+    "gender": "masculine",
+    "translation": "face"
   },
   {
-    "word":"variété",
-    "gender":"feminine",
-    "translation":"variety"
+    "word": "visite",
+    "gender": "feminine",
+    "translation": "visit"
   },
   {
-    "word":"vaste",
-    "gender":"masculine",
-    "translation":"vast"
+    "word": "vitamine",
+    "gender": "feminine",
+    "translation": "vitamin"
   },
   {
-    "word":"vautour",
-    "gender":"masculine",
-    "translation":"vulture"
+    "word": "voile",
+    "gender": "feminine",
+    "translation": "sail"
   },
   {
-    "word":"vérité",
-    "gender":"feminine",
-    "translation":"truth"
+    "word": "vol",
+    "gender": "masculine",
+    "translation": "flight/theft"
   },
   {
-    "word":"verger",
-    "gender":"masculine",
-    "translation":"orchard"
+    "word": "volcan",
+    "gender": "masculine",
+    "translation": "volcano"
   },
   {
-    "word":"verre",
-    "gender":"masculine",
-    "translation":"glass"
+    "word": "volume",
+    "gender": "masculine",
+    "translation": "volume"
   },
   {
-    "word":"vers",
-    "gender":"masculine",
-    "translation":"worm"
+    "word": "vouloir",
+    "gender": "masculine",
+    "translation": "will"
   },
   {
-    "word":"version",
-    "gender":"feminine",
-    "translation":"version"
+    "word": "wagon",
+    "gender": "masculine",
+    "translation": "wagon"
   },
   {
-    "word":"vert",
-    "gender":"masculine",
-    "translation":"green"
+    "word": "zèle",
+    "gender": "masculine",
+    "translation": "zeal"
   },
   {
-    "word":"vestiaire",
-    "gender":"masculine",
-    "translation":"cloakroom"
+    "word": "zone",
+    "gender": "feminine",
+    "translation": "zone"
   },
   {
-    "word":"victoire",
-    "gender":"feminine",
-    "translation":"victory"
+    "word": "abri",
+    "gender": "masculine",
+    "translation": "shelter"
   },
   {
-    "word":"vide",
-    "gender":"masculine",
-    "translation":"empty"
+    "word": "accordéon",
+    "gender": "masculine",
+    "translation": "accordion"
   },
   {
-    "word":"vie",
-    "gender":"feminine",
-    "translation":"life"
+    "word": "addiction",
+    "gender": "feminine",
+    "translation": "addiction"
   },
   {
-    "word":"village",
-    "gender":"masculine",
-    "translation":"village"
+    "word": "aiguille",
+    "gender": "feminine",
+    "translation": "needle"
   },
   {
-    "word":"vin",
-    "gender":"masculine",
-    "translation":"wine"
+    "word": "allumette",
+    "gender": "feminine",
+    "translation": "matchstick"
   },
   {
-    "word":"violon",
-    "gender":"masculine",
-    "translation":"violin"
+    "word": "ambre",
+    "gender": "masculine",
+    "translation": "amber"
   },
   {
-    "word":"virage",
-    "gender":"masculine",
-    "translation":"turn"
+    "word": "anéantissement",
+    "gender": "masculine",
+    "translation": "annihilation"
   },
   {
-    "word":"visage",
-    "gender":"masculine",
-    "translation":"face"
+    "word": "antilope",
+    "gender": "feminine",
+    "translation": "antelope"
   },
   {
-    "word":"visite",
-    "gender":"feminine",
-    "translation":"visit"
+    "word": "apogée",
+    "gender": "masculine",
+    "translation": "peak"
   },
   {
-    "word":"vitamine",
-    "gender":"feminine",
-    "translation":"vitamin"
+    "word": "archevêque",
+    "gender": "masculine",
+    "translation": "archbishop"
   },
   {
-    "word":"voile",
-    "gender":"feminine",
-    "translation":"sail"
+    "word": "asphalte",
+    "gender": "masculine",
+    "translation": "asphalt"
   },
   {
-    "word":"vol",
-    "gender":"masculine",
-    "translation":"flight/theft"
+    "word": "attelage",
+    "gender": "masculine",
+    "translation": "harnessing"
   },
   {
-    "word":"volcan",
-    "gender":"masculine",
-    "translation":"volcano"
+    "word": "aubépine",
+    "gender": "feminine",
+    "translation": "hawthorn"
   },
   {
-    "word":"volume",
-    "gender":"masculine",
-    "translation":"volume"
+    "word": "audace",
+    "gender": "feminine",
+    "translation": "boldness"
   },
   {
-    "word":"vouloir",
-    "gender":"masculine",
-    "translation":"will"
+    "word": "aune",
+    "gender": "feminine",
+    "translation": "ell (old measure)"
   },
   {
-    "word":"wagon",
-    "gender":"masculine",
-    "translation":"wagon"
+    "word": "aurore",
+    "gender": "feminine",
+    "translation": "dawn"
   },
   {
-    "word":"zèle",
-    "gender":"masculine",
-    "translation":"zeal"
+    "word": "autel",
+    "gender": "masculine",
+    "translation": "altar"
   },
   {
-    "word":"zone",
-    "gender":"feminine",
-    "translation":"zone"
+    "word": "balancier",
+    "gender": "masculine",
+    "translation": "pendulum"
   },
   {
-    "word":"abri",
-    "gender":"masculine",
-    "translation":"shelter"
+    "word": "balustrade",
+    "gender": "feminine",
+    "translation": "balustrade"
   },
   {
-    "word":"accordéon",
-    "gender":"masculine",
-    "translation":"accordion"
+    "word": "banc",
+    "gender": "masculine",
+    "translation": "bench"
   },
   {
-    "word":"addiction",
-    "gender":"feminine",
-    "translation":"addiction"
+    "word": "barbiche",
+    "gender": "feminine",
+    "translation": "goatee"
   },
   {
-    "word":"aiguille",
-    "gender":"feminine",
-    "translation":"needle"
+    "word": "barrage",
+    "gender": "masculine",
+    "translation": "dam"
   },
   {
-    "word":"allumette",
-    "gender":"feminine",
-    "translation":"matchstick"
+    "word": "bassin",
+    "gender": "masculine",
+    "translation": "basin"
   },
   {
-    "word":"ambre",
-    "gender":"masculine",
-    "translation":"amber"
+    "word": "baudrier",
+    "gender": "masculine",
+    "translation": "harness"
   },
   {
-    "word":"anéantissement",
-    "gender":"masculine",
-    "translation":"annihilation"
+    "word": "bavure",
+    "gender": "feminine",
+    "translation": "smudge"
   },
   {
-    "word":"antilope",
-    "gender":"feminine",
-    "translation":"antelope"
+    "word": "béguin",
+    "gender": "masculine",
+    "translation": "crush (infatuation)"
   },
   {
-    "word":"apogée",
-    "gender":"masculine",
-    "translation":"peak"
+    "word": "bénédiction",
+    "gender": "feminine",
+    "translation": "blessing"
   },
   {
-    "word":"archevêque",
-    "gender":"masculine",
-    "translation":"archbishop"
+    "word": "bibelot",
+    "gender": "masculine",
+    "translation": "knickknack"
   },
   {
-    "word":"asphalte",
-    "gender":"masculine",
-    "translation":"asphalt"
-  },
-  {
-    "word":"attelage",
-    "gender":"masculine",
-    "translation":"harnessing"
-  },
-  {
-    "word":"aubépine",
-    "gender":"feminine",
-    "translation":"hawthorn"
-  },
-  {
-    "word":"audace",
-    "gender":"feminine",
-    "translation":"boldness"
-  },
-  {
-    "word":"aune",
-    "gender":"feminine",
-    "translation":"ell (old measure)"
-  },
-  {
-    "word":"aurore",
-    "gender":"feminine",
-    "translation":"dawn"
-  },
-  {
-    "word":"autel",
-    "gender":"masculine",
-    "translation":"altar"
-  },
-  {
-    "word":"balancier",
-    "gender":"masculine",
-    "translation":"pendulum"
-  },
-  {
-    "word":"balustrade",
-    "gender":"feminine",
-    "translation":"balustrade"
-  },
-  {
-    "word":"banc",
-    "gender":"masculine",
-    "translation":"bench"
-  },
-  {
-    "word":"barbiche",
-    "gender":"feminine",
-    "translation":"goatee"
-  },
-  {
-    "word":"barrage",
-    "gender":"masculine",
-    "translation":"dam"
-  },
-  {
-    "word":"bassin",
-    "gender":"masculine",
-    "translation":"basin"
-  },
-  {
-    "word":"baudrier",
-    "gender":"masculine",
-    "translation":"harness"
-  },
-  {
-    "word":"bavure",
-    "gender":"feminine",
-    "translation":"smudge"
-  },
-  {
-    "word":"béguin",
-    "gender":"masculine",
-    "translation":"crush (infatuation)"
-  },
-  {
-    "word":"bénédiction",
-    "gender":"feminine",
-    "translation":"blessing"
-  },
-  {
-    "word":"bibelot",
-    "gender":"masculine",
-    "translation":"knickknack"
-  },
-  {
-    "word":"bilboquet",
-    "gender":"masculine",
-    "translation":"cup-and-ball (toy)"
+    "word": "bilboquet",
+    "gender": "masculine",
+    "translation": "cup-and-ball (toy)"
   }
 ]
