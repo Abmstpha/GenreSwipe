@@ -101,13 +101,9 @@ MIT License - feel free to use this project for learning!
 
 ## 👨‍💻 Author
 
-**Abdellahi** - [LinkedIn](https://www.linkedin.com/in/abmstpha/)
+**Abdellahi  El Moustapha** - [LinkedIn](https://www.linkedin.com/in/abmstpha/)
 
-## 🙏 Acknowledgments
 
-- Vocabulary curated with AI assistance
-- Inspired by language learning apps like Duolingo
-- Built with ❤️ for French learners
 
 ---
 
