@@ -1,6 +1,6 @@
 import json
 
-file_path = 'public/words.json'
+file_path = '../public/words.json'
 
 # Words to remove (Epicene Nouns and Adjectives)
 words_to_remove = {

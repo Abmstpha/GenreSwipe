@@ -1,7 +1,7 @@
 import json
 
-input_file = 'public/words.json'
-output_file = 'public/words.json'  # Overwrite the original file
+input_file = '../public/words.json'
+output_file = '../public/words.json'  # Overwrite the original file
 
 print(f'Reading from {input_file} and writing unique words to {output_file}...\n')
 

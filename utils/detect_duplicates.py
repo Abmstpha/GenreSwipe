@@ -1,7 +1,7 @@
 import json
 from collections import Counter
 
-file_path = 'public/words.json'
+file_path = '../public/words.json'
 
 print(f'Checking for duplicates in {file_path}...\n')
 

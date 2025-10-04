@@ -1,6 +1,6 @@
 import json
 
-file_path = 'public/words.json'
+file_path = '../public/words.json'
 
 try:
     # Read the data from the file
