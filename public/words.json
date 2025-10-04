@@ -355,24 +355,9 @@
     "translation": "student"
   },
   {
-    "word": "architecte",
-    "gender": "masculine",
-    "translation": "architect"
-  },
-  {
-    "word": "journaliste",
-    "gender": "masculine",
-    "translation": "journalist"
-  },
-  {
     "word": "acteur",
     "gender": "masculine",
     "translation": "actor"
-  },
-  {
-    "word": "artiste",
-    "gender": "masculine",
-    "translation": "artist"
   },
   {
     "word": "musicien",
@@ -490,7 +475,7 @@
     "translation": "firefighter"
   },
   {
-    "word": "juges",
+    "word": "juge",
     "gender": "masculine",
     "translation": "judge"
   },
@@ -550,11 +535,6 @@
     "translation": "boss"
   },
   {
-    "word": "collègue",
-    "gender": "masculine",
-    "translation": "colleague"
-  },
-  {
     "word": "ami",
     "gender": "masculine",
     "translation": "friend"
@@ -585,11 +565,6 @@
     "translation": "passenger"
   },
   {
-    "word": "touriste",
-    "gender": "masculine",
-    "translation": "tourist"
-  },
-  {
     "word": "voyageur",
     "gender": "masculine",
     "translation": "traveler"
@@ -618,11 +593,6 @@
     "word": "adolescent",
     "gender": "masculine",
     "translation": "teenager"
-  },
-  {
-    "word": "jeune",
-    "gender": "masculine",
-    "translation": "young person"
   },
   {
     "word": "adulte",
@@ -720,16 +690,6 @@
     "translation": "homeless person"
   },
   {
-    "word": "pauvre",
-    "gender": "masculine",
-    "translation": "poor person"
-  },
-  {
-    "word": "riche",
-    "gender": "masculine",
-    "translation": "rich person"
-  },
-  {
     "word": "travailleur",
     "gender": "masculine",
     "translation": "worker"
@@ -745,11 +705,6 @@
     "translation": "civil servant"
   },
   {
-    "word": "athlète",
-    "gender": "masculine",
-    "translation": "athlete"
-  },
-  {
     "word": "joueur",
     "gender": "masculine",
     "translation": "player"
@@ -758,11 +713,6 @@
     "word": "chercheur",
     "gender": "masculine",
     "translation": "researcher"
-  },
-  {
-    "word": "scientifique",
-    "gender": "masculine",
-    "translation": "scientist"
   },
   {
     "word": "médecin",
@@ -775,14 +725,9 @@
     "translation": "nurse"
   },
   {
-    "word": "pompiers",
+    "word": "pompier",
     "gender": "masculine",
     "translation": "firefighters"
-  },
-  {
-    "word": "juge",
-    "gender": "masculine",
-    "translation": "judge"
   },
   {
     "word": "politicien",
@@ -805,19 +750,9 @@
     "translation": "ambassador"
   },
   {
-    "word": "diplomate",
-    "gender": "masculine",
-    "translation": "diplomat"
-  },
-  {
     "word": "reporter",
     "gender": "masculine",
     "translation": "reporter"
-  },
-  {
-    "word": "photographe",
-    "gender": "masculine",
-    "translation": "photographer"
   },
   {
     "word": "producteur",
@@ -843,11 +778,6 @@
     "word": "maçon",
     "gender": "masculine",
     "translation": "bricklayer"
-  },
-  {
-    "word": "peintre",
-    "gender": "masculine",
-    "translation": "painter"
   },
   {
     "word": "conducteur",
@@ -1345,7 +1275,7 @@
     "translation": "diplomacy"
   },
   {
-    "word": "médias",
+    "word": "média",
     "gender": "masculine",
     "translation": "media"
   },
@@ -1473,11 +1403,6 @@
     "word": "élevage",
     "gender": "masculine",
     "translation": "livestock"
-  },
-  {
-    "word": "services",
-    "gender": "masculine",
-    "translation": "services"
   },
   {
     "word": "éducation",
