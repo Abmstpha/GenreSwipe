@@ -1,14 +1,14 @@
-# 🇫🇷 French Gender Swipe
+# 🇫🇷 GenreSwipe
 
 An interactive web game to learn French noun genders through a fun, swipe-based interface. Master the difference between *le* (masculine) and *la* (feminine) with instant feedback!
 
 ## 🎮 Live Demo
 
-**[Play Now on Render](https://french-gender-swipe.onrender.com)** 
+**[Play Now on Render](https://genreswipe.onrender.com)** 
 
 ## ✨ Features
 
-- 🎯 **1,149+ French Words** - Extensive vocabulary covering everyday nouns
+- 🎯 **1,134+ French Words** - Extensive vocabulary covering everyday nouns
 - 🎲 **Random Selection** - Each game randomly picks 30 words for variety
 - 📱 **Mobile Responsive** - Swipe gestures on mobile, arrow keys on desktop
 - 🎨 **Modern UI** - Beautiful gradient backgrounds with smooth animations
@@ -33,16 +33,24 @@ An interactive web game to learn French noun genders through a fun, swipe-based 
 ## 📁 Project Structure
 
 ```
-french-gender-swipe/
+GenreSwipe/
 ├── public/
 │   ├── index.html          # Main game interface
-│   └── words.json          # 1,149+ French words database(was using AI API for dynamic generation but cots sucks hahaha)
-├── server.js               # Express server
-├── package.json            # Dependencies
+│   └── words.json          # 1,134+ French words database
+├── utils/
+│   ├── cleanup_words.py    # Remove unsuitable words
+│   ├── count_words.py      # Count total words
+│   ├── create_clean_file.py # Remove duplicates
+│   └── detect_duplicates.py # Find duplicate entries
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml      # CI/CD pipeline
-└── README.md
+├── server.js               # Express server
+├── package.json            # Dependencies
+├── package-lock.json       # Locked dependencies
+├── .gitignore              # Git ignore rules
+├── .env.example            # Environment variables template
+└── README.md               # This file
 ```
 
 ## 🎨 Features Breakdown

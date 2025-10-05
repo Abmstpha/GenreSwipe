@@ -1,7 +1,7 @@
 {
-    "name": "french-gender-swipe",
+    "name": "genreswipe",
     "version": "1.0.0",
-    "description": "French Gender Swipe Game powered by Mistral AI",
+    "description": "GenreSwipe - Interactive French noun gender learning game",
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
@@ -18,9 +18,9 @@
       "french",
       "language",
       "game",
-      "mistral",
-      "ai"
+      "education",
+      "learning"
     ],
-    "author": "Your Name",
+    "author": "Abdellahi El Moustapha",
     "license": "MIT"
   }
