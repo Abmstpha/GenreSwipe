@@ -825,6 +825,7 @@
   <script>
     let currentWords = [], currentWordIndex = 0, score = 0, gameActive = false;
     let history = [];
+    let cachedWords = null; // Cache words globally
     const startScreen = document.getElementById('start-screen');
     const loadingScreen = document.getElementById('loading-screen');
     const gameScreen = document.getElementById('game-screen');
@@ -843,11 +844,18 @@
     const reviewPanel = document.getElementById('review-panel');
     const reviewHistoryList = document.getElementById('review-history-list');
 
-    async function loadLocalWords() {
+    // Load words once on page load
+    async function loadWordsOnce() {
+      if (cachedWords) return cachedWords;
       const res = await fetch('/words.json');
       if (!res.ok) throw new Error('Unable to fetch local words.json');
-      const allWords = await res.json();
-      return shuffle(allWords).slice(0, 30);
+      cachedWords = await res.json();
+      return cachedWords;
+    }
+
+    async function loadLocalWords() {
+      const allWords = await loadWordsOnce();
+      return shuffle([...allWords]).slice(0, 30);
     }
 
     function shuffle(arr) {
