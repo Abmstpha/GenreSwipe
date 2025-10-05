@@ -857,7 +857,7 @@
     async function startGame() {
       currentWords = []; currentWordIndex = 0; score = 0; gameActive = false;
       history = [];
-      hideAllScreens(); loadingScreen.style.display = 'block';
+      hideAllScreens();
       try {
         currentWords = await loadLocalWords();
       } catch (e) {
