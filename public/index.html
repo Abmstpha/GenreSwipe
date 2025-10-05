@@ -377,7 +377,6 @@
     }
 
     /* --- Overlay + Review Panel Styles --- */
-    /* --- Fixed Modern Overlay + Review Panel Styles --- */
     #review-overlay {
       display: none;
       position: fixed;
@@ -386,19 +385,16 @@
       right: 0;
       bottom: 0;
       width: 100vw;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.4);
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.5);
       backdrop-filter: blur(8px);
       z-index: 9999;
-      opacity: 0;
-      transition: opacity 0.3s ease, backdrop-filter 0.3s ease;
     }
     
     #review-overlay.show {
       display: flex;
       align-items: center;
       justify-content: center;
-      opacity: 1;
     }
     
     #review-panel {
@@ -407,20 +403,13 @@
       max-width: 500px;
       max-height: 90vh;
       min-height: 300px;
-      background: rgba(255, 255, 255, 0.95);
-      backdrop-filter: blur(20px);
+      background: white;
       border-radius: 24px;
-      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.25);
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
       padding: 20px;
       display: flex;
       flex-direction: column;
-      transform: scale(0.8);
-      transition: transform 0.3s ease;
       outline: none;
-    }
-    
-    #review-overlay.show #review-panel {
-      transform: scale(1);
     }
     
     .review-close-btn {
@@ -992,22 +981,14 @@
         reviewHistoryList.appendChild(div);
       });
       
-      // Show overlay with smooth animation
-      reviewOverlay.style.display = 'flex';
-      requestAnimationFrame(() => {
-        reviewOverlay.classList.add('show');
-      });
-      
-      reviewPanel.focus();
+      // Show overlay immediately
+      reviewOverlay.classList.add('show');
       document.body.style.overflow = 'hidden';
     }
 
     function closeReviewPanel() {
       reviewOverlay.classList.remove('show');
-      setTimeout(() => {
-        reviewOverlay.style.display = 'none';
-        document.body.style.overflow = '';
-      }, 300);
+      document.body.style.overflow = '';
     }
 
     // Click outside to close (but not when clicking inside the panel)
