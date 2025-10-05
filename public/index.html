@@ -390,13 +390,14 @@
       background: rgba(0, 0, 0, 0.4);
       backdrop-filter: blur(8px);
       z-index: 9999;
-      align-items: center;
-      justify-content: center;
       opacity: 0;
       transition: opacity 0.3s ease, backdrop-filter 0.3s ease;
     }
     
     #review-overlay.show {
+      display: flex;
+      align-items: center;
+      justify-content: center;
       opacity: 1;
     }
     
